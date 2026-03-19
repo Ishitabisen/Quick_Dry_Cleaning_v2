@@ -1,1 +1,1 @@
-# -Quick_Dry_Cleaning
+# Quick_Dry_Cleaning
