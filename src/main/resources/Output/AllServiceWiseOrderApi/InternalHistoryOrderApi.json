@@ -2122,6 +2122,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "656"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18495",
+  "Customer Details" : "rahul arya  d27 gulmohar park",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "23 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "960"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G18256",
