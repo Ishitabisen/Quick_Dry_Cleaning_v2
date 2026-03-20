@@ -1968,6 +1968,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "265"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18496",
+  "Customer Details" : "Maya gulmohar park",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "21 Mar 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR (PLAIN)",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "525"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18497",
+  "Customer Details" : "Hannah G 9 3rd floor green park main",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "23 Mar 2026",
+  "Garment Details Qty Wise" : "1-BLANKET SINGLE, 1-COAT, 1-OVERCOAT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1310"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -2385,6 +2407,28 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "525"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18498",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "20 Mar 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "350"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18499",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "20 Mar 2026",
+  "Garment Details Qty Wise" : "1-WAIST COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "260"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
