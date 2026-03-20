@@ -5652,4 +5652,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3012",
+  "Customer Details" : "Mridul Agarwal c 260 defence colony",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "23 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 } ]
