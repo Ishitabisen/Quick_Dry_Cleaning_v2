@@ -52,18 +52,15 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Detect the current branch
           BRANCH=$(git rev-parse --abbrev-ref HEAD)
-
-          # Stage changes
-          git add src/main/resources/Output/*
+      
+          git add src/main/resources/Output/
           
-          # Check for changes using standard Bash 'if' syntax
-          if [ -n "$(git status --porcelain)" ]; then
-              echo "Changes detected. Committing updates..."
+          if ! git diff --cached --quiet; then
+              echo "Changes detected in Output folder. Committing updates..."
               git commit -m "Automated update: OrderReport and Branch APIs"
               git pull --rebase origin $BRANCH
               git push origin $BRANCH
           else
-              echo "No changes detected. Skipping push."
+              echo "No changes detected in the target path. Skipping push."
           fi
