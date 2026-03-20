@@ -5444,6 +5444,17 @@
   "Pcs" : "12",
   "Amount without Tax & Discount" : "3240"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3013",
+  "Customer Details" : "Diya mehara c 438 2nd flore defence colony",
+  "Order Date" : "20 Mar 2026",
+  "Due Date" : "23 Mar 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA  (PLAIN), 1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "550"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D2971",
