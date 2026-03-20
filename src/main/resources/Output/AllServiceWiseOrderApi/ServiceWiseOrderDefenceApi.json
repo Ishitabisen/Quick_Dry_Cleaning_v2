@@ -7,6 +7,13 @@
   "Pcs" : "128"
 }, {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Home Services",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "1950",
+  "Quantity" : "5",
+  "Pcs" : "5"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Premium Laundry",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "1120",
