@@ -3915,6 +3915,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "400"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4692",
+  "Customer Details" : "Anamika F 1153 fst floor c r  park",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-KAMEEZ /KURTA (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "610"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4583",
