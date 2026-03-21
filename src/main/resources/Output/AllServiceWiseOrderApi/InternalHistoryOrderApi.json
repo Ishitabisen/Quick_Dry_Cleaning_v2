@@ -5048,6 +5048,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "2130"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3369",
+  "Customer Details" : "MANSHI C 134 GOLF VIEW APPT SAKET",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "3-COAT, 1-DUPATTA (LIGHT), 2-JACKET, 1-KAMEEZ /KURTA (HEAVY), 1-KAMEEZ /KURTA (LIGHT), 1-PANTS, 1-PYJAMA",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2850"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3298",
@@ -5245,6 +5256,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3369",
+  "Customer Details" : "MANSHI C 134 GOLF VIEW APPT SAKET",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "3-COAT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "30"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
