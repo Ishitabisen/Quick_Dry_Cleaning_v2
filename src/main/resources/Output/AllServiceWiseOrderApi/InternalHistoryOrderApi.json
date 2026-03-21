@@ -2067,6 +2067,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "930"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18509",
+  "Customer Details" : "dharmender singh B11 house no 8243 vk",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "25 Mar 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-SHIRT, 2-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -2539,6 +2550,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "80"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18509",
+  "Customer Details" : "dharmender singh B11 house no 8243 vk",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "25 Mar 2026",
+  "Garment Details Qty Wise" : "2-SHIRT, 2-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "260"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -5631,6 +5653,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "410"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3016",
+  "Customer Details" : "Shinya c504 defience colony",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "480"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3014",
@@ -5674,6 +5707,17 @@
   "Qty" : "4",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "2796"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3016",
+  "Customer Details" : "Shinya c504 defience colony",
+  "Order Date" : "21 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "1-SUEDE SHOES",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "899"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Defence Colony",
