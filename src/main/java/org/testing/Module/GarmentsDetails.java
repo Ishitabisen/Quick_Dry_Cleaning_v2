@@ -26,16 +26,16 @@ public class GarmentsDetails {
 
         try {
             driver.get("https://subs3.quickdrycleaning.com/superadmin/Login");
-            //String userId = System.getenv("USER_ID");
-            //String userPass = System.getenv("USER_PASS");
+            String userId = System.getenv("USER_ID");
+            String userPass = System.getenv("USER_PASS");
 
             WebElement userField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("txtUserId")));
             userField.clear();
-            userField.sendKeys("drjaskaransingh@outlook.com");
+            userField.sendKeys(userId);
 
             WebElement passField = driver.findElement(By.id("txtPassword"));
             passField.clear();
-            passField.sendKeys("admin@123");
+            passField.sendKeys(userPass);
 
             WebElement loginBtn = driver.findElement(By.id("btnLogin"));
             try {
