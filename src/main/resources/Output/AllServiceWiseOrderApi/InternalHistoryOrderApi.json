@@ -2111,6 +2111,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "3770"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18514",
+  "Customer Details" : "rahul arya  d27 gulmohar park",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 1-BED SPREAD SINGLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "610"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18515",
+  "Customer Details" : "Arti D15 GP",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "2-CARPET",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "960"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -5850,6 +5872,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3019",
+  "Customer Details" : "Rajat Dll/12 1st flore cpwd House",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "1-CARPET, 2-JACKET",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1540"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
