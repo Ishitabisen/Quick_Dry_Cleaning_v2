@@ -5059,6 +5059,17 @@
   "Pcs" : "10",
   "Amount without Tax & Discount" : "2850"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3370",
+  "Customer Details" : "vikram singh g 95  2nd floor g block saket",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "130"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3298",
@@ -5268,6 +5279,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3370",
+  "Customer Details" : "vikram singh g 95  2nd floor g block saket",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
   "Order Number" : "S3333",
@@ -5344,6 +5366,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "745"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3370",
+  "Customer Details" : "vikram singh g 95  2nd floor g block saket",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "80"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Saket",
@@ -5850,6 +5883,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "585"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3017",
+  "Customer Details" : "Pragyan D 350 Defence Colony Coke to back side Service lane next to park",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "504"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Defence Colony",
