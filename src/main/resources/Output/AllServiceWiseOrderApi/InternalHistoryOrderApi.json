@@ -2089,6 +2089,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "340"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18512",
+  "Customer Details" : "Ravish X43 green park main ground floor",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "3-BLANKET SINGLE, 2-DRESS (LIGHT), 2-DUPATTA (LIGHT), 1-KURTA LIGHT, 1-PALAZO, 1-PYJAMA (LIGHT), 1-QUILT SINGLE, 1-WAIST COAT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "3500"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18513",
+  "Customer Details" : "manusi c34 gp mian 1st flr",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-CARPET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "3770"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -6081,4 +6103,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3018",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1260"
 } ]
