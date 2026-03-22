@@ -2133,6 +2133,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "960"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18516",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "3-COAT, 1-DRESS (LIGHT), 3-DUPATTA (LIGHT), 2-KAMEEZ /KURTA (LIGHT), 1-PANTS, 2-SALWAR, 6-SHIRT, 1-SKIRT, 2-TIE, 1-TOP (LIGHT)",
+  "Qty" : "22",
+  "Pcs" : "22",
+  "Amount without Tax & Discount" : "4168"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18517",
+  "Customer Details" : "Rinki greenpark near evergreen",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "26 Mar 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 4-KAMEEZ /KURTA (LIGHT), 1-PANTS, 4-SALWAR, 1-SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "2130"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -2473,6 +2495,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "899"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18516",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "1-SPORTS SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "499"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
@@ -4014,6 +4047,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "410"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4695",
+  "Customer Details" : "Aayush mohanty pocket 40 house no 194 3rd floor c r park",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "2-JACKET, 1-JACKET HALF, 2-OVERCOAT, 1-PULLOVER",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "2370"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4583",
@@ -4131,6 +4175,17 @@
   "Order Date" : "18 Mar 2026",
   "Due Date" : "20 Mar 2026",
   "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4695",
+  "Customer Details" : "Aayush mohanty pocket 40 house no 194 3rd floor c r park",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "2-OVERCOAT",
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
