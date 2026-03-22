@@ -2155,6 +2155,17 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "2130"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18518",
+  "Customer Details" : "Sri ram Green park",
+  "Order Date" : "22 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-JACKET, 2-QUILT DOUBLE, 9-SWEAT SHIRT",
+  "Qty" : "13",
+  "Pcs" : "13",
+  "Amount without Tax & Discount" : "4610"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
