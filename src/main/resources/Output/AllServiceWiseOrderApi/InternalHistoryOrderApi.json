@@ -2188,6 +2188,17 @@
   "Pcs" : "35",
   "Amount without Tax & Discount" : "16775"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18523",
+  "Customer Details" : "manoj N6 gp",
+  "Order Date" : "23 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "3-T SHIRT, 3-TRACK PANT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
