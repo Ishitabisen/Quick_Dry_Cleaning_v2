@@ -2177,6 +2177,17 @@
   "Pcs" : "10",
   "Amount without Tax & Discount" : "1800"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18521",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "23 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "6-CURTAIN (6 FEET WITH LINING), 8-CURTAIN (8 FEET WITH LINING), 2-HAND TOWEL, 3-HANDKERCHIEF, 6-PANTS, 1-PULLOVER, 5-SHIRT, 1-SWEAT SHIRT, 1-T SHIRT, 2-TRACK PANT",
+  "Qty" : "35",
+  "Pcs" : "35",
+  "Amount without Tax & Discount" : "16775"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -3100,6 +3111,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "708"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18522",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "23 Mar 2026",
+  "Due Date" : "23 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -5300,6 +5322,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "2600"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3373",
+  "Customer Details" : "anju mittal d 250 sainik farm",
+  "Order Date" : "23 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "130"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
