@@ -2694,6 +2694,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "260"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18524",
+  "Customer Details" : "Ulysse F42 gp main",
+  "Order Date" : "23 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 3-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "275"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18259",
