@@ -5631,6 +5631,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "550"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3380",
+  "Customer Details" : "VANSH MAHESHWARI GAURAV APPT G 34",
+  "Order Date" : "25 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "2-COAT, 2-PANTS, 1-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1150"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3298",
@@ -5850,6 +5861,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3380",
+  "Customer Details" : "VANSH MAHESHWARI GAURAV APPT G 34",
+  "Order Date" : "25 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "1-SHIRT, 2-COAT, 2-PANTS",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "60"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
