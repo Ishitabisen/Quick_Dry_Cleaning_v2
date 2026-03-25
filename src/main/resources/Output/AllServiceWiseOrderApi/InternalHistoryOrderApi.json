@@ -2298,6 +2298,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1600"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18537",
+  "Customer Details" : "Shubham M 10 green park main",
+  "Order Date" : "25 Mar 2026",
+  "Due Date" : "28 Mar 2026",
+  "Garment Details Qty Wise" : "1-OVERCOAT, 1-PYJAMA (LIGHT), 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "840"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
