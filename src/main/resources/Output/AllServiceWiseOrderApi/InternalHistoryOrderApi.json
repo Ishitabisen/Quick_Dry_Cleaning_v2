@@ -2353,6 +2353,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "410"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18542",
+  "Customer Details" : "mahender sir khel gaon 380",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "3-PANTS, 7-SHIRT",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "1390"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18543",
+  "Customer Details" : "punjab sindh banck N B CC Bulding",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-COAT, 1-DUPATTA (LIGHT), 1-JACKET HALF, 1-KAMEEZ /KURTA (LIGHT), 3-PANTS, 1-SALWAR, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SWEATER (FULL SLEEVE), 1-WAIST COAT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "2810"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
