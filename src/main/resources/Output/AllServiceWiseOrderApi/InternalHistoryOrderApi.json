@@ -2430,6 +2430,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "900"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18549",
+  "Customer Details" : "parvesh gp",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "2-COAT, 1-PANTS",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "860"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -6785,4 +6796,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3023",
+  "Customer Details" : "Das Gupta c 531 Defence colony",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
 } ]
