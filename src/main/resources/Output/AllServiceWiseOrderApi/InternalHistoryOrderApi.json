@@ -2441,6 +2441,39 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "860"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18550",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "520"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18551",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 2-PANTS, 1-SALWAR, 3-SHIRT, 3-SHORTS, 2-T SHIRT",
+  "Qty" : "13",
+  "Pcs" : "13",
+  "Amount without Tax & Discount" : "1780"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18552",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "29 Mar 2026",
+  "Garment Details Qty Wise" : "2-CURTAIN (8 FEET WITH LINING), 2-CURTAIN (8 FEET WITHOUT LINING)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "2480"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -4508,6 +4541,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "640"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4703",
+  "Customer Details" : "RAKSHIKA POCKET 40  76   G F",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "350"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
