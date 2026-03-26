@@ -4553,6 +4553,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "350"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4704",
+  "Customer Details" : "anamika landlord",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SCARF, 2-SHAWL (LOHI)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1340"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4583",
@@ -5773,6 +5784,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1150"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3381",
+  "Customer Details" : "tarun  d 20 1st floor saket",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE, 4-PANTS, 2-T SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1410"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
