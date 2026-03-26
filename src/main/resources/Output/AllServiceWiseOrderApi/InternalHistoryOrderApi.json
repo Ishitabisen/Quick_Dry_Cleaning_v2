@@ -6423,6 +6423,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "260"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3022",
+  "Customer Details" : "D R UB SINGH D2 ANDREWS GANJ",
+  "Order Date" : "26 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "2-DUPATTA  (PLAIN), 2-KAMEEZ /KURTA (LIGHT), 2-SALWAR",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1100"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3014",
