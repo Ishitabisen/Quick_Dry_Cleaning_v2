@@ -2485,6 +2485,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "320"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18555",
+  "Customer Details" : "Neha Jain D 7 3rd floor Green park main",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "2-KURTA LIGHT, 1-LUNGI / DHOTI (SILK), 1-PANTS, 1-PYJAMA (LIGHT), 1-STOLE",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1360"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -2535,6 +2546,17 @@
   "Customer Details" : "Hyat hauzkhas",
   "Order Date" : "18 Mar 2026",
   "Due Date" : "18 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "0"
+}, {
+  "Service Name" : "Express",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18556",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "27 Mar 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
@@ -3496,6 +3518,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "300"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18556",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "27 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "204"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -4585,6 +4618,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1340"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4705",
+  "Customer Details" : "ANIRUDH B 300 2ND FLOOR",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE, 1-DOHAR (DOUBLE), 1-QUILT DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1480"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
