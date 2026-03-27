@@ -2540,6 +2540,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "130"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18562",
+  "Customer Details" : "Digvijay Singh M9 Greenpark Ext",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "6-JACKET, 1-JACKET HALF, 1-PULLOVER, 10-SHIRT, 15-SWEAT SHIRT, 1-SWEATER (HALF SLEEVE), 4-T SHIRT",
+  "Qty" : "38",
+  "Pcs" : "38",
+  "Amount without Tax & Discount" : "9240"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -4707,6 +4718,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1480"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4706",
+  "Customer Details" : "shwetha gopalakrishnan P/95 2nd floor c r park",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "510"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4707",
+  "Customer Details" : "siddharth biswas dry washche",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-BLAZER, 1-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "480"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4583",
@@ -6730,6 +6763,17 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1100"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3026",
+  "Customer Details" : "D R meeta sharma A 21 2nd floor defence colony",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-DRESS (LIGHT), 2-JACKET, 3-KAMEEZ /KURTA (LIGHT), 2-PILLOW COVERS (COTTON), 1-TABLE CLOTH (SMALL)",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2538"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
