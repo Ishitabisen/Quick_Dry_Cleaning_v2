@@ -2474,6 +2474,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "2480"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18554",
+  "Customer Details" : "isabel c4/132 sda",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "2-STOLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "320"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -3144,6 +3155,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "810"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18553",
+  "Customer Details" : "Ankith X 59 green park mains",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -6719,6 +6741,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "504"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3024",
+  "Customer Details" : "Jakckson c 311 defence colony",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Defence Colony",
