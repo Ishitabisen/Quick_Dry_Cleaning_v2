@@ -2496,6 +2496,28 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18557",
+  "Customer Details" : "sashi green pakr",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18558",
+  "Customer Details" : "kamal mall a24 gp main",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -6950,4 +6972,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3025",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "27 Mar 2026",
+  "Due Date" : "30 Mar 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1380"
 } ]
