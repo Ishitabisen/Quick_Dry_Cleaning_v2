@@ -2617,6 +2617,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1050"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18571",
+  "Customer Details" : "anu kumari  b10gp main",
+  "Order Date" : "28 Mar 2026",
+  "Due Date" : "04 Apr 2026",
+  "Garment Details Qty Wise" : "1-CARPET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "720"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -6939,6 +6950,17 @@
   "Qty" : "10",
   "Pcs" : "10",
   "Amount without Tax & Discount" : "2538"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3027",
+  "Customer Details" : "Mrs Khandwal D 160 1st Defence colony",
+  "Order Date" : "28 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "130"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
