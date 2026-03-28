@@ -2661,6 +2661,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "640"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18576",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "28 Mar 2026",
+  "Due Date" : "01 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 3-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "710"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18385",
@@ -3408,6 +3419,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18577",
+  "Customer Details" : "Shankar t3 green park",
+  "Order Date" : "28 Mar 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "495"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -4959,6 +4981,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "560"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4717",
+  "Customer Details" : "Aayush mohanty pocket 40 house no 194 3rd floor c r park",
+  "Order Date" : "28 Mar 2026",
+  "Due Date" : "08 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE, 1-QUILT DOUBLE, 1-QUILT SINGLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1480"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
