@@ -262,10 +262,10 @@
   "Discount" : "0.00",
   "Net Amount" : "350.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -289,10 +289,10 @@
   "Discount" : "0.00",
   "Net Amount" : "350.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -343,10 +343,10 @@
   "Discount" : "0.00",
   "Net Amount" : "260.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -370,10 +370,10 @@
   "Discount" : "0.00",
   "Net Amount" : "260.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -586,10 +586,10 @@
   "Discount" : "225.00",
   "Net Amount" : "225.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -613,10 +613,10 @@
   "Discount" : "155.00",
   "Net Amount" : "155.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -640,10 +640,10 @@
   "Discount" : "155.00",
   "Net Amount" : "155.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -667,10 +667,10 @@
   "Discount" : "175.00",
   "Net Amount" : "175.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -694,10 +694,10 @@
   "Discount" : "155.00",
   "Net Amount" : "155.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -721,10 +721,10 @@
   "Discount" : "0.00",
   "Net Amount" : "585.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "29 Mar 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
