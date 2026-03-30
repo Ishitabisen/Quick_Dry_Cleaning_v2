@@ -7567,6 +7567,17 @@
   "Pcs" : "13",
   "Amount without Tax & Discount" : "1830"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3032",
+  "Customer Details" : "Uday B 10",
+  "Order Date" : "30 Mar 2026",
+  "Due Date" : "04 Apr 2026",
+  "Garment Details Qty Wise" : "1-OVER COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "550"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3014",
