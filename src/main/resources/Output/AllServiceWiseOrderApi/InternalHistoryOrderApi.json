@@ -98,6 +98,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "408"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18608",
+  "Customer Details" : "parth noida",
+  "Order Date" : "01 Apr 2026",
+  "Due Date" : "04 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "840"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
@@ -141,6 +152,17 @@
   "Qty" : "7",
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1577"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4729",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "01 Apr 2026",
+  "Due Date" : "10 Apr 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "560"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
