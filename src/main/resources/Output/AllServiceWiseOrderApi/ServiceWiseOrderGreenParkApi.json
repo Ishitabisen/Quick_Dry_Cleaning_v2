@@ -7,6 +7,13 @@
   "Pcs" : "21"
 }, {
   "Store Name" : "Greenpark",
+  "Service Name" : "Leather Care",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "1897",
+  "Quantity" : "3",
+  "Pcs" : "5"
+}, {
+  "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "2568",
