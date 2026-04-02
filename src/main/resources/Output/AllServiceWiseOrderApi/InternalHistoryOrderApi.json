@@ -153,6 +153,39 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1960"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18621",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "2-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "195"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18624",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT, 2-T SHIRT, 1-TRACK SUIT",
+  "Qty" : "7",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1310"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18625",
+  "Customer Details" : "niti B10 GP MIAN 2ND FLR left side gate",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "3-DRESS (LIGHT), 1-TOP (LIGHT)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1230"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -196,6 +229,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "160"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18623",
+  "Customer Details" : "Mayank gp",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "03 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -251,6 +295,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18622",
+  "Customer Details" : "Anirudh 27/1 Arjun nagar",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "03 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "840"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -504,6 +559,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1050"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3036",
+  "Customer Details" : "Chals c286 2nd flore",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT, 2-PANTS",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "670"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
