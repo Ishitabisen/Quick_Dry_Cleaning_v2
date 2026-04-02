@@ -98,6 +98,61 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "390"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18615",
+  "Customer Details" : "taniya chopra A65 gautam nagar",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "305"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18616",
+  "Customer Details" : "raj singer hauz khas village",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 2-PILLOW COVERS (COTTON), 1-PYJAMA (LIGHT), 4-SHIRT, 1-T SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1368"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18617",
+  "Customer Details" : "raj singer hauz khas village",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "160"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18618",
+  "Customer Details" : "sahil gupta  F90 gp mian 2bd flr",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "05 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "350"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18619",
+  "Customer Details" : "punjab sindh banck N B CC Bulding",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "2-COAT, 1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 2-PANTS, 1-SALWAR, 1-SHAWL (LOHI)",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1960"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G18609",
