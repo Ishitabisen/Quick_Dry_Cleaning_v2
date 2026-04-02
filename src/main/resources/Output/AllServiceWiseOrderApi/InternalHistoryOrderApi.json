@@ -241,6 +241,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "350"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4731",
+  "Customer Details" : "Urvashi H1552 3rd floor CR Park",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "08 Apr 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 2-DUPATTA  (PLAIN), 1-JEANS, 3-KAMEEZ /KURTA (LIGHT), 2-SALWAR",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1700"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
   "Order Number" : "C4726",
@@ -284,6 +295,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "275"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4732",
+  "Customer Details" : "Urvashi H1552 3rd floor CR Park",
+  "Order Date" : "02 Apr 2026",
+  "Due Date" : "08 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
