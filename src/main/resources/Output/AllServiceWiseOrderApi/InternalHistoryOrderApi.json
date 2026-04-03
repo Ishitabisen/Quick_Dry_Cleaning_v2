@@ -274,6 +274,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "350"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18638",
+  "Customer Details" : "Mrinal w 25 3rd floor gp",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "130"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -560,6 +571,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "700"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4739",
+  "Customer Details" : "jonathan E/831 1st floor c r park",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "10 Apr 2026",
+  "Garment Details Qty Wise" : "3-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "390"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -603,6 +625,17 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "499"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4739",
+  "Customer Details" : "jonathan E/831 1st floor c r park",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "10 Apr 2026",
+  "Garment Details Qty Wise" : "2-SPORTS SHOES",
+  "Qty" : "2",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "998"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
