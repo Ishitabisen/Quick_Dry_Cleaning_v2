@@ -219,6 +219,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "580"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18631",
+  "Customer Details" : "sandeep sabbathi D11 tower 17 kidwaei ngar",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "2-DUPATTA  (PLAIN), 2-JACKET, 2-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1640"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -615,6 +626,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "690"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3399",
+  "Customer Details" : "r k dhanuja G 13 gaurab apartment",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-JACKET, 1-QUILT SINGLE, 1-SHAWL (LOHI)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1470"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3400",
+  "Customer Details" : "aarti chaudhary d 20 golf view apartment",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "08 Apr 2026",
+  "Garment Details Qty Wise" : "3-JACKET, 1-JACKET HALF, 3-SWEATER (FULL SLEEVE)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "2240"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
@@ -641,6 +674,17 @@
   "Store Name" : "Saket",
   "Order Number" : "S3398",
   "Customer Details" : "sanchita e 96 1st floor saket",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3399",
+  "Customer Details" : "r k dhanuja G 13 gaurab apartment",
   "Order Date" : "03 Apr 2026",
   "Due Date" : "06 Apr 2026",
   "Garment Details Qty Wise" : "1-COAT",
@@ -680,6 +724,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "670"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3038",
+  "Customer Details" : "Sumeru INC c 438 1st floor  defence colony",
+  "Order Date" : "03 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (HEAVY), 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "520"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
