@@ -64,3 +64,9 @@ jobs:
           else
               echo "No changes detected in the target path. Skipping push."
           fi
+      - name: Trigger Google Apps Script Refresh
+        run: |
+          echo "Notifying Sheet A..."
+          curl -L "${{ secrets.GAS_URL_SHEET_A }}"
+          echo "Notifying Sheet B..."
+          curl -L "${{ secrets.GAS_URL_SHEET_B }}"
