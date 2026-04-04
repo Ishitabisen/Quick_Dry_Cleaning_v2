@@ -626,6 +626,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "160"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4741",
+  "Customer Details" : "apeksha J 74 3rd floor kalkaji",
+  "Order Date" : "04 Apr 2026",
+  "Due Date" : "10 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1120"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
