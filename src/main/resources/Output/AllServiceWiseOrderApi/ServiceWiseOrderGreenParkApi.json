@@ -2,9 +2,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "18428",
-  "Quantity" : "81",
-  "Pcs" : "84"
+  "Amount without Tax & Discount" : "21918",
+  "Quantity" : "92",
+  "Pcs" : "95"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Express",
@@ -16,16 +16,16 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Leather Care",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "3893",
-  "Quantity" : "7",
-  "Pcs" : "13"
+  "Amount without Tax & Discount" : "4392",
+  "Quantity" : "8",
+  "Pcs" : "15"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "420",
-  "Quantity" : "6",
-  "Pcs" : "6"
+  "Amount without Tax & Discount" : "485",
+  "Quantity" : "7",
+  "Pcs" : "7"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Fold",
