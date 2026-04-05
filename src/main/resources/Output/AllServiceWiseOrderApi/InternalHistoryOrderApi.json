@@ -417,6 +417,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "160"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18656",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 3-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "710"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -456,6 +467,28 @@
   "Customer Details" : "mayur F4 hauz khas",
   "Order Date" : "04 Apr 2026",
   "Due Date" : "08 Apr 2026",
+  "Garment Details Qty Wise" : "1-SPORTS SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "499"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18654",
+  "Customer Details" : "usha chaudhry f33 gp mian",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "1-LEATHER HANDBAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1099"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18655",
+  "Customer Details" : "Dr Shivani gp",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "09 Apr 2026",
   "Garment Details Qty Wise" : "1-SPORTS SHOES",
   "Qty" : "1",
   "Pcs" : "2",
