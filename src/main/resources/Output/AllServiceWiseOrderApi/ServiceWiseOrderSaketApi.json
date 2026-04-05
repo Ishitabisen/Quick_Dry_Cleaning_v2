@@ -26,4 +26,11 @@
   "Amount without Tax & Discount" : "1499",
   "Quantity" : "1",
   "Pcs" : "1"
+}, {
+  "Store Name" : "Saket",
+  "Service Name" : "Wash and Fold",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "450",
+  "Quantity" : "1",
+  "Pcs" : "1"
 } ]
