@@ -395,6 +395,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18652",
+  "Customer Details" : "babita goyal C4 45 sda",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "3-CHOLI / BLOUSE (LIGHT), 8-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 3-SALWAR, 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "17",
+  "Pcs" : "17",
+  "Amount without Tax & Discount" : "3320"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18653",
+  "Customer Details" : "babita goyal C4 45 sda",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "160"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -802,6 +824,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "860"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4748",
+  "Customer Details" : "nilanjana D/627 3rd floor c r park",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLAZER, 1-PULLOVER, 1-SALWAR, 1-TOP (LIGHT)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1000"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -809,6 +842,17 @@
   "Order Date" : "02 Apr 2026",
   "Due Date" : "08 Apr 2026",
   "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4748",
+  "Customer Details" : "nilanjana D/627 3rd floor c r park",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLAZER",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
