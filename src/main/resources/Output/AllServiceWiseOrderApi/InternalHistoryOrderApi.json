@@ -604,6 +604,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "522"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18661",
+  "Customer Details" : "Marie gp",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "06 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18600",
@@ -933,6 +944,28 @@
   "Qty" : "12",
   "Pcs" : "12",
   "Amount without Tax & Discount" : "3560"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4750",
+  "Customer Details" : "aditya B/143 B/143 1st floor c r park",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "11 Apr 2026",
+  "Garment Details Qty Wise" : "2-CARPET, 1-CHOLI / BLOUSE (LIGHT), 1-DUPATTA  (PLAIN), 1-KAMEEZ /KURTA (LIGHT), 1-SALWAR, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SCARF, 1-SWEAT SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "4690"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4751",
+  "Customer Details" : "gajendar c r park police",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "11 Apr 2026",
+  "Garment Details Qty Wise" : "1-JACKET HALF, 2-PANTS, 2-SHIRT, 1-T SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "970"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
@@ -1340,6 +1373,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "520"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3040",
+  "Customer Details" : "anuj bajaj a 444 defence colony",
+  "Order Date" : "05 Apr 2026",
+  "Due Date" : "11 Apr 2026",
+  "Garment Details Qty Wise" : "2-BLANKET SINGLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "820"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
