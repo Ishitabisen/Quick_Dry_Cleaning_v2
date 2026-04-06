@@ -582,6 +582,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "145"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18677",
+  "Customer Details" : "Sidhant gp",
+  "Order Date" : "06 Apr 2026",
+  "Due Date" : "09 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "580"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
