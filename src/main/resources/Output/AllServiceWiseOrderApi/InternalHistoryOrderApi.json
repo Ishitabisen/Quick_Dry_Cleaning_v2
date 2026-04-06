@@ -1451,6 +1451,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "820"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3041",
+  "Customer Details" : "Astha Gupta Jungpura post officei blockbirbal roadjungpura extension",
+  "Order Date" : "06 Apr 2026",
+  "Due Date" : "10 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "640"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3033",
