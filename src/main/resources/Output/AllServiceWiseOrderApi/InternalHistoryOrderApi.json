@@ -802,6 +802,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "840"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18710",
+  "Customer Details" : "Tulika gp",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "2-CARPET, 1-CHOLI / BLOUSE (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 3-KURTA LIGHT, 1-PYJAMA (LIGHT)",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1896"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -988,6 +999,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "457.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18710",
+  "Customer Details" : "Tulika gp",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "1-TOP (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -2154,6 +2176,17 @@
   "Qty" : "8",
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1040"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3047",
+  "Customer Details" : "U B Singh D2 ANDREWS Ganj",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "4-DUPATTA  (PLAIN), 4-KAMEEZ /KURTA (LIGHT), 4-SALWAR",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "2200"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
