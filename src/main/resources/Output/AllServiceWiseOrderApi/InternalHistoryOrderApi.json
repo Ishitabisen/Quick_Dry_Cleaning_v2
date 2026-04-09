@@ -912,6 +912,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "699"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18709",
+  "Customer Details" : "Manoj R 886 rajender nagar",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "3-SPORTS SHOES, 2-SUEDE SHOES",
+  "Qty" : "5",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "3295"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18612",
@@ -1241,6 +1252,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "408"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18708",
+  "Customer Details" : "Rekha hotel haitan saket",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "11 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",

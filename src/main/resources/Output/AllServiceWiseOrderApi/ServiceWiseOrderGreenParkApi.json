@@ -23,9 +23,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Leather Care",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "8488",
-  "Quantity" : "13",
-  "Pcs" : "23"
+  "Amount without Tax & Discount" : "11783",
+  "Quantity" : "18",
+  "Pcs" : "31"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
@@ -44,7 +44,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "12024",
-  "Quantity" : "17",
-  "Pcs" : "17"
+  "Amount without Tax & Discount" : "12504",
+  "Quantity" : "18",
+  "Pcs" : "18"
 } ]
