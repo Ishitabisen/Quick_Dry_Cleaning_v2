@@ -1803,6 +1803,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "90"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4765",
+  "Customer Details" : "nikhel sharma  162  top floor deshbhandhu apartments",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "13 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "657"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C4732",
