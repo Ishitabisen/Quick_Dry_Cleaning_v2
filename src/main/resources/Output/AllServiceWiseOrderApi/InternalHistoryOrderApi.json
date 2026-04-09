@@ -813,6 +813,28 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1896"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18711",
+  "Customer Details" : "Sidhant gp",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "290"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18712",
+  "Customer Details" : "raj singer hauz khas village",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "12 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 7-PANTS, 2-PILLOW COVERS (COTTON), 4-SHIRT",
+  "Qty" : "14",
+  "Pcs" : "14",
+  "Amount without Tax & Discount" : "2198"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1615,6 +1637,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "700"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4764",
+  "Customer Details" : "Sandeep E 817 2nd floor c r park",
+  "Order Date" : "09 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "980"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
