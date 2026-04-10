@@ -868,6 +868,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "680"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18716",
+  "Customer Details" : "punjab sindh banck N B CC Bulding",
+  "Order Date" : "10 Apr 2026",
+  "Due Date" : "13 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-KAMEEZ /KURTA (LIGHT), 1-PANTS, 1-SALWAR, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-WAIST COAT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1600"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2100,6 +2111,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1230"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3419",
+  "Customer Details" : "r k dhanuja G 13 gaurab apartment",
+  "Order Date" : "10 Apr 2026",
+  "Due Date" : "13 Apr 2026",
+  "Garment Details Qty Wise" : "2-PULLOVER",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "620"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
@@ -2286,6 +2308,17 @@
   "Qty" : "12",
   "Pcs" : "12",
   "Amount without Tax & Discount" : "2200"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3049",
+  "Customer Details" : "nikhaar a 317 defence colony",
+  "Order Date" : "10 Apr 2026",
+  "Due Date" : "13 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "130"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
