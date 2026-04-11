@@ -912,6 +912,50 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18722",
+  "Customer Details" : "shalu b7 gp main 2nd flr",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 1-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18723",
+  "Customer Details" : "Mohit pandey green park",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "3-PANTS, 3-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18724",
+  "Customer Details" : "Anuj Delhi Police",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "580"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18725",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 5-PANTS, 1-PYJAMA (LIGHT), 4-SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "1740"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1934,6 +1978,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "513"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4768",
+  "Customer Details" : "adhiraj singh 12/1 okhla phes 2",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "13 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
