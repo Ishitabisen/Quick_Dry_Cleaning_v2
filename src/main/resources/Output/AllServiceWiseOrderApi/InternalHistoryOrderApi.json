@@ -1572,6 +1572,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18737",
+  "Customer Details" : "PALAK E 13 1st floor green park extention 110016",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "960"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
