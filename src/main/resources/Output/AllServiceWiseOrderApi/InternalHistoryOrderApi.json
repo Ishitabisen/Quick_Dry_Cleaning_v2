@@ -1011,6 +1011,39 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "710"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18733",
+  "Customer Details" : "Aseem M 5 green park main",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET SINGLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18735",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "6-PANTS, 8-SHIRT",
+  "Qty" : "14",
+  "Pcs" : "14",
+  "Amount without Tax & Discount" : "2000"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18736",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "2-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "195"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1516,6 +1549,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18732",
+  "Customer Details" : "Raunik M5 green park main",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18734",
+  "Customer Details" : "Rekha hotel haitan saket",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",

@@ -2,9 +2,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "89767",
-  "Quantity" : "416",
-  "Pcs" : "440"
+  "Amount without Tax & Discount" : "92222",
+  "Quantity" : "433",
+  "Pcs" : "457"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Express",
@@ -44,7 +44,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "13584",
-  "Quantity" : "20",
-  "Pcs" : "20"
+  "Amount without Tax & Discount" : "14544",
+  "Quantity" : "22",
+  "Pcs" : "22"
 } ]
