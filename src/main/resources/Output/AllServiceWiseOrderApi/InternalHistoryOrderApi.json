@@ -1000,6 +1000,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "350"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18730",
+  "Customer Details" : "Shivani gupta b4/143 sje 4th floor",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA, 1-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "710"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1494,6 +1505,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18731",
+  "Customer Details" : "Hyat hauzkhas",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -2573,6 +2595,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "160"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3052",
+  "Customer Details" : "R P Singh b 62 basement",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "11 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "700"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3041",
@@ -2682,4 +2715,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1260"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3053",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "11 Apr 2026",
+  "Due Date" : "15 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1500"
 } ]
