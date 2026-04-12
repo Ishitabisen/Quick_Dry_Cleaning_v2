@@ -1077,6 +1077,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "770"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18743",
+  "Customer Details" : "grant winfield g9 gp 2nd floor",
+  "Order Date" : "12 Apr 2026",
+  "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "4-COAT, 2-PANTS, 1-SWEAT SHIRT, 2-WAIST COAT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "2550"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18744",
+  "Customer Details" : "s b dey G16 gp gf",
+  "Order Date" : "12 Apr 2026",
+  "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "9-JACKET, 1-JACKET HALF, 1-PYJAMA (LIGHT), 1-T SHIRT, 9-WAIST COAT",
+  "Qty" : "21",
+  "Pcs" : "21",
+  "Amount without Tax & Discount" : "6040"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
