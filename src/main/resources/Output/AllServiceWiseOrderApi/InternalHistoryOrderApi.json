@@ -1330,6 +1330,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "500"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18747",
+  "Customer Details" : "Anchal 139 gautam nagar green park",
+  "Order Date" : "12 Apr 2026",
+  "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (PLAIN)",
+  "Qty" : "1",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "225"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18623",
@@ -2583,6 +2594,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "570"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3424",
+  "Customer Details" : "tarun tolani a 12 ground floor golf view apartment saket",
+  "Order Date" : "12 Apr 2026",
+  "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-SHIRT, 1-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "440"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
