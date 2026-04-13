@@ -1187,6 +1187,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "510"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18761",
+  "Customer Details" : "Ashish Jain N2 1st floor Greenpark main",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 2-PANTS, 1-SALWAR, 1-SHIRT, 3-T SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18762",
+  "Customer Details" : "manoj N6 gp",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "290"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2364,6 +2386,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "499"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4775",
+  "Customer Details" : "Ayushi K1 144  ground floor c r  park",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "20 Apr 2026",
+  "Garment Details Qty Wise" : "1-TRAVEL SUITCASE BIG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1999"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C4724",
@@ -2385,6 +2418,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "275"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4774",
+  "Customer Details" : "Jaya gupta E 930 CR Park",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "4-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "720"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "CR Park",
