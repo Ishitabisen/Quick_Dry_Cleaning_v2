@@ -1110,6 +1110,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "510"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18749",
+  "Customer Details" : "sandeep sabbathi D11 tower 17 kidwaei ngar",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "2-CHOLI / BLOUSE (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-PETTI COAT, 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-T SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1690"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1699,6 +1710,17 @@
   "Customer Details" : "Pakkiresh X59 shiv mandir green park main",
   "Order Date" : "12 Apr 2026",
   "Due Date" : "16 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18748",
+  "Customer Details" : "nleni postal",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
