@@ -1121,6 +1121,39 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1690"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18750",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT, 1-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18751",
+  "Customer Details" : "kalra U39 green park main",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 1-PYJAMA (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18753",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 3-SHIRT, 1-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "680"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1142,6 +1175,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "720"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18752",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "800"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -1351,6 +1395,17 @@
   "Qty" : "1",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "225"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18751",
+  "Customer Details" : "kalra U39 green park main",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "80"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -2628,6 +2683,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3425",
+  "Customer Details" : "geehls b 23 golf view apartment 3 rd floor saket",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 2-JACKET, 2-PULLOVER, 2-SHIRT, 1-SKIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "2190"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3426",
+  "Customer Details" : "Pallavi chauhan Working women hostels  saket",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLANKET SINGLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
@@ -2715,6 +2792,17 @@
   "Qty" : "3",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1497"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3425",
+  "Customer Details" : "geehls b 23 golf view apartment 3 rd floor saket",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "1-SUEDE JACKET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1800"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
@@ -2979,4 +3067,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1500"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3054",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "13 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1020"
 } ]
