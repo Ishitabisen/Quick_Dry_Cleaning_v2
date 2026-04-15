@@ -2496,6 +2496,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4776",
+  "Customer Details" : "Irshad C516 1st floor CR Park",
+  "Order Date" : "15 Apr 2026",
+  "Due Date" : "18 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "828"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C4732",
