@@ -1264,6 +1264,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18772",
+  "Customer Details" : "Umesh bhardwaj gp",
+  "Order Date" : "15 Apr 2026",
+  "Due Date" : "18 Apr 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "500"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -1318,6 +1329,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18771",
+  "Customer Details" : "shaurya patel x 34 green park main",
+  "Order Date" : "15 Apr 2026",
+  "Due Date" : "17 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "3200"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -3265,6 +3287,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "380"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3057",
+  "Customer Details" : "Neha batra D 242 G/F Defence colony",
+  "Order Date" : "15 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD SINGLE, 2-BLANKET DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1300"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
