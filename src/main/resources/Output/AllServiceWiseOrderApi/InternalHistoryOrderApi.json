@@ -1418,6 +1418,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18792",
+  "Customer Details" : "Pranav A2 79 south patel nagar",
+  "Order Date" : "16 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2221,6 +2232,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1068"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18791",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "16 Apr 2026",
+  "Due Date" : "19 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "504"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
@@ -2672,6 +2694,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4783",
+  "Customer Details" : "ananya ghosh H/1498 2nd floor c r park",
+  "Order Date" : "16 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD SINGLE, 1-BLANKET DOUBLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "780"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -2814,6 +2847,17 @@
   "Qty" : "2",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1418"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4784",
+  "Customer Details" : "S Roy G 1285 2nd floor cr park",
+  "Order Date" : "16 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES, 1-SUEDE SHOES",
+  "Qty" : "2",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1618"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
