@@ -2408,6 +2408,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18808",
+  "Customer Details" : "gopal chawala X9 gp mian",
+  "Order Date" : "18 Apr 2026",
+  "Due Date" : "20 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
@@ -2914,6 +2925,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4792",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "18 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4793",
+  "Customer Details" : "Vivek employee",
+  "Order Date" : "18 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "2-COAT, 2-PANTS",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1060"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -3034,6 +3067,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "800"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4791",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "18 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "912"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
