@@ -1572,6 +1572,39 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18815",
+  "Customer Details" : "Digvijay Singh M9 Greenpark Ext",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "4-SHIRT, 1-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "700"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18816",
+  "Customer Details" : "shalu b7 gp main 2nd flr",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18818",
+  "Customer Details" : "adam K72 hauz khas enclave",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2022,6 +2055,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "395"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18817",
+  "Customer Details" : "Sangeeta gp",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "2-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "380"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -4376,4 +4420,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1260"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3066",
+  "Customer Details" : "Sandy 1517 Wazir nagar",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "840"
 } ]
