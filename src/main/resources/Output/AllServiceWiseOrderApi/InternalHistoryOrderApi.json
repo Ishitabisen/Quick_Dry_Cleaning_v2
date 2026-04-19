@@ -3068,6 +3068,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1060"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4794",
+  "Customer Details" : "tarun nar singh A 198 2nd floor kalkaji",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "3-JACKET, 1-PANTS",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1250"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -3397,6 +3408,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "639"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4795",
+  "Customer Details" : "tarun nar singh A 198 2nd floor kalkaji",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "855"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
@@ -3893,6 +3915,28 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "880"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3444",
+  "Customer Details" : "MRS RUDRA A 14 2ND FLOOR PRESS ENCLAVE",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 1-PYJAMA (LIGHT), 1-SHAWL (LIGHT EMBROIDERY), 1-SHIRT, 1-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3445",
+  "Customer Details" : "sindhu mastila b 7 unlive saket opposite gyan bharti school",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD SINGLE, 1-BLANKET DOUBLE, 2-BLANKET SINGLE, 1-JACKET, 1-QUILT SINGLE, 1-SWEATER (FULL SLEEVE)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "2720"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
@@ -3998,6 +4042,17 @@
   "Customer Details" : "tarun  d 20 1st floor saket",
   "Order Date" : "16 Apr 2026",
   "Due Date" : "20 Apr 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "709"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3446",
+  "Customer Details" : "chanakya to  159 anupam apartment",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "25 Apr 2026",
   "Garment Details Qty Wise" : "1-LEATHER SHOES",
   "Qty" : "1",
   "Pcs" : "2",
