@@ -1616,6 +1616,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "680"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18820",
+  "Customer Details" : "Amit Gupta 12 taxila appartment iit campus",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "4-COAT, 1-OVERCOAT, 4-WAIST COAT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "3080"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
