@@ -4179,6 +4179,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "980"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3065",
+  "Customer Details" : "nikhaar a 317 defence colony",
+  "Order Date" : "19 Apr 2026",
+  "Due Date" : "23 Apr 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-TOP (MEDIUM)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3041",
