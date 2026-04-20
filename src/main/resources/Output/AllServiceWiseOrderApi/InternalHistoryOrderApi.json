@@ -1715,6 +1715,28 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "1350"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18835",
+  "Customer Details" : "Tanya d 15 3rd floor greenpark ext",
+  "Order Date" : "20 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "500"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18836",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "20 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 2-SHIRT, 2-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "730"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2187,6 +2209,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "380"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18833",
+  "Customer Details" : "bhawna mishra f 13 uper ground floor",
+  "Order Date" : "20 Apr 2026",
+  "Due Date" : "22 Apr 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-PYJAMA, 1-SAREE (COTTON/SYN/LIGHT), 1-SHARARA (PLAIN)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "765"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -2693,6 +2726,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "972"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18834",
+  "Customer Details" : "darshan Room No 4 Mehras House No 12 Near Maanmati Hospital Arjun Nagar Safdarjung Enclave",
+  "Order Date" : "20 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "936"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -4244,6 +4288,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "800"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Saket",
+  "Order Number" : "S3448",
+  "Customer Details" : "tanuja m 107 first floor amity international school",
+  "Order Date" : "20 Apr 2026",
+  "Due Date" : "24 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1392"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
