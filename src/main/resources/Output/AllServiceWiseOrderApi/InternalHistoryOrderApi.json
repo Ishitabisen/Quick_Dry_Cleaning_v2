@@ -1836,6 +1836,39 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18849",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18850",
+  "Customer Details" : "amrita F 31 green park main",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "3-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18852",
+  "Customer Details" : "Prerna C 46 2nd floor green park mains",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT, 4-CURTAIN (6 FEET WITH LINING), 2-CURTAIN (8 FEET WITH LINING), 1-JACKET",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "2740"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -2484,6 +2517,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18851",
+  "Customer Details" : "Ankith X 59 green park mains",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18853",
+  "Customer Details" : "pooja n18a gp ext top flr",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "25 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "801"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -3486,6 +3541,28 @@
   "Pcs" : "13",
   "Amount without Tax & Discount" : "2060"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4803",
+  "Customer Details" : "M dutta G 1369 ground floor c r park",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-BLANKET SINGLE, 1-COAT, 1-QUILT SINGLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1200"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4804",
+  "Customer Details" : "Rajindar 71 a dda flats phase 2   masjid moth",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT, 2-T SHIRT, 1-WAIST COAT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "860"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -3562,6 +3639,28 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4803",
+  "Customer Details" : "M dutta G 1369 ground floor c r park",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4804",
+  "Customer Details" : "Rajindar 71 a dda flats phase 2   masjid moth",
+  "Order Date" : "22 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-WAIST COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
