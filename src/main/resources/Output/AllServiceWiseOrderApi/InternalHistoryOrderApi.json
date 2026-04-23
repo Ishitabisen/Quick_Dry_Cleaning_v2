@@ -1946,6 +1946,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18862",
+  "Customer Details" : "gurav a 5 gp",
+  "Order Date" : "23 Apr 2026",
+  "Due Date" : "26 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -4652,6 +4663,17 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "3020"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3455",
+  "Customer Details" : "tarun  d 20 1st floor saket",
+  "Order Date" : "23 Apr 2026",
+  "Due Date" : "27 Apr 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-JEANS, 1-KAMEEZ /KURTA (LIGHT), 2-PANTS, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 2-SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1670"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
@@ -4794,6 +4816,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1209"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3455",
+  "Customer Details" : "tarun  d 20 1st floor saket",
+  "Order Date" : "23 Apr 2026",
+  "Due Date" : "27 Apr 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "709"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
