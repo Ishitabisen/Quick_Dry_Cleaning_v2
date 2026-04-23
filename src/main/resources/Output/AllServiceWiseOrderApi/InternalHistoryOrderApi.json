@@ -1869,6 +1869,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "2740"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18855",
+  "Customer Details" : "shalu b7 gp main 2nd flr",
+  "Order Date" : "23 Apr 2026",
+  "Due Date" : "26 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
