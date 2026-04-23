@@ -30,9 +30,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "9575",
-  "Quantity" : "75",
-  "Pcs" : "77"
+  "Amount without Tax & Discount" : "10275",
+  "Quantity" : "77",
+  "Pcs" : "79"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Fold",
@@ -44,7 +44,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "25119.6",
-  "Quantity" : "38",
-  "Pcs" : "38"
+  "Amount without Tax & Discount" : "25539.6",
+  "Quantity" : "39",
+  "Pcs" : "39"
 } ]
