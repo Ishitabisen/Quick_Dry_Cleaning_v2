@@ -5180,6 +5180,17 @@
   "Pcs" : "14",
   "Amount without Tax & Discount" : "1990"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3070",
+  "Customer Details" : "Jyoti c 317 3rd flore defence colony",
+  "Order Date" : "24 Apr 2026",
+  "Due Date" : "27 Apr 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 5-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3041",
