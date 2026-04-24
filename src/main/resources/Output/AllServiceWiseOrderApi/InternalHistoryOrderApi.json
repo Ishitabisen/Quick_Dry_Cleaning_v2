@@ -1957,6 +1957,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18865",
+  "Customer Details" : "chawala E13 3rd flr gp main",
+  "Order Date" : "24 Apr 2026",
+  "Due Date" : "27 Apr 2026",
+  "Garment Details Qty Wise" : "2-WAIST COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "540"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
