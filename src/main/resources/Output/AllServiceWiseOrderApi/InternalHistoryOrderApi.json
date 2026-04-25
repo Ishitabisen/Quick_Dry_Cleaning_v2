@@ -4927,6 +4927,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "190"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3460",
+  "Customer Details" : "surbhi chabra d 106  1st floor saket",
+  "Order Date" : "25 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-ANARKALI KURTA  LIGHT, 1-KAMEEZ /KURTA (HEAVY), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1310"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3394",
