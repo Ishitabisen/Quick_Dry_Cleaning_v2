@@ -2749,6 +2749,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "810"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18874",
+  "Customer Details" : "Anita D 10 gp",
+  "Order Date" : "25 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "810"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18600",
@@ -4003,6 +4014,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "912"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4809",
+  "Customer Details" : "aprtim 1931 19 g floor govind puri extenstion",
+  "Order Date" : "25 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "10-LAUNDRY GARMENT",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "800"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
   "Order Number" : "C4723",
@@ -4255,6 +4277,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4810",
+  "Customer Details" : "aprtim 1931 19 g floor govind puri extenstion",
+  "Order Date" : "25 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1200"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
