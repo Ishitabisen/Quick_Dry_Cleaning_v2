@@ -3893,6 +3893,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "370"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4811",
+  "Customer Details" : "vivek newra e 848 2nd floor c r park",
+  "Order Date" : "25 Apr 2026",
+  "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
