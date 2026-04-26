@@ -2078,6 +2078,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1220"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18884",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "5-PANTS, 1-SHIRT, 1-SWEAT SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1310"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -3965,6 +3976,39 @@
   "Customer Details" : "vivek newra e 848 2nd floor c r park",
   "Order Date" : "25 Apr 2026",
   "Due Date" : "29 Apr 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4812",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD SINGLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4813",
+  "Customer Details" : "Vivek employee",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "530"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4814",
+  "Customer Details" : "suraj CR park police",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
   "Garment Details Qty Wise" : "1-SHIRT",
   "Qty" : "1",
   "Pcs" : "1",
