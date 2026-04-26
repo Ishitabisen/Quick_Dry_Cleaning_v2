@@ -2100,6 +2100,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1470"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18887",
+  "Customer Details" : "babita goyal C4 45 sda",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "270"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -4036,6 +4047,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4815",
+  "Customer Details" : "Gita E 942 cr park",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "02 May 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE, 1-BLANKET DOUBLE, 1-JACKET",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1290"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4733",
@@ -5532,6 +5554,17 @@
   "Pcs" : "10",
   "Amount without Tax & Discount" : "2700"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3074",
+  "Customer Details" : "Abshieak def col",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "3-SHIRT, 1-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "560"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3041",
@@ -5564,6 +5597,28 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "499"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3074",
+  "Customer Details" : "Abshieak def col",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-SLIPPERS, 2-SPORTS SHOES",
+  "Qty" : "3",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1368"
+}, {
+  "Service Name" : "Shoe Repair",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3074",
+  "Customer Details" : "Abshieak def col",
+  "Order Date" : "26 Apr 2026",
+  "Due Date" : "30 Apr 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "100"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Defence Colony",
