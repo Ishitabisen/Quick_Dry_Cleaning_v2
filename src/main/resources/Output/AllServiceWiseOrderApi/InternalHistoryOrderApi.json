@@ -2166,6 +2166,17 @@
   "Pcs" : "10",
   "Amount without Tax & Discount" : "1430"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18895",
+  "Customer Details" : "shipra A2 green park ext 1st flr",
+  "Order Date" : "27 Apr 2026",
+  "Due Date" : "01 May 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
