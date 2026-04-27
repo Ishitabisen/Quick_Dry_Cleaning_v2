@@ -16,9 +16,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Premium Laundry",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "6208",
-  "Quantity" : "5",
-  "Pcs" : "5"
+  "Amount without Tax & Discount" : "7008",
+  "Quantity" : "6",
+  "Pcs" : "6"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Leather Care",
@@ -44,7 +44,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "28239.6",
-  "Quantity" : "43",
-  "Pcs" : "43"
+  "Amount without Tax & Discount" : "28719.6",
+  "Quantity" : "44",
+  "Pcs" : "44"
 } ]
