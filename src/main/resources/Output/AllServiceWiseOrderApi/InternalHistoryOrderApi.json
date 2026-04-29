@@ -2243,6 +2243,28 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "1570"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18904",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "29 Apr 2026",
+  "Due Date" : "02 May 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18905",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "29 Apr 2026",
+  "Due Date" : "02 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
