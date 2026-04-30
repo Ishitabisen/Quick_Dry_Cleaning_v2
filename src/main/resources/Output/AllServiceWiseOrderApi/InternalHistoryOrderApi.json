@@ -2441,6 +2441,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "170"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18927",
+  "Customer Details" : "majumdar C18 gp main 1st flr",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "2-KURTA LIGHT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "540"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
