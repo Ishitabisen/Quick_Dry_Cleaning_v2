@@ -2375,6 +2375,72 @@
   "Pcs" : "18",
   "Amount without Tax & Discount" : "2800"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18921",
+  "Customer Details" : "iti f10 F10 gp mian",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "370"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18922",
+  "Customer Details" : "raj chattar pur B1 rajpur ext 1st flr",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 2-DUPATTA (LIGHT), 2-KURTA LIGHT, 2-PALAZO, 3-PANTS, 2-SHARARA (PLAIN), 2-SHIRT, 1-WAIST COAT",
+  "Qty" : "15",
+  "Pcs" : "15",
+  "Amount without Tax & Discount" : "2760"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18923",
+  "Customer Details" : "nishit 41 sje 1st floor",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "510"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18924",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-OVERCOAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "920"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18925",
+  "Customer Details" : "dinesh global star",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "520"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18926",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Greenpark",
   "Order Number" : "G18620",
@@ -6137,6 +6203,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3078",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 4-PANTS, 9-SHIRT, 2-T SHIRT",
+  "Qty" : "17",
+  "Pcs" : "17",
+  "Amount without Tax & Discount" : "2600"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3041",
@@ -6411,4 +6488,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1380"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3077",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "780"
 } ]
