@@ -5862,6 +5862,17 @@
   "Pcs" : "79",
   "Amount without Tax & Discount" : "945"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3467",
+  "Customer Details" : "tanuja m 107 first floor amity international school",
+  "Order Date" : "30 Apr 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "585"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
   "Order Number" : "S3415",
