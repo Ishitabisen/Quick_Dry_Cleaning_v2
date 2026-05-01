@@ -10,6 +10,50 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1860"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4825",
+  "Customer Details" : "shubham nagar 59/ nehru apartments kalkaji c r park road",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "500"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4827",
+  "Customer Details" : "MEENAKSHI C 27 Ground Floor PAMPOSH ENCLAVE",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "1-BLINDS, 4-CURTAIN (8 FEET WITH LINING), 10-CURTAIN (8 FEET WITHOUT LINING)",
+  "Qty" : "15",
+  "Pcs" : "15",
+  "Amount without Tax & Discount" : "10000"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4825",
+  "Customer Details" : "shubham nagar 59/ nehru apartments kalkaji c r park road",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4826",
+  "Customer Details" : "shubham nagar 59/ nehru apartments kalkaji c r park road",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3079",
