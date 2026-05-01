@@ -1,5 +1,27 @@
 [ {
   "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18928",
+  "Customer Details" : "Lucas Jenss gp",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 1-PYJAMA (LIGHT), 1-SWEAT SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "850"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18929",
+  "Customer Details" : "Lucas Jenss gp",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4824",
   "Customer Details" : "Pramit Flat no 93 GF Deshbandu apartment",
