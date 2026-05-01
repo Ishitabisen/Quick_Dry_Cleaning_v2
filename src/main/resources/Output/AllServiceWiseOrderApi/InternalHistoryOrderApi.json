@@ -10,6 +10,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "850"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18932",
+  "Customer Details" : "Mohit pandey green park",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 2-SHIRT, 2-T SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "940"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18929",
@@ -31,6 +42,39 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "774"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18931",
+  "Customer Details" : "miss oberai s9 2nd flr gp main near uphar cinema",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18933",
+  "Customer Details" : "Hyat hauzkhas",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18933",
+  "Customer Details" : "Hyat hauzkhas",
+  "Order Date" : "01 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "120"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
