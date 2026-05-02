@@ -131,6 +131,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3468",
+  "Customer Details" : "Anshu G 53 gaurav apartment",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 4-SHIRT, 1-SWEATER (FULL SLEEVE), 4-T SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "1780"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3079",
