@@ -43,6 +43,28 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "2590"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18939",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18940",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1600"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18934",
@@ -131,6 +153,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "120"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18938",
+  "Customer Details" : "Sunil gp",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "04 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "828"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4824",
@@ -185,6 +218,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4831",
+  "Customer Details" : "Shreya E 915 2nd floor cr park",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "03 May 2026",
+  "Garment Details Qty Wise" : "1-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "190"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "CR Park",
