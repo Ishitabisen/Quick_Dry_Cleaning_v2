@@ -21,6 +21,39 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "940"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18934",
+  "Customer Details" : "bhawna mishra f 13 uper ground floor",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "4-CHOLI / BLOUSE (LIGHT), 1-DUPATTA (LIGHT), 1-LEHNGA (LIGHT), 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-TOP (LIGHT)",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "2450"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18934",
+  "Customer Details" : "bhawna mishra f 13 uper ground floor",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18935",
+  "Customer Details" : "bhawna mishra f 13 uper ground floor",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "4-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "5",
+  "Pcs" : "13",
+  "Amount without Tax & Discount" : "1255"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18929",
@@ -109,6 +142,17 @@
   "Pcs" : "15",
   "Amount without Tax & Discount" : "10000"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4829",
+  "Customer Details" : "A roy chaudhary pocket 52 house no 110 3rd floor c r park",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "7-CURTAIN (6 FEET WITHOUT LINING), 2-QUILT SINGLE",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "2380"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -125,6 +169,28 @@
   "Order Number" : "C4826",
   "Customer Details" : "shubham nagar 59/ nehru apartments kalkaji c r park road",
   "Order Date" : "01 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4828",
+  "Customer Details" : "Arindam E950 1ST FLOOR CR PARK",
+  "Order Date" : "02 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4830",
+  "Customer Details" : "A roy chaudhary pocket 52 house no 110 3rd floor c r park",
+  "Order Date" : "02 May 2026",
   "Due Date" : "06 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
