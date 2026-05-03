@@ -109,6 +109,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "470"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18949",
+  "Customer Details" : "nagpal F20 gp main",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "07 May 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "520"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
