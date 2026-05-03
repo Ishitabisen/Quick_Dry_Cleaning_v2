@@ -65,6 +65,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18943",
+  "Customer Details" : "Sri ram Green park",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "07 May 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -252,6 +263,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "750"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4835",
+  "Customer Details" : "sUbha jit C/116A 1st floor kalkaji near nehru enclave metro",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-JACKET",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4836",
+  "Customer Details" : "jaydeep h/1477 h/1477 ground floor c r park",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -262,6 +295,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4834",
+  "Customer Details" : "Ayushi K1/144  ground floor CR PARK",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "10 May 2026",
+  "Garment Details Qty Wise" : "1-TRAVEL SUITCASE SMALL",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1509"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4836",
+  "Customer Details" : "jaydeep h/1477 h/1477 ground floor c r park",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-SPORTS SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "509"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
@@ -317,6 +372,17 @@
   "Qty" : "11",
   "Pcs" : "11",
   "Amount without Tax & Discount" : "1780"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3469",
+  "Customer Details" : "anjali j 141 1st floor saket",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "10 May 2026",
+  "Garment Details Qty Wise" : "2-SPORTS SHOES, 1-SUEDE SHOES",
+  "Qty" : "3",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1927"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
