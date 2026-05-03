@@ -230,6 +230,28 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "2380"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4832",
+  "Customer Details" : "Perrine L K1/9 second floor CR park",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "3-CHOLI / BLOUSE (LIGHT), 1-SHIRT, 1-SKIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "920"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4833",
+  "Customer Details" : "sandhya E 836 c r park",
+  "Order Date" : "03 May 2026",
+  "Due Date" : "07 May 2026",
+  "Garment Details Qty Wise" : "1-CARPET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "750"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
