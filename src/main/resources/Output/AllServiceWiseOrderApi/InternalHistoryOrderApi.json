@@ -164,6 +164,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18955",
+  "Customer Details" : "vijay gupta V 11 greenpark main 3rd floor",
+  "Order Date" : "04 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "2-PYJAMA (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "340"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18956",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "04 May 2026",
+  "Due Date" : "08 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (LIGHT), 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "920"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -428,6 +450,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4840",
+  "Customer Details" : "kudrat G/1328 terrace floor c r park",
+  "Order Date" : "04 May 2026",
+  "Due Date" : "13 May 2026",
+  "Garment Details Qty Wise" : "4-CURTAIN (8 FEET WITHOUT LINING)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1080"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -570,6 +603,17 @@
   "Qty" : "3",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1927"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3083",
+  "Customer Details" : "Ekta B 62 G/F Defence colony",
+  "Order Date" : "04 May 2026",
+  "Due Date" : "10 May 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE, 3-BLANKET DOUBLE, 1-CARPET",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "3720"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",

@@ -1,5 +1,12 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Dry Cleaning",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "3720",
+  "Quantity" : "5",
+  "Pcs" : "5"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "1071",
