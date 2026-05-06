@@ -252,6 +252,50 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1500"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18970",
+  "Customer Details" : "Ganesh N 3 GP",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18971",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "2-SHIRT, 1-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18972",
+  "Customer Details" : "Vaishanavi greenpark",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-JACKET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18973",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -736,6 +780,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1800"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4843",
+  "Customer Details" : "Angad chatha F/30 room no204 2nd floor F block kalkaji",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "11 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
   "Order Number" : "S3468",
@@ -823,6 +878,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "3720"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3085",
+  "Customer Details" : "Jyoti c 317 3rd flore defence colony",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "6-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "840"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
