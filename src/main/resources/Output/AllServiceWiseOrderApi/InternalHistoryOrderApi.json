@@ -395,6 +395,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "75"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18968",
+  "Customer Details" : "Deepankar gp",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "06 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "315"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18969",
+  "Customer Details" : "Deepankar gp",
+  "Order Date" : "06 May 2026",
+  "Due Date" : "07 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (HEAVY)",
+  "Qty" : "1",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "385"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18929",
