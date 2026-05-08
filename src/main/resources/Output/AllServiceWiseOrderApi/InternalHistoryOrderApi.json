@@ -406,6 +406,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18987",
+  "Customer Details" : "Nadeem 95b gate no 4 K N",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "11 May 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -835,6 +846,17 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "1630"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4847",
+  "Customer Details" : "ANIRUDH B 300 2ND FLOOR",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "3-CARPET, 5-STUFF TOY UP TO 16 INCHES, 1-WAIST COAT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "4570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -1044,6 +1066,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3477",
+  "Customer Details" : "Anshu G 53 gaurav apartment",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "13 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1110"
+}, {
+  "Service Name" : "Express",
+  "Store Name" : "Saket",
+  "Order Number" : "S3476",
+  "Customer Details" : "abhijeet house no 124 ground floor khasra no 322 neb sarai transformer gali",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "250"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
   "Order Number" : "S3469",
@@ -1054,6 +1098,28 @@
   "Qty" : "3",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1927"
+}, {
+  "Service Name" : "Softner",
+  "Store Name" : "Saket",
+  "Order Number" : "S3476",
+  "Customer Details" : "abhijeet house no 124 ground floor khasra no 322 neb sarai transformer gali",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "50"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3476",
+  "Customer Details" : "abhijeet house no 124 ground floor khasra no 322 neb sarai transformer gali",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "09 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
