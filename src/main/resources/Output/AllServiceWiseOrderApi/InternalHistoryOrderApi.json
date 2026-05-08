@@ -384,6 +384,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1620"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18984",
+  "Customer Details" : "niru jain A14 green park ext 1st flr",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "11 May 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18985",
+  "Customer Details" : "Sidhant gp",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "11 May 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 2-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -449,6 +471,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1109"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G18986",
+  "Customer Details" : "s kumar c2 39 chanakyapuri",
+  "Order Date" : "08 May 2026",
+  "Due Date" : "11 May 2026",
+  "Garment Details Qty Wise" : "1-NON LEATHER HANDBAG, 2-SUEDE HANDBAG",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "3727"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
