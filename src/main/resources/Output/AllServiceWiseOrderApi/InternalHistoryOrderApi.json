@@ -516,6 +516,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1610"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19004",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "09 May 2026",
+  "Due Date" : "13 May 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G18940",
@@ -1384,6 +1395,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "970"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3480",
+  "Customer Details" : "rajesh kumar c 41 duggal colony",
+  "Order Date" : "09 May 2026",
+  "Due Date" : "14 May 2026",
+  "Garment Details Qty Wise" : "4-PANTS",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "680"
 }, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
