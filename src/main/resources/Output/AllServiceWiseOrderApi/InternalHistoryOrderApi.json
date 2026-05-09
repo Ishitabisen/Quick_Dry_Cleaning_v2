@@ -1022,6 +1022,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "509"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4849",
+  "Customer Details" : "Mrinal Chakraborty E 922 1st floor  CR PARK",
+  "Order Date" : "09 May 2026",
+  "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "2-SPORTS SHOES",
+  "Qty" : "2",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1018"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C4831",
@@ -1285,6 +1296,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "190"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3089",
+  "Customer Details" : "Sumeru INC c 438 1st floor  defence colony",
+  "Order Date" : "09 May 2026",
+  "Due Date" : "13 May 2026",
+  "Garment Details Qty Wise" : "1-TRACK SUIT",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "480"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
