@@ -748,10 +748,10 @@
   "Discount" : "0.00",
   "Net Amount" : "520.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -775,10 +775,10 @@
   "Discount" : "0.00",
   "Net Amount" : "520.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -802,10 +802,10 @@
   "Discount" : "0.00",
   "Net Amount" : "1320.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSLC - Leather Vendor",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -829,10 +829,10 @@
   "Discount" : "0.00",
   "Net Amount" : "570.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -856,10 +856,10 @@
   "Discount" : "0.00",
   "Net Amount" : "275.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -883,10 +883,10 @@
   "Discount" : "0.00",
   "Net Amount" : "275.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -910,10 +910,10 @@
   "Discount" : "0.00",
   "Net Amount" : "170.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -937,10 +937,10 @@
   "Discount" : "0.00",
   "Net Amount" : "170.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -964,10 +964,10 @@
   "Discount" : "0.00",
   "Net Amount" : "270.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSOS - Dry Clean Outsourced",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1018,10 +1018,10 @@
   "Discount" : "0.00",
   "Net Amount" : "675.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at Plant",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "10 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
