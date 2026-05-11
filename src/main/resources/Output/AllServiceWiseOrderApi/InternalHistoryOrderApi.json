@@ -736,6 +736,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "710"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19033",
+  "Customer Details" : "nishit 41 sje 1st floor",
+  "Order Date" : "11 May 2026",
+  "Due Date" : "16 May 2026",
+  "Garment Details Qty Wise" : "2-JACKET, 2-KURTA LIGHT, 2-PYJAMA (LIGHT)",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1600"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -2143,4 +2154,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1140"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3096",
+  "Customer Details" : "NARENDRA A 399 G FLOOR DEFENCE COLONY",
+  "Order Date" : "11 May 2026",
+  "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 } ]
