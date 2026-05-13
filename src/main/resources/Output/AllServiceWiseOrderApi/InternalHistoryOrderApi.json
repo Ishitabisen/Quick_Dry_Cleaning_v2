@@ -780,6 +780,28 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "2700"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19038",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19039",
+  "Customer Details" : "punjab sindh banck N B CC Bulding",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "530"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -845,6 +867,39 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19038",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "4-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19039",
+  "Customer Details" : "punjab sindh banck N B CC Bulding",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19040",
+  "Customer Details" : "Ulysse F42 gp main",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
@@ -1187,6 +1242,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "270"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19038",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 3-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "785"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19040",
+  "Customer Details" : "Ulysse F42 gp main",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "300"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18929",
@@ -1281,6 +1358,17 @@
   "Customer Details" : "Marine gp",
   "Order Date" : "11 May 2026",
   "Due Date" : "13 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19041",
+  "Customer Details" : "nikunj hilton hotel saket",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "15 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
@@ -1560,6 +1648,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "610"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4859",
+  "Customer Details" : "suraj CR park police",
+  "Order Date" : "13 May 2026",
+  "Due Date" : "16 May 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "620"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
