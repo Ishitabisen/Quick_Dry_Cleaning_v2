@@ -879,6 +879,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "320"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19050",
+  "Customer Details" : "adarsh d 47 arjun nagar",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 1-PYJAMA (LIGHT), 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "580"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19051",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -2144,6 +2166,28 @@
   "Pcs" : "15",
   "Amount without Tax & Discount" : "2930"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3485",
+  "Customer Details" : "Enoki Hospitality PVT LTD D 141 1ST FLOOR SAKET",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3486",
+  "Customer Details" : "priya sen c 152  3rd floor golf view apartment saket",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "2-BLANKET SINGLE, 1-CUSHION COVER (BIG), 2-JACKET, 2-PILLOW COVERS (EMBROIDERY), 1-SHAWL (LOHI)",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "2540"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
   "Order Number" : "S3476",
@@ -2484,4 +2528,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "624"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3101",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1260"
 } ]
