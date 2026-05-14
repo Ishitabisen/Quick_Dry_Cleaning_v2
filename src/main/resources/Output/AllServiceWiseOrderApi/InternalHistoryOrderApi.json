@@ -868,6 +868,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1610"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19049",
+  "Customer Details" : "Maksin f 20 green park main",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "1-SWEAT SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "320"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -2319,6 +2330,17 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1060"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3098",
+  "Customer Details" : "Ekta B 62 G/F Defence colony",
+  "Order Date" : "14 May 2026",
+  "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "2-BLANKET DOUBLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "1040"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
