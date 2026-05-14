@@ -2,16 +2,16 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "78585",
-  "Quantity" : "329",
-  "Pcs" : "338"
+  "Amount without Tax & Discount" : "83285",
+  "Quantity" : "353",
+  "Pcs" : "362"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "320",
-  "Quantity" : "30",
-  "Pcs" : "30"
+  "Amount without Tax & Discount" : "480",
+  "Quantity" : "46",
+  "Pcs" : "46"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Premium Laundry",
