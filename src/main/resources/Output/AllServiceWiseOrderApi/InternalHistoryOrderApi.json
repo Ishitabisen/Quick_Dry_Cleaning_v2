@@ -956,6 +956,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1849"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19061",
+  "Customer Details" : "Jaskaran Singh E92 (2nd floor)",
+  "Order Date" : "15 May 2026",
+  "Due Date" : "18 May 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-SALWAR, 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "670"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -1611,6 +1622,17 @@
   "Customer Details" : "hari green park",
   "Order Date" : "13 May 2026",
   "Due Date" : "15 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19062",
+  "Customer Details" : "Shankar t3 green park",
+  "Order Date" : "15 May 2026",
+  "Due Date" : "16 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
@@ -2308,6 +2330,17 @@
   "Qty" : "8",
   "Pcs" : "8",
   "Amount without Tax & Discount" : "2540"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3488",
+  "Customer Details" : "sahil a 31 golf view apartment saket",
+  "Order Date" : "15 May 2026",
+  "Due Date" : "20 May 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-DUPATTA (HEAVY), 1-DUPATTA (LIGHT), 3-KAMEEZ /KURTA (LIGHT), 3-PANTS",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1980"
 }, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
