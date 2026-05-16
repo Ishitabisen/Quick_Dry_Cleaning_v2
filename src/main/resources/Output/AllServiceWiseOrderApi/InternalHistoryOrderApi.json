@@ -1011,6 +1011,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "610"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19072",
+  "Customer Details" : "sonu F80 2nd flr gp main",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "21 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19073",
+  "Customer Details" : "Praveen A 367 moti bagh",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -1153,6 +1175,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19072",
+  "Customer Details" : "sonu F80 2nd flr gp main",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "21 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
@@ -1641,7 +1674,7 @@
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G18933",
-  "Customer Details" : "Hyat hauzkhas",
+  "Customer Details" : "Hyat House no 4D \nSiri Fort",
   "Order Date" : "01 May 2026",
   "Due Date" : "04 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -1740,7 +1773,7 @@
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18933",
-  "Customer Details" : "Hyat hauzkhas",
+  "Customer Details" : "Hyat House no 4D \nSiri Fort",
   "Order Date" : "01 May 2026",
   "Due Date" : "04 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -1796,6 +1829,17 @@
   "Store Name" : "Greenpark",
   "Order Number" : "G19069",
   "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "20 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19074",
+  "Customer Details" : "Hyat House no 4D \nSiri Fort",
   "Order Date" : "16 May 2026",
   "Due Date" : "20 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
