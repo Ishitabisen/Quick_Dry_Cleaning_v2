@@ -1126,10 +1126,10 @@
   "Discount" : "0.00",
   "Net Amount" : "909.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSLC - Leather Vendor",
+  "Send on" : "16 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1153,10 +1153,10 @@
   "Discount" : "0.00",
   "Net Amount" : "909.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSLC - Leather Vendor",
+  "Send on" : "16 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1180,10 +1180,10 @@
   "Discount" : "0.00",
   "Net Amount" : "809.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSLC - Leather Vendor",
+  "Send on" : "16 May 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
