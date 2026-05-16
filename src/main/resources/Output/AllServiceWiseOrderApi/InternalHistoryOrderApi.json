@@ -2353,6 +2353,17 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "1980"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3489",
+  "Customer Details" : "manju G 13 saket gaura apartment",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "21 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "270"
+}, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
   "Order Number" : "S3476",
@@ -2572,6 +2583,17 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "840"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3102",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "16 May 2026",
+  "Due Date" : "20 May 2026",
+  "Garment Details Qty Wise" : "2-COAT, 1-JEANS, 2-PANTS, 4-SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1810"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
