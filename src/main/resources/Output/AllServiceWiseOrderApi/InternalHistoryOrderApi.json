@@ -1066,6 +1066,28 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "1509"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19080",
+  "Customer Details" : "mahender sir khel gaon 380",
+  "Order Date" : "17 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE, 1-JACKET, 1-LONGCOAT, 1-PANTS, 6-SHIRT, 1-SWEAT SHIRT, 1-T SHIRT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "2800"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19082",
+  "Customer Details" : "vedant rai K37 gp main",
+  "Order Date" : "17 May 2026",
+  "Due Date" : "23 May 2026",
+  "Garment Details Qty Wise" : "1-BLANKET SINGLE, 3-JACKET, 2-KURTA LIGHT, 1-NEHRU JACKET, 2-PYJAMA (LIGHT), 1-QUILT DOUBLE",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "3220"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -1527,6 +1549,28 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "3018"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19081",
+  "Customer Details" : "rajesh mehta e 21 green park main",
+  "Order Date" : "17 May 2026",
+  "Due Date" : "24 May 2026",
+  "Garment Details Qty Wise" : "1-ANKLE LEATHER SHOES / BELLY",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1209"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19082",
+  "Customer Details" : "vedant rai K37 gp main",
+  "Order Date" : "17 May 2026",
+  "Due Date" : "23 May 2026",
+  "Garment Details Qty Wise" : "1-SUEDE SHOES",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "909"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
@@ -3019,6 +3063,17 @@
   "Customer Details" : "Katherine C 265 GF",
   "Order Date" : "14 May 2026",
   "Due Date" : "17 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1260"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3104",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "17 May 2026",
+  "Due Date" : "21 May 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
