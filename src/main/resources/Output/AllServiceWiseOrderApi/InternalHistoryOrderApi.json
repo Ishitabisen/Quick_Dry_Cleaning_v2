@@ -2342,6 +2342,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4867",
+  "Customer Details" : "Angad chatha F/30 room no204 2nd floor F block kalkaji",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-BAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4868",
+  "Customer Details" : "nitin jain E 807 top floor c r park",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "500"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -2594,6 +2616,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4866",
+  "Customer Details" : "Angad chatha F/30 room no204 2nd floor F block kalkaji",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "720"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
@@ -3056,6 +3089,17 @@
   "Qty" : "13",
   "Pcs" : "13",
   "Amount without Tax & Discount" : "2590"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3105",
+  "Customer Details" : "Sanchita C 367 First Floor",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "24 May 2026",
+  "Garment Details Qty Wise" : "12-SHIRT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "1680"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
