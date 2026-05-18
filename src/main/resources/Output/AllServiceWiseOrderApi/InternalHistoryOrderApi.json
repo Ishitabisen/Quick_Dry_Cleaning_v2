@@ -1143,6 +1143,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "1869"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19089",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19090",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -2364,6 +2386,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "500"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4870",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-KURTA LIGHT, 1-PANTS, 2-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "910"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
@@ -2639,6 +2672,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "120"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4869",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
   "Order Number" : "S3468",
@@ -2836,6 +2880,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "920"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3494",
+  "Customer Details" : "Shobna rastogi d 153 saket",
+  "Order Date" : "18 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "540"
 }, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
