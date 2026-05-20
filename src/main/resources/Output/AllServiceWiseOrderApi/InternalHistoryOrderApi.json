@@ -2045,6 +2045,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19094",
+  "Customer Details" : "Shankar t3 green park",
+  "Order Date" : "20 May 2026",
+  "Due Date" : "22 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G18933",
@@ -2935,6 +2946,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3495",
+  "Customer Details" : "r k dhanuja G 13 gaurab apartment",
+  "Order Date" : "20 May 2026",
+  "Due Date" : "23 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (HEAVY)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "710"
 }, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
