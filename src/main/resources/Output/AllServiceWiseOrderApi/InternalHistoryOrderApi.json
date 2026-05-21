@@ -3376,6 +3376,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3499",
+  "Customer Details" : "Gautam F12/8 4th Floor BACKSIDE BlockF Malviya Nagar",
+  "Order Date" : "21 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3083",
