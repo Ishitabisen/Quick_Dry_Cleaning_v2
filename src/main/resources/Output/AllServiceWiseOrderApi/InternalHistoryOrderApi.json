@@ -1319,6 +1319,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "280"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19115",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "22 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 3-SHIRT, 2-T SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19116",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "22 May 2026",
+  "Due Date" : "23 May 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 1-PYJAMA (LIGHT), 3-SHIRT, 1-T SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "2220"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19118",
+  "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "22 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19015",
@@ -2397,6 +2430,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "864"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19117",
+  "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "22 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "648"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4824",
@@ -3298,6 +3342,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "570"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3500",
+  "Customer Details" : "gautam c 367 golf view apartment saket",
+  "Order Date" : "22 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-PYJAMA (LIGHT), 2-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Express",
   "Store Name" : "Saket",
