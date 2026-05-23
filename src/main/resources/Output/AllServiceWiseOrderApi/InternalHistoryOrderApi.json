@@ -1726,6 +1726,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19120",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "23 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "560"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G18953",
@@ -2176,6 +2187,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "430"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19119",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "23 May 2026",
+  "Due Date" : "25 May 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 6-KAMEEZ /KURTA (LIGHT), 3-PANTS, 2-PYJAMA, 1-SALWAR, 4-SHIRT, 1-SKIRT, 1-SWEATER (FULL SLEEVE), 4-TOP (LIGHT)",
+  "Qty" : "23",
+  "Pcs" : "23",
+  "Amount without Tax & Discount" : "2570"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -3727,6 +3749,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "75"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3115",
+  "Customer Details" : "Golu c454 def col",
+  "Order Date" : "23 May 2026",
+  "Due Date" : "27 May 2026",
+  "Garment Details Qty Wise" : "1-KURTA + PANTS/SALWAR/CHURIDAR + DUPATTA (PLAIN), 2-KURTA PYAJAMA (LIGHT), 2-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "665"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
