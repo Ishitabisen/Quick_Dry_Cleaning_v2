@@ -4135,6 +4135,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4901",
+  "Customer Details" : "s  mukharjee g  1393 u g floor c r park",
+  "Order Date" : "31 May 2026",
+  "Due Date" : "06 Jun 2026",
+  "Garment Details Qty Wise" : "1-BLAZER, 1-JACKET, 1-PANTS, 1-SWEATER (FULL SLEEVE), 1-SWEATER HALF",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1330"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4902",
+  "Customer Details" : "akash mojumdar e 817 3rd floor c r park",
+  "Order Date" : "31 May 2026",
+  "Due Date" : "06 Jun 2026",
+  "Garment Details Qty Wise" : "2-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "740"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4825",
