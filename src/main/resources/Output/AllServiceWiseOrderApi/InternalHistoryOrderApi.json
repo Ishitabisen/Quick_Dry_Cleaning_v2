@@ -43,6 +43,50 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "1600"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19213",
+  "Customer Details" : "manusi C34 1st flr gp",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 2-KAMEEZ /KURTA (LIGHT), 1-PANTS, 2-PYJAMA",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1410"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19214",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "2-SHIRT, 1-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19216",
+  "Customer Details" : "manusi C34 1st flr gp",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-TRACK PANT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19219",
+  "Customer Details" : "avik mandi road",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-SHIRT, 8-T SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1260"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -64,6 +108,39 @@
   "Qty" : "8",
   "Pcs" : "8",
   "Amount without Tax & Discount" : "80"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19219",
+  "Customer Details" : "avik mandi road",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19215",
+  "Customer Details" : "puspender F47 south ex part1",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "04 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "832"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19220",
+  "Customer Details" : "miss oberai s9 2nd flr gp main near uphar cinema",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "04 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "592"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -98,6 +175,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "1818"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19217",
+  "Customer Details" : "Shlok Kapoor D8 3rd floor green park mains",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1080"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19218",
+  "Customer Details" : "darshan Room No 4 Mehras House No 12 Near Maanmati Hospital Arjun Nagar Safdarjung Enclave",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1020"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4903",
@@ -119,4 +218,26 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "330"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3520",
+  "Customer Details" : "roohani singh d 141 1st floor sai baba mandir saket",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3129",
+  "Customer Details" : "putt punya gupta b 11 1st floor defence colony",
+  "Order Date" : "01 Jun 2026",
+  "Due Date" : "05 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 } ]
