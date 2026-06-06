@@ -373,6 +373,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "840"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19259",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "07 Jun 2026",
+  "Garment Details Qty Wise" : "1-SWEATER (HALF SLEEVE)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "405"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -527,6 +538,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "40"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19259",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "07 Jun 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-T SHIRT, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "60"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19215",
@@ -637,6 +659,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "13992"
 }, {
+  "Service Name" : "Softner",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19260",
+  "Customer Details" : "dharmanand lella place hotel",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "08 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "50"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19235",
@@ -680,6 +713,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "300"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19259",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "07 Jun 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 2-SHIRT, 1-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "487.5"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -757,6 +801,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "660"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19260",
+  "Customer Details" : "dharmanand lella place hotel",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "08 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
