@@ -384,6 +384,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "405"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19262",
+  "Customer Details" : "amrita F 31 green park main",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "10 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT, 1-SWEATER HALF",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "580"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -747,6 +758,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "720"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19261",
+  "Customer Details" : "anish gupta d 11 green park main",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "08 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "549"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19217",
@@ -889,6 +911,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4914",
+  "Customer Details" : "MEENAKSHI K 17 2 1ST FLOOR KALKAJI",
+  "Order Date" : "06 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "5-KURTA LIGHT, 1-LUNGI / DHOTI (SILK), 3-PYJAMA (LIGHT), 1-WAIST COAT",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2500"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
