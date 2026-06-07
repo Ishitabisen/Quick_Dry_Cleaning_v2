@@ -428,6 +428,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "530"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19272",
+  "Customer Details" : "Vivek m 1 green park extention",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "2-COAT, 2-JEANS, 2-PANTS, 4-SHIRT, 1-T SHIRT, 1-WAIST COAT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "2410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -604,6 +615,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19272",
+  "Customer Details" : "Vivek m 1 green park extention",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "1-WAIST COAT, 2-COAT, 2-SHIRT, 3-PANTS",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "80"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19215",
@@ -691,6 +713,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "800"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19271",
+  "Customer Details" : "raphael mayer d 10 green park hotel",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "08 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "720"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -823,6 +856,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "487.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19272",
+  "Customer Details" : "Vivek m 1 green park extention",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -1040,6 +1084,28 @@
   "Order Date" : "07 Jun 2026",
   "Due Date" : "11 Jun 2026",
   "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4917",
+  "Customer Details" : "diya D/675 3rd floor cr park",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "12 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-TOP (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4918",
+  "Customer Details" : "Kalyan Roy g 1373  2 nd floor c r park",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "12 Jun 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
