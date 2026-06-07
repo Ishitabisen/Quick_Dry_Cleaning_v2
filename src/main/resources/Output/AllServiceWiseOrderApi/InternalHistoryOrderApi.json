@@ -439,6 +439,17 @@
   "Pcs" : "12",
   "Amount without Tax & Discount" : "2410"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19273",
+  "Customer Details" : "shalu b7 gp main 2nd flr",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "1-SKIRT, 1-TOP (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "460"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1110,6 +1121,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4919",
+  "Customer Details" : "akash mojumdar e 817 3rd floor c r park",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "12 Jun 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA  (PLAIN), 1-SHAWL (LOHI)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "510"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4913",
@@ -1153,6 +1175,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "855"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4920",
+  "Customer Details" : "adsa fatty K1/116 2nd floor c r park",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "11 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "495"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
@@ -1274,6 +1307,17 @@
   "Qty" : "9",
   "Pcs" : "9",
   "Amount without Tax & Discount" : "1930"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3534",
+  "Customer Details" : "Lars d 293 sarvodaya enclave ground floor",
+  "Order Date" : "07 Jun 2026",
+  "Due Date" : "08 Jun 2026",
+  "Garment Details Qty Wise" : "1-SWEAT SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
