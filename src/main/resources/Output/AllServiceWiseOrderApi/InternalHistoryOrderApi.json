@@ -1715,6 +1715,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1170"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4940",
+  "Customer Details" : "debarpan d  629 c r  park ground floor",
+  "Order Date" : "13 Jun 2026",
+  "Due Date" : "19 Jun 2026",
+  "Garment Details Qty Wise" : "1-BLAZER, 1-COAT, 1-JACKET, 2-PANTS, 4-SHIRT, 2-T SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "2260"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4913",
