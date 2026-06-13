@@ -2221,6 +2221,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "486"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3546",
+  "Customer Details" : "Gayatri menon D block 176 grund floor",
+  "Order Date" : "13 Jun 2026",
+  "Due Date" : "17 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
   "Order Number" : "S3532",
