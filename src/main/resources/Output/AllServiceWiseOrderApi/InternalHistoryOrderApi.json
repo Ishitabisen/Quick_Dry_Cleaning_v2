@@ -1451,6 +1451,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19310",
+  "Customer Details" : "Shlok Kapoor D8 3rd floor green park mains",
+  "Order Date" : "13 Jun 2026",
+  "Due Date" : "17 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "840"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4903",
@@ -1693,6 +1704,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "940"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4939",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "13 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 2-PANTS, 4-SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1170"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4913",
@@ -1868,6 +1890,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1800"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4938",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "13 Jun 2026",
+  "Due Date" : "17 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "672"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
