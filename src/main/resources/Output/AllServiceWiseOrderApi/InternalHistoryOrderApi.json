@@ -1517,6 +1517,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "240"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19316",
+  "Customer Details" : "Hyat House no 4D \nSiri Fort",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "720"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4903",
