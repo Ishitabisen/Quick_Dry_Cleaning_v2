@@ -769,6 +769,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19315",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-WAIST COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "460"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1770,6 +1781,39 @@
   "Pcs" : "11",
   "Amount without Tax & Discount" : "2260"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4941",
+  "Customer Details" : "Mr Das E 844 1st floor c r park",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE, 1-JACKET HALF, 1-QUILT DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1250"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4942",
+  "Customer Details" : "Preety Arora I block 1679 2nd floor c r park",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE, 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "740"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C4943",
+  "Customer Details" : "Abhishek Kapoor E 811 3RD FLOOR CR PARK",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-BAG, 1-CHOLI / BLOUSE (LIGHT), 4-CURTAIN (8 FEET WITH LINING), 1-DUPATTA  (PLAIN), 2-KAMEEZ /KURTA (LIGHT), 1-PETTI COAT, 1-SALWAR, 1-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "3450"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4913",
@@ -2165,6 +2209,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3548",
+  "Customer Details" : "roohani singh d 141 1st floor sai baba mandir saket",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
