@@ -747,6 +747,28 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1010"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19313",
+  "Customer Details" : "mahender sir khel gaon 380",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 3-SHIRT, 1-T SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "900"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19314",
+  "Customer Details" : "ajay mathur blue apartment near haldiram",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -2242,6 +2264,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "720"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3547",
+  "Customer Details" : "aliya nazeern D 28 golf view apartment 2 nd floor",
+  "Order Date" : "14 Jun 2026",
+  "Due Date" : "18 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "636"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
