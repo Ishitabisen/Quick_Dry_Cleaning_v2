@@ -1638,6 +1638,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19334",
+  "Customer Details" : "anish gupta d 11 green park main",
+  "Order Date" : "17 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19217",
