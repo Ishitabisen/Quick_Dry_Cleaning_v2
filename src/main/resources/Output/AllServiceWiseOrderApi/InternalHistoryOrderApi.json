@@ -923,6 +923,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "720"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19341",
+  "Customer Details" : "Arjun A2/25 SJE",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-SHIRT, 2-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "610"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1249,6 +1260,17 @@
   "Order Date" : "18 Jun 2026",
   "Due Date" : "22 Jun 2026",
   "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19339",
+  "Customer Details" : "Indu A 11 extension",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (COTTON/SYN/LIGHT)",
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
@@ -1638,6 +1660,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "300"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19339",
+  "Customer Details" : "Indu A 11 extension",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "20 Jun 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19223",
@@ -1710,6 +1743,17 @@
   "Customer Details" : "kaan safdarjung villa 33",
   "Order Date" : "18 Jun 2026",
   "Due Date" : "19 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19340",
+  "Customer Details" : "Anushka gp",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "20 Jun 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
@@ -3012,6 +3056,17 @@
   "Qty" : "15",
   "Pcs" : "15",
   "Amount without Tax & Discount" : "2100"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3145",
+  "Customer Details" : "sunaina r 28 south extension part 2",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-DRESS (LIGHT)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
