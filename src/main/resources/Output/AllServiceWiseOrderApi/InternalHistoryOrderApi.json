@@ -901,6 +901,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1250"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19336",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "21 Jun 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-T SHIRT, 1-TOP (MEDIUM)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "670"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19337",
+  "Customer Details" : "Manisha greenpark",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1216,6 +1238,17 @@
   "Order Date" : "18 Jun 2026",
   "Due Date" : "22 Jun 2026",
   "Garment Details Qty Wise" : "1-KURTA LIGHT, 1-LONGCOAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19337",
+  "Customer Details" : "Manisha greenpark",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "2-COAT",
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
@@ -1670,6 +1703,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "900"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19338",
+  "Customer Details" : "kaan safdarjung villa 33",
+  "Order Date" : "18 Jun 2026",
+  "Due Date" : "19 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
