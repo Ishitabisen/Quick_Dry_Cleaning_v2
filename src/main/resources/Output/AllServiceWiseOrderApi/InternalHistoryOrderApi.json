@@ -945,6 +945,39 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "950"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19344",
+  "Customer Details" : "avik mandi road",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "24 Jun 2026",
+  "Garment Details Qty Wise" : "12-SHIRT, 11-T SHIRT",
+  "Qty" : "23",
+  "Pcs" : "23",
+  "Amount without Tax & Discount" : "3220"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19345",
+  "Customer Details" : "Vishal tanmay mehta D5",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "24 Jun 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-JACKET",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19346",
+  "Customer Details" : "shurti eco house girl pg",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "24 Jun 2026",
+  "Garment Details Qty Wise" : "1-BLANKET DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "520"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1290,6 +1323,28 @@
   "Store Name" : "Greenpark",
   "Order Number" : "G19343",
   "Customer Details" : "priyanka b 25 green park main",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "24 Jun 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19344",
+  "Customer Details" : "avik mandi road",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "24 Jun 2026",
+  "Garment Details Qty Wise" : "12-SHIRT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "120"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19345",
+  "Customer Details" : "Vishal tanmay mehta D5",
   "Order Date" : "19 Jun 2026",
   "Due Date" : "24 Jun 2026",
   "Garment Details Qty Wise" : "1-COAT",
