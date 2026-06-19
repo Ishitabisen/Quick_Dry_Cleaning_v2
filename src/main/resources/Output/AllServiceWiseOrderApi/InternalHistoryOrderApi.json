@@ -978,6 +978,39 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "520"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19349",
+  "Customer Details" : "Arti ina colony",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "3-JACKET",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1080"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19350",
+  "Customer Details" : "rajender ( shakti delhi police) green park",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19351",
+  "Customer Details" : "Sidhant gp",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 2-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1351,6 +1384,50 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19347",
+  "Customer Details" : "Ulysse F42 gp main",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "21 Jun 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19350",
+  "Customer Details" : "rajender ( shakti delhi police) green park",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19351",
+  "Customer Details" : "Sidhant gp",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 2-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Home Services",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19352",
+  "Customer Details" : "singh b1/33 hauz khas",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "19 Jun 2026",
+  "Garment Details Qty Wise" : "4-CHAIR  (SEAT AND BACK), 1-CHAIR (SEAT ONLY)",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1200"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
@@ -1759,6 +1836,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "280"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19347",
+  "Customer Details" : "Ulysse F42 gp main",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "21 Jun 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "300"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19223",
@@ -1985,6 +2073,17 @@
   "Customer Details" : "koo d 13 2nd floor green park main",
   "Order Date" : "15 Jun 2026",
   "Due Date" : "19 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19348",
+  "Customer Details" : "koo d 13 2nd floor green park main",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "22 Jun 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
@@ -3166,6 +3265,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "2700"
+}, {
+  "Service Name" : "Home Services",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3148",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "19 Jun 2026",
+  "Due Date" : "26 Jun 2026",
+  "Garment Details Qty Wise" : "5-CARPET",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "4640"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",

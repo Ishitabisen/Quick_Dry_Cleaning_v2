@@ -7,6 +7,13 @@
   "Pcs" : "63"
 }, {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Home Services",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "4640",
+  "Quantity" : "5",
+  "Pcs" : "5"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "1395",
