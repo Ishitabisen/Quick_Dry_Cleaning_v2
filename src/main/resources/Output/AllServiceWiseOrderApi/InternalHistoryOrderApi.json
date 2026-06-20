@@ -3398,6 +3398,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "870"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3151",
+  "Customer Details" : "Rakesh Kumar c 241",
+  "Order Date" : "20 Jun 2026",
+  "Due Date" : "25 Jun 2026",
+  "Garment Details Qty Wise" : "9-SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1260"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3148",
