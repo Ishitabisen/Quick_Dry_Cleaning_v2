@@ -1121,6 +1121,28 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "760"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19367",
+  "Customer Details" : "hegde G10 gp main 3rd flr",
+  "Order Date" : "21 Jun 2026",
+  "Due Date" : "26 Jun 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-JEANS, 1-KAMEEZ /KURTA (HEAVY), 1-KAMEEZ /KURTA (LIGHT), 3-PANTS, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SHARARA  (LIGHT), 5-SHIRT",
+  "Qty" : "14",
+  "Pcs" : "14",
+  "Amount without Tax & Discount" : "2950"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19368",
+  "Customer Details" : "Jaskaran Singh E92 (2nd floor)",
+  "Order Date" : "21 Jun 2026",
+  "Due Date" : "25 Jun 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 3-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "760"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
