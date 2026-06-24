@@ -1286,6 +1286,28 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1530"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19386",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "24 Jun 2026",
+  "Due Date" : "28 Jun 2026",
+  "Garment Details Qty Wise" : "3-PANTS, 4-SHIRT, 1-T SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1210"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19388",
+  "Customer Details" : "junit K51 gp mian 3rd flr",
+  "Order Date" : "24 Jun 2026",
+  "Due Date" : "28 Jun 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1956,6 +1978,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19387",
+  "Customer Details" : "junit K51 gp mian 3rd flr",
+  "Order Date" : "24 Jun 2026",
+  "Due Date" : "27 Jun 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1600"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -4035,6 +4068,17 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "890"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3154",
+  "Customer Details" : "anuj bajaj a 444 defence colony",
+  "Order Date" : "24 Jun 2026",
+  "Due Date" : "27 Jun 2026",
+  "Garment Details Qty Wise" : "2-BED SPREAD DOUBLE, 2-COAT, 2-KURTA + PANTS/SALWAR/CHURIDAR (HEAVY), 1-SUIT 3 PCS",
+  "Qty" : "7",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "3230"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
