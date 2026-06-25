@@ -1330,6 +1330,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1060"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19391",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "25 Jun 2026",
+  "Due Date" : "28 Jun 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (HEAVY), 3-COAT, 12-PANTS, 1-QUILT SINGLE, 1-SAREE (EMBROIDERED/HEAVY)), 11-SHIRT, 1-T SHIRT, 3-TABLE RUNNER FANCY",
+  "Qty" : "33",
+  "Pcs" : "33",
+  "Amount without Tax & Discount" : "6870"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19207",
@@ -1802,6 +1813,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19391",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "25 Jun 2026",
+  "Due Date" : "28 Jun 2026",
+  "Garment Details Qty Wise" : "11-SHIRT, 12-PANTS",
+  "Qty" : "23",
+  "Pcs" : "23",
+  "Amount without Tax & Discount" : "230"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
