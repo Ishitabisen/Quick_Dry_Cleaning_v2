@@ -45,7 +45,7 @@ public class ServiceWiseOrders {
             wait.until(ExpectedConditions.not(ExpectedConditions.urlContains("Login")));
 
             WebElement reportsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]")));
-            WebElement serviceWiseOrderButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]/ul/child::li[5]"));
+            WebElement serviceWiseOrderButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]/ul/child::li[6]"));
 
             try {
                 reportsButton.click();
