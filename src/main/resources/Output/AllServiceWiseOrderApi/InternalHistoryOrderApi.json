@@ -2705,6 +2705,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "2050"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3611",
+  "Customer Details" : "anuraag a 5 golf view apartment saket",
+  "Order Date" : "16 Jul 2026",
+  "Due Date" : "18 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS, 1-WAIST COAT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "800"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3574",
