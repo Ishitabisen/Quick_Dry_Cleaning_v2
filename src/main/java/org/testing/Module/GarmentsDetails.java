@@ -47,7 +47,7 @@ public class GarmentsDetails {
             wait.until(ExpectedConditions.not(ExpectedConditions.urlContains("Login")));
 
             WebElement accountsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]")));
-            WebElement garmentsDetailsTypeButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]/ul/child::li[last()-1]"));
+            WebElement garmentsDetailsTypeButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]/ul/child::li[last()-8]"));
             try {
                 accountsButton.click();
                 garmentsDetailsTypeButton.click();
