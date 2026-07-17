@@ -3497,6 +3497,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "580"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3196",
+  "Customer Details" : "shiri niwas c 134 1st floor defence colony",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3168",
