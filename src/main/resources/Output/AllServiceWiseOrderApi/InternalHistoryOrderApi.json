@@ -956,6 +956,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "590"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19576",
+  "Customer Details" : "vijay  kumar 39 hoss khazz village  floor g  floor",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19577",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (HEAVY), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "540"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -1329,6 +1351,28 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19576",
+  "Customer Details" : "vijay  kumar 39 hoss khazz village  floor g  floor",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19577",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (HEAVY), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
@@ -1935,6 +1979,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19575",
+  "Customer Details" : "vijay  kumar 39 hoss khazz village  floor g  floor",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4974",
@@ -2298,6 +2353,39 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "170"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5015",
+  "Customer Details" : "Harsil mehta h 1481 1st floor c r park",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 2-PILLOW COVERS (COTTON), 1-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "728"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5016",
+  "Customer Details" : "Mona Lisa Dev J 1866 Ground Floor CR PARK",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "19-CUSHION COVER (SMALL)",
+  "Qty" : "19",
+  "Pcs" : "19",
+  "Amount without Tax & Discount" : "2850"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5018",
+  "Customer Details" : "gautam 1896 18 2nd floor govind puri ext",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "3-JACKET, 1-JACKET HALF, 1-JEANS",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1540"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4979",
@@ -2386,6 +2474,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1927"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5018",
+  "Customer Details" : "gautam 1896 18 2nd floor govind puri ext",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-SPORTS SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "509"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C4982",
@@ -2451,6 +2550,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1170"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5017",
+  "Customer Details" : "Harsil mehta h 1481 1st floor c r park",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
@@ -2738,6 +2848,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "800"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3612",
+  "Customer Details" : "ashish SAKEYT",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "3-KURTA LIGHT, 1-PYJAMA (LIGHT), 1-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1120"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3613",
+  "Customer Details" : "Niharika oinam A42  shivalik colony",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS, 2-PILLOW (LARGE), 1-WAIST COAT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1620"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3574",
@@ -2803,6 +2935,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3613",
+  "Customer Details" : "Niharika oinam A42  shivalik colony",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS, 1-WAIST COAT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "30"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
@@ -3287,6 +3430,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "760"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3195",
+  "Customer Details" : "shorav nagpal c 530 f floor defence colony",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PANTS, 1-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "580"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
