@@ -1539,6 +1539,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "5239"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19578",
+  "Customer Details" : "akshy u28 U28 gp main 1st flr",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "23 Jul 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES, 2-SUEDE SHOES",
+  "Qty" : "3",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "2558"
+}, {
   "Service Name" : "Softner",
   "Store Name" : "Greenpark",
   "Order Number" : "G19481",
@@ -2869,6 +2880,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1620"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3614",
+  "Customer Details" : "richa dhanuja g  13 gaurav apartment saket",
+  "Order Date" : "17 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-ANARKALI KURTA  HEAVY, 1-DUPATTA (LIGHT), 2-KURTA LIGHT, 1-SHARARA  (LIGHT)",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1750"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
