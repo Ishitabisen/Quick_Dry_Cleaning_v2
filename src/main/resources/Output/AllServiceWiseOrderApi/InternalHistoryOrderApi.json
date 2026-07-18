@@ -3112,6 +3112,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1100"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3616",
+  "Customer Details" : "Darayus Nariman 127A central  avenueSainik Farm",
+  "Order Date" : "18 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 5-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3574",
@@ -3188,6 +3199,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3616",
+  "Customer Details" : "Darayus Nariman 127A central  avenueSainik Farm",
+  "Order Date" : "18 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 5-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "60"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
@@ -3298,6 +3320,17 @@
   "Qty" : "14",
   "Pcs" : "14",
   "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Starch",
+  "Store Name" : "Saket",
+  "Order Number" : "S3616",
+  "Customer Details" : "Darayus Nariman 127A central  avenueSainik Farm",
+  "Order Date" : "18 Jul 2026",
+  "Due Date" : "22 Jul 2026",
+  "Garment Details Qty Wise" : "5-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "100"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
