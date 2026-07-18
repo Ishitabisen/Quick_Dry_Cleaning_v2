@@ -2,9 +2,9 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "28780",
-  "Quantity" : "153",
-  "Pcs" : "153"
+  "Amount without Tax & Discount" : "29930",
+  "Quantity" : "161",
+  "Pcs" : "161"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Premium Laundry",
@@ -16,16 +16,16 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Leather Care",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "540",
-  "Quantity" : "1",
-  "Pcs" : "2"
+  "Amount without Tax & Discount" : "1280",
+  "Quantity" : "2",
+  "Pcs" : "4"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "350",
-  "Quantity" : "3",
-  "Pcs" : "3"
+  "Amount without Tax & Discount" : "580",
+  "Quantity" : "5",
+  "Pcs" : "5"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Fold",
