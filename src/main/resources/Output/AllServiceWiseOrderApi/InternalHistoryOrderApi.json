@@ -1077,6 +1077,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "2178"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19595",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "19 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "9-COAT, 3-PANTS, 5-SHIRT, 4-TIE",
+  "Qty" : "21",
+  "Pcs" : "21",
+  "Amount without Tax & Discount" : "4886"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19596",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "19 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 4-PANTS, 5-SHIRT, 1-T SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "1710"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19597",
+  "Customer Details" : "hegde G10 gp main 3rd flr",
+  "Order Date" : "19 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 4-SHIRT, 1-T SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1040"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -1549,6 +1582,28 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19595",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "19 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "3-PANTS, 9-COAT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "120"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19596",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "19 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "5-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "50"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
