@@ -1132,6 +1132,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "330"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19601",
+  "Customer Details" : "Amit greenpark",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19602",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "1-BLANKET SINGLE, 1-KURTA LIGHT, 7-PANTS, 1-PYJAMA (LIGHT), 1-QUILT DOUBLE, 5-SHIRT, 1-SHORTS, 4-T SHIRT, 1-TRACK PANT",
+  "Qty" : "22",
+  "Pcs" : "22",
+  "Amount without Tax & Discount" : "4035"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19604",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE, 2-CUSHION COVER (BIG)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "750"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -1627,6 +1660,28 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "50"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19602",
+  "Customer Details" : "amit sharma B6 / 107 3rd floor sje",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "4-PANTS, 5-SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "90"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19603",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "20"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
   "Order Number" : "G19560",
@@ -2054,6 +2109,17 @@
   "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 2-PILLOW COVERS (SILK)",
   "Qty" : "3",
   "Pcs" : "3",
+  "Amount without Tax & Discount" : "370"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19603",
+  "Customer Details" : "semmi e13 gp main",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
   "Amount without Tax & Discount" : "370"
 }, {
   "Service Name" : "Wash and Fold",
@@ -2968,6 +3034,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5023",
+  "Customer Details" : "shubham nagar 59/ nehru apartments kalkaji c r park road",
+  "Order Date" : "20 Jul 2026",
+  "Due Date" : "23 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1080"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
