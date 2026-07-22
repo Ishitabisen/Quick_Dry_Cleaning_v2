@@ -1748,6 +1748,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19613",
+  "Customer Details" : "mery f 42 gp main  floor 3 rd",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "23 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 8-SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "90"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
   "Order Number" : "G19560",
@@ -1841,6 +1852,17 @@
   "Order Number" : "G19608",
   "Customer Details" : "Shakti Delhi police",
   "Order Date" : "20 Jul 2026",
+  "Due Date" : "24 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "480"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19612",
+  "Customer Details" : "Nishant D10 gp",
+  "Order Date" : "22 Jul 2026",
   "Due Date" : "24 Jul 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
@@ -2220,6 +2242,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "247.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19613",
+  "Customer Details" : "mery f 42 gp main  floor 3 rd",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "23 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 8-SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "700"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -2947,6 +2980,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5026",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "2-COAT, 2-PANTS",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1060"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5027",
+  "Customer Details" : "debarpan d  629 c r  park ground floor",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "3-COAT, 1-LUNGI / DHOTI (SILK), 4-PANTS, 1-PULLOVER, 2-SHIRT, 2-T SHIRT, 1-WAIST COAT",
+  "Qty" : "14",
+  "Pcs" : "14",
+  "Amount without Tax & Discount" : "3280"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5028",
+  "Customer Details" : "Vivek employee",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 2-KAMEEZ /KURTA (LIGHT), 1-PANTS, 2-PYJAMA, 1-SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1380"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4979",
@@ -2979,6 +3045,28 @@
   "Qty" : "8",
   "Pcs" : "8",
   "Amount without Tax & Discount" : "80"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5026",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "2-COAT, 2-PANTS",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5027",
+  "Customer Details" : "debarpan d  629 c r  park ground floor",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "1-WAIST COAT, 2-PANTS, 3-COAT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "60"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
@@ -3085,6 +3173,17 @@
   "Customer Details" : "haimanti ray B 398 2nd floor c r park",
   "Order Date" : "13 Jul 2026",
   "Due Date" : "20 Jul 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "75"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5026",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
   "Garment Details Qty Wise" : "1-SHIRT",
   "Qty" : "1",
   "Pcs" : "1",
