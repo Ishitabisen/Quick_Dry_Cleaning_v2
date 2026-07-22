@@ -1209,6 +1209,28 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1770"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19614",
+  "Customer Details" : "Milan meena B5/28 Safdarjung Enclave Opp Deer Park Safdarjung Enclave New Delhi Delhi 110029",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "2-COAT, 6-PANTS",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1740"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19615",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE, 2-QUILT SINGLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -3640,6 +3662,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3624",
+  "Customer Details" : "MRS RUDRA A 14 2ND FLOOR PRESS ENCLAVE",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 5-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "870"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3574",
@@ -3991,6 +4024,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "876"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3623",
+  "Customer Details" : "DEEPAKSHI VERMA G 121 GROUND FLOOR SAKET",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "660"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
