@@ -2210,6 +2210,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "200"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19611",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "23 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "247.5"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19441",
@@ -4420,4 +4431,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1176"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3204",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "22 Jul 2026",
+  "Due Date" : "25 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1568"
 } ]
