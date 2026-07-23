@@ -2543,7 +2543,7 @@
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19483",
-  "Customer Details" : "Hyat House no 4D \nSiri Fort",
+  "Customer Details" : "Hayat House no 4D \nSiri Fort",
   "Order Date" : "05 Jul 2026",
   "Due Date" : "09 Jul 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -2697,7 +2697,7 @@
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19624",
-  "Customer Details" : "Hyat House no 4D \nSiri Fort",
+  "Customer Details" : "Hayat House no 4D \nSiri Fort",
   "Order Date" : "23 Jul 2026",
   "Due Date" : "26 Jul 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -4057,6 +4057,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "2659"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3628",
+  "Customer Details" : "Abhishek Srivastava saket Eblock 108 2ed floor",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "2-LEATHER SHOES, 2-SPORTS SHOES, 1-SUEDE SHOES",
+  "Qty" : "5",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "3345"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
