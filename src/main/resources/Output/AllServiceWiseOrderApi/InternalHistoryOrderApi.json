@@ -1242,6 +1242,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "750"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19617",
+  "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "2-SHIRT, 3-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "700"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -2584,6 +2595,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19618",
+  "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19619",
+  "Customer Details" : "Hassan 25/4   Shiva Exports in front of Gopi Restaurant Mandir Vaali Gali Green Park main",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "26 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "984"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C4974",
@@ -3045,6 +3078,39 @@
   "Qty" : "7",
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1380"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5030",
+  "Customer Details" : "Hema kashavp G 1270 2nd floor c r park",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "2-KAMEEZ /KURTA (LIGHT), 1-KURTA LIGHT, 2-SALWAR",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1150"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5031",
+  "Customer Details" : "Perrine L K1/9 second floor CR park",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "3-CHOLI / BLOUSE (LIGHT), 1-SKIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "780"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5032",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "23 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 5-PANTS, 1-PYJAMA (LIGHT), 5-SHIRT, 1-T SHIRT",
+  "Qty" : "13",
+  "Pcs" : "13",
+  "Amount without Tax & Discount" : "2050"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
