@@ -1330,6 +1330,50 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "2030"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19631",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 2-SHIRT, 1-TOP (LIGHT)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "830"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19632",
+  "Customer Details" : "priya chopra c5 22 s d a ground floor",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-PANTS, 4-SHIRT, 1-SHORTS, 1-T SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1190"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19633",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 3-SHIRT, 2-SWEATER (FULL SLEEVE)",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1230"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19634",
+  "Customer Details" : "Rajesh Delhi police SI",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -2473,6 +2517,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "487.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19631",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "215"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
