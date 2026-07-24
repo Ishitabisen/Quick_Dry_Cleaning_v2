@@ -1308,6 +1308,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19628",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -1890,6 +1901,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19628",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "27 Jul 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
@@ -4728,6 +4750,17 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "840"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3208",
+  "Customer Details" : "Rao C 250  G Foor",
+  "Order Date" : "24 Jul 2026",
+  "Due Date" : "29 Jul 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
