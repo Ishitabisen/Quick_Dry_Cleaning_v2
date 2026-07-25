@@ -4366,6 +4366,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "640"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3637",
+  "Customer Details" : "akhil c 79 golf view apartment saket",
+  "Order Date" : "25 Jul 2026",
+  "Due Date" : "31 Jul 2026",
+  "Garment Details Qty Wise" : "2-CURTAIN (8 FEET WITHOUT LINING)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "1080"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3574",
