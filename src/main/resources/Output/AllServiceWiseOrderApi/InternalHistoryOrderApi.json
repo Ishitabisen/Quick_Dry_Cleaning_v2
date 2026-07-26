@@ -4971,6 +4971,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "660"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3642",
+  "Customer Details" : "Advitiya b7 uniliv oak a block",
+  "Order Date" : "26 Jul 2026",
+  "Due Date" : "30 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "612"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3159",
@@ -5630,4 +5641,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1020"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3215",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "26 Jul 2026",
+  "Due Date" : "30 Jul 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1068"
 } ]
