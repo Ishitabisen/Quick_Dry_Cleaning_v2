@@ -3818,17 +3818,6 @@
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
-  "Order Number" : "C5043",
-  "Customer Details" : "A roy chaudhary pocket j house no 27  sarita vihar",
-  "Order Date" : "27 Jul 2026",
-  "Due Date" : "03 Aug 2026",
-  "Garment Details Qty Wise" : "2-SAREE (COTTON/SYN/LIGHT), 3-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SHIRT",
-  "Qty" : "6",
-  "Pcs" : "6",
-  "Amount without Tax & Discount" : "2140"
-}, {
-  "Service Name" : "Dry Cleaning",
-  "Store Name" : "CR Park",
   "Order Number" : "C5045",
   "Customer Details" : "Rajindar 71 a dda flats phase 2   masjid moth",
   "Order Date" : "27 Jul 2026",
@@ -3867,6 +3856,17 @@
   "Order Date" : "27 Jul 2026",
   "Due Date" : "01 Aug 2026",
   "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5049",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "28 Jul 2026",
+  "Due Date" : "01 Aug 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
@@ -3947,17 +3947,6 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
-}, {
-  "Service Name" : "Hanger",
-  "Store Name" : "CR Park",
-  "Order Number" : "C5043",
-  "Customer Details" : "A roy chaudhary pocket j house no 27  sarita vihar",
-  "Order Date" : "27 Jul 2026",
-  "Due Date" : "03 Aug 2026",
-  "Garment Details Qty Wise" : "2-SAREE (COTTON/SYN/LIGHT), 3-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
-  "Qty" : "5",
-  "Pcs" : "5",
-  "Amount without Tax & Discount" : "50"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
