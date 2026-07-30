@@ -2309,6 +2309,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "50"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19671",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "31 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "15"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Greenpark",
   "Order Number" : "G19560",
@@ -2990,6 +3001,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "270"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19671",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "31 Jul 2026",
+  "Garment Details Qty Wise" : "1-JEANS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "150"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -4080,6 +4102,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "270"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5054",
+  "Customer Details" : "raka chatterjee house no 32 first floor  pocket 52 c r park",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "270"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5055",
+  "Customer Details" : "Vivek employee",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "02 Aug 2026",
+  "Garment Details Qty Wise" : "1-JEANS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "190"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4979",
@@ -4255,6 +4299,17 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "509"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5054",
+  "Customer Details" : "raka chatterjee house no 32 first floor  pocket 52 c r park",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "709"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
@@ -6235,4 +6290,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1140"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3224",
+  "Customer Details" : "SHUBHANKAR B 31 GF DEFENCE COLONY",
+  "Order Date" : "30 Jul 2026",
+  "Due Date" : "02 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "800"
 } ]
