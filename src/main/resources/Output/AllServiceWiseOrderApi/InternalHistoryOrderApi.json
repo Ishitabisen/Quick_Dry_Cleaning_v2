@@ -1660,6 +1660,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "720"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19681",
+  "Customer Details" : "taniya chopra A65 gautam nagar",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "1-SHIRT, 1-SWEATER HALF",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "410"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19682",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "03 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19683",
+  "Customer Details" : "rahul arya  d27 gulmohar park",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19440",
@@ -4267,6 +4300,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "780"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5059",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "2-CARPET, 2-PANTS, 3-SHIRT, 2-T SHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "2346.05"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C4979",
@@ -4343,6 +4387,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5059",
+  "Customer Details" : "mona liza  e 848 3 rd floor c r park",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "05 Aug 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-T SHIRT, 3-SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "70"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
@@ -6279,6 +6334,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3226",
+  "Customer Details" : "Rakesh Kumar c 241",
+  "Order Date" : "31 Jul 2026",
+  "Due Date" : "03 Aug 2026",
+  "Garment Details Qty Wise" : "3-BLANKET DOUBLE, 9-PILLOW COVERS (COTTON), 9-PILLOW COVERS (SILK)",
+  "Qty" : "21",
+  "Pcs" : "21",
+  "Amount without Tax & Discount" : "4071"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Defence Colony",
