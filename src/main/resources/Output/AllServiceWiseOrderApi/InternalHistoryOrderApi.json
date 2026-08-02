@@ -164,6 +164,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19700",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "02 Aug 2026",
+  "Due Date" : "06 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "896"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19690",
@@ -252,6 +263,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "320"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5065",
+  "Customer Details" : "Karan Singh E 942 3rd floor CR PARK",
+  "Order Date" : "02 Aug 2026",
+  "Due Date" : "07 Aug 2026",
+  "Garment Details Qty Wise" : "7-SHIRT, 1-T SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1120"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -274,6 +296,17 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "90"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5064",
+  "Customer Details" : "Karan Singh E 942 3rd floor CR PARK",
+  "Order Date" : "02 Aug 2026",
+  "Due Date" : "06 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "2280"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
   "Order Number" : "S3652",
@@ -295,6 +328,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "740"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3232",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "02 Aug 2026",
+  "Due Date" : "03 Aug 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 2-SHIRT, 2-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
