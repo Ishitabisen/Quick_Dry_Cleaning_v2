@@ -21,6 +21,13 @@
   "Pcs" : "1"
 }, {
   "Store Name" : "Greenpark",
+  "Service Name" : "Softner",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "74",
+  "Quantity" : "1",
+  "Pcs" : "1"
+}, {
+  "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "945",
@@ -37,7 +44,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "636",
-  "Quantity" : "1",
-  "Pcs" : "1"
+  "Amount without Tax & Discount" : "1524",
+  "Quantity" : "2",
+  "Pcs" : "2"
 } ]
