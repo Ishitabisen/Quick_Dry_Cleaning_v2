@@ -461,6 +461,39 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5069",
+  "Customer Details" : "Sayesha Khanna E 446 pritam niwas 2nd floor gk2",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "1-BLAZER, 2-CUSHION COVER (SMALL)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "660"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5070",
+  "Customer Details" : "virendar kashana D 738 3rd floor c r park",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "2-DUPATTA (LIGHT), 1-JACKET, 2-KAMEEZ /KURTA (HEAVY), 2-SHARARA  (LIGHT)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "2080"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5071",
+  "Customer Details" : "Akash Bhadauria E615 Second Floor Inder Mohan Bhardwaj Marg Block E GK2 Delhi",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "07 Aug 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-PANTS, 2-SHORTS, 3-T SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1040"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -482,6 +515,28 @@
   "Qty" : "9",
   "Pcs" : "9",
   "Amount without Tax & Discount" : "90"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5069",
+  "Customer Details" : "Sayesha Khanna E 446 pritam niwas 2nd floor gk2",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "1-BLAZER",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5070",
+  "Customer Details" : "virendar kashana D 738 3rd floor c r park",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 2-DUPATTA (LIGHT), 2-KAMEEZ /KURTA (HEAVY), 2-SHARARA  (LIGHT)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "70"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
