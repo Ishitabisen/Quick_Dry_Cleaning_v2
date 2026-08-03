@@ -593,6 +593,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3658",
+  "Customer Details" : "sindhu mastila b 7 unlive saket opposite gyan bharti school",
+  "Order Date" : "03 Aug 2026",
+  "Due Date" : "07 Aug 2026",
+  "Garment Details Qty Wise" : "2-ANARKALI KURTA  LIGHT, 1-BLANKET DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1560"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
   "Order Number" : "S3653",
