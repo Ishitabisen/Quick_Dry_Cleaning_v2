@@ -494,6 +494,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1040"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5073",
+  "Customer Details" : "pinky raj vanshi E/904 1st floor c r park",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -548,6 +559,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "2280"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5072",
+  "Customer Details" : "saurav E 978 GROUND FLOOR C R PARK",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "744"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
@@ -604,6 +626,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1560"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3659",
+  "Customer Details" : "geehls b 23 golf view apartment 3 rd floor saket",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "1-ANARKALI KURTA  LIGHT, 3-DRESS (LIGHT), 2-PYJAMA (LIGHT), 4-T SHIRT",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2500"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3661",
+  "Customer Details" : "anchal 60 b 1 sainik farm",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "3-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "420"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
   "Order Number" : "S3653",
@@ -625,6 +669,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3660",
+  "Customer Details" : "nehal aktar D111 saket golden home",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "06 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
