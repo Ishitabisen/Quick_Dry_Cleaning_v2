@@ -153,6 +153,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19711",
+  "Customer Details" : "Dicky 77 humayu pur",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19712",
+  "Customer Details" : "naman gupta d3 gp main",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT, 1-SWEATER (FULL SLEEVE)",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "940"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -317,6 +339,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "412.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19712",
+  "Customer Details" : "naman gupta d3 gp main",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -526,6 +559,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "640"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5076",
+  "Customer Details" : "RITISHA F1112 3RD FLOOR CR PARK",
+  "Order Date" : "05 Aug 2026",
+  "Due Date" : "10 Aug 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-JACKET, 1-SHAWL (LOHI)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1090"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
