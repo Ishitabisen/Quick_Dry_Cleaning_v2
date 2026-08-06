@@ -14,6 +14,13 @@
   "Pcs" : "1"
 }, {
   "Store Name" : "Saket",
+  "Service Name" : "Steam Iron",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "1040",
+  "Quantity" : "2",
+  "Pcs" : "2"
+}, {
+  "Store Name" : "Saket",
   "Service Name" : "Starch",
   "Service Type" : "Top Up/Extra Service",
   "Amount without Tax & Discount" : "20",

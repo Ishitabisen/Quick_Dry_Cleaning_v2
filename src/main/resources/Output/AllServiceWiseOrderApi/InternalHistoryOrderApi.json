@@ -868,6 +868,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "0"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3665",
+  "Customer Details" : "Fragramce shop private limlted Gucci select city walk",
+  "Order Date" : "06 Aug 2026",
+  "Due Date" : "09 Aug 2026",
+  "Garment Details Qty Wise" : "2-CURTAIN (8 FEET WITH LINING)",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "1040"
+}, {
   "Service Name" : "Starch",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
