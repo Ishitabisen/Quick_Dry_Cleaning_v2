@@ -7,6 +7,13 @@
   "Pcs" : "56"
 }, {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Home Services",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "3840",
+  "Quantity" : "2",
+  "Pcs" : "2"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Leather Care",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "740",
