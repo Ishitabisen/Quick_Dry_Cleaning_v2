@@ -263,6 +263,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "870"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19727",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "07 Aug 2026",
+  "Due Date" : "10 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1296,4 +1307,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3244",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "07 Aug 2026",
+  "Due Date" : "08 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "2160"
 } ]
