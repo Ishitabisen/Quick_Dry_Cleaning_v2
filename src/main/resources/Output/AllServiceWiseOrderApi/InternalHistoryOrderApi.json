@@ -637,6 +637,17 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "1130"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19737",
+  "Customer Details" : "Niharika Green park ext K block",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "10 Aug 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "260"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19695",
