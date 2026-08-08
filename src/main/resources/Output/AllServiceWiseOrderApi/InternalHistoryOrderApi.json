@@ -802,6 +802,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5080",
+  "Customer Details" : "S DAS GUPTA 46 DESHBANDU APARTMENT",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5081",
+  "Customer Details" : "Sandeep E 817 2nd floor c r park",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -845,6 +867,17 @@
   "Qty" : "7",
   "Pcs" : "7",
   "Amount without Tax & Discount" : "70"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5081",
+  "Customer Details" : "Sandeep E 817 2nd floor c r park",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
