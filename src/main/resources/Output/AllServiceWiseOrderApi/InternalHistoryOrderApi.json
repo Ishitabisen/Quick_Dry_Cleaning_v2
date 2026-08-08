@@ -296,6 +296,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1120"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19732",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "530"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -424,6 +435,17 @@
   "Order Date" : "06 Aug 2026",
   "Due Date" : "10 Aug 2026",
   "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19732",
+  "Customer Details" : "amit sharma E11 E11 gp main",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
