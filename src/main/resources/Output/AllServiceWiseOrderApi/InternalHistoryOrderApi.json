@@ -274,6 +274,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "410"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19729",
+  "Customer Details" : "rhitamjeet sahaia F79 gp main 4th flr",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 2-TOP (LIGHT)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "650"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19730",
+  "Customer Details" : "rohan k12 gp ext 3rd flr",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "2-SHIRT, 6-T SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1120"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -626,6 +648,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19728",
+  "Customer Details" : "vijay  kumar 39 hoss khazz village  floor g  floor",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "10 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -824,6 +857,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5082",
+  "Customer Details" : "Gita E 942 cr park",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "410"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -900,6 +944,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5083",
+  "Customer Details" : "Debika Pattanayak C428 4th floor CR PARK",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "594"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
