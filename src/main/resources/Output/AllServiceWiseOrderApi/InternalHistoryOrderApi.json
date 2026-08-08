@@ -978,6 +978,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "850"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5086",
+  "Customer Details" : "ananya ghosh H/1498 2nd floor c r park",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-CUSHION (SMALL), 1-PILLOW (MEDIUM), 1-QUILT DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1100"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -1242,6 +1253,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3674",
+  "Customer Details" : "raja E block 94 3th flor saket",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "3-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "420"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
@@ -1263,6 +1285,28 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "0"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Saket",
+  "Order Number" : "S3673",
+  "Customer Details" : "raja E block 94 3th flor saket",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1328"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3674",
+  "Customer Details" : "raja E block 94 3th flor saket",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "12 Aug 2026",
+  "Garment Details Qty Wise" : "1-LEATHER BOOTS, 1-LEATHER SHOES",
+  "Qty" : "2",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1959"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
