@@ -340,6 +340,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "930"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19735",
+  "Customer Details" : "Ganesh N 3 GP",
+  "Order Date" : "08 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-CUSHION COVER (BIG), 2-KAMEEZ /KURTA (LIGHT), 1-PILLOW (SMALL), 1-SHARARA (PLAIN), 1-TOP (MEDIUM)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1720"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
