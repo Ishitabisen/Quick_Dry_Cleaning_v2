@@ -637,6 +637,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "74"
 }, {
+  "Service Name" : "Softner",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19745",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19690",
@@ -867,6 +878,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "864"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19745",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1080"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -1506,6 +1528,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "320"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3680",
+  "Customer Details" : "ali c 38 chattarpur",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "6-JEANS, 5-SHIRT, 1-SWEAT PANTS, 2-SWEAT SHIRT, 4-T SHIRT, 4-TRACK PANT",
+  "Qty" : "22",
+  "Pcs" : "22",
+  "Amount without Tax & Discount" : "3890"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
@@ -1526,6 +1559,17 @@
   "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA",
   "Qty" : "3",
   "Pcs" : "3",
+  "Amount without Tax & Discount" : "0"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3680",
+  "Customer Details" : "ali c 38 chattarpur",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "6-JEANS",
+  "Qty" : "6",
+  "Pcs" : "6",
   "Amount without Tax & Discount" : "0"
 }, {
   "Service Name" : "Premium Laundry",
@@ -1648,6 +1692,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "816"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3679",
+  "Customer Details" : "ali c 38 chattarpur",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "744"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
