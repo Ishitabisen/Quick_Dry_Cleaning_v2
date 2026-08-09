@@ -406,6 +406,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1250"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19746",
+  "Customer Details" : "Abhik Prabhu Chattarpur",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "14 Aug 2026",
+  "Garment Details Qty Wise" : "12-SHIRT, 6-T SHIRT",
+  "Qty" : "18",
+  "Pcs" : "18",
+  "Amount without Tax & Discount" : "2520"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -570,6 +581,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19746",
+  "Customer Details" : "Abhik Prabhu Chattarpur",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "14 Aug 2026",
+  "Garment Details Qty Wise" : "12-SHIRT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "120"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
