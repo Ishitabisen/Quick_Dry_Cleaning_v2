@@ -615,10 +615,21 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "909"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19744",
+  "Customer Details" : "dana f 42 green park 3rd floor",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-NON LEATHER HANDBAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "709"
+}, {
   "Service Name" : "Softner",
   "Store Name" : "Greenpark",
   "Order Number" : "G19704",
-  "Customer Details" : "laavanya gupta c7 235 sda",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
   "Order Date" : "02 Aug 2026",
   "Due Date" : "06 Aug 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -725,6 +736,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19744",
+  "Customer Details" : "dana f 42 green park 3rd floor",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "150"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19695",
@@ -772,7 +794,7 @@
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19704",
-  "Customer Details" : "laavanya gupta c7 235 sda",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
   "Order Date" : "02 Aug 2026",
   "Due Date" : "06 Aug 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
@@ -1120,6 +1142,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1880"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5090",
+  "Customer Details" : "pratistha ghosh E 850 top floor c r park",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 4-KAMEEZ /KURTA (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1860"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
