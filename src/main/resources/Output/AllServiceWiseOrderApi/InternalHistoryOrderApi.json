@@ -384,6 +384,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "720"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19742",
+  "Customer Details" : "Arjun A2/25 SJE",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "1-DRESS (MEDIUM)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19743",
+  "Customer Details" : "babita goyal C4 45 sda",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "14 Aug 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 2-KAMEEZ /KURTA (HEAVY), 2-PYJAMA",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1250"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
