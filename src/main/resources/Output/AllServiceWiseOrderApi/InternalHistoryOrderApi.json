@@ -362,6 +362,28 @@
   "Pcs" : "9",
   "Amount without Tax & Discount" : "1550"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19740",
+  "Customer Details" : "Shakti Delhi police",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "620"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19741",
+  "Customer Details" : "shilpy jain c 23 green park mains 3rd floor",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "13 Aug 2026",
+  "Garment Details Qty Wise" : "2-JACKET",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1649,6 +1671,17 @@
   "Pcs" : "22",
   "Amount without Tax & Discount" : "3078"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3250",
+  "Customer Details" : "Rakesh Kumar c 241",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "4-CURTAIN (8 FEET WITHOUT LINING), 4-CURTAIN (VELVET) WITH LINING, 4-CURTAIN BELT",
+  "Qty" : "12",
+  "Pcs" : "12",
+  "Amount without Tax & Discount" : "16040"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3245",
@@ -1681,6 +1714,17 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "540"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3249",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "09 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-HEEL, 1-SPORTS SHOES",
+  "Qty" : "2",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1339"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Defence Colony",
