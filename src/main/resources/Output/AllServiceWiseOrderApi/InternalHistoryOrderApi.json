@@ -593,6 +593,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "1380"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19771",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "16 Aug 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT, 1-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "760"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1748,6 +1759,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "594"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5095",
+  "Customer Details" : "Bhumika 8/52 Lower Ground Floor Pocket 52 Chittaranjan Park New Delhi 110019",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "783"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C5064",
@@ -2209,6 +2231,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "666"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3689",
+  "Customer Details" : "binita srivastava k2d saket 2th flor",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "711"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
