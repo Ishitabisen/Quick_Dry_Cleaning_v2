@@ -538,6 +538,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1140"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19766",
+  "Customer Details" : "adam K72 hauz khas enclave",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "16 Aug 2026",
+  "Garment Details Qty Wise" : "1-BLANKET (EXTRA HEAVEY)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "620"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1913,6 +1924,28 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "750"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3687",
+  "Customer Details" : "bhavishah a 8 golf view apartment",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "3-KAMEEZ /KURTA (HEAVY), 2-KURTA LIGHT, 2-PYJAMA, 2-PYJAMA (LIGHT)",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "2330"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3688",
+  "Customer Details" : "bhavishah a 8 golf view apartment",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "3-KAMEEZ /KURTA (HEAVY), 2-KURTA LIGHT, 2-PYJAMA",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1990"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
@@ -2022,6 +2055,28 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "1040"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3687",
+  "Customer Details" : "bhavishah a 8 golf view apartment",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-PYJAMA",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3688",
+  "Customer Details" : "bhavishah a 8 golf view apartment",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-PYJAMA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "90"
 }, {
   "Service Name" : "Starch",
   "Store Name" : "Saket",
@@ -2473,4 +2528,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "2160"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3258",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "15 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1500"
 } ]
