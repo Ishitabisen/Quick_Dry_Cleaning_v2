@@ -101,7 +101,7 @@
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Greenpark",
   "Order Number" : "G19697",
-  "Customer Details" : "Dicky 77 humayu pur",
+  "Customer Details" : "Dicky 77b Humayunpur chowk 3rd floor",
   "Order Date" : "01 Aug 2026",
   "Due Date" : "05 Aug 2026",
   "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA, 1-QUILT DOUBLE",
@@ -167,7 +167,7 @@
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Greenpark",
   "Order Number" : "G19711",
-  "Customer Details" : "Dicky 77 humayu pur",
+  "Customer Details" : "Dicky 77b Humayunpur chowk 3rd floor",
   "Order Date" : "05 Aug 2026",
   "Due Date" : "09 Aug 2026",
   "Garment Details Qty Wise" : "1-BED SPREAD DOUBLE",
@@ -603,6 +603,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "760"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19772",
+  "Customer Details" : "Sangeeta rathee e 17 2nd floor green park main",
+  "Order Date" : "12 Aug 2026",
+  "Due Date" : "16 Aug 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
