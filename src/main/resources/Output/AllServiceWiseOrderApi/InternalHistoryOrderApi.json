@@ -714,6 +714,17 @@
   "Pcs" : "16",
   "Amount without Tax & Discount" : "5870"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19785",
+  "Customer Details" : "shiv ram B5  green park",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-DRESS (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-SALWAR",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "970"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -2001,6 +2012,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "783"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5100",
+  "Customer Details" : "adhiraj singh 12/1 okhla phes 2",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "576"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C5064",
@@ -2463,6 +2485,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "709"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3697",
+  "Customer Details" : "maneet saket",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "709"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
   "Order Number" : "S3665",
@@ -2583,6 +2616,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "711"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3695",
+  "Customer Details" : "aliya nazeern D 28 golf view apartment 2 nd floor",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "558"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Saket",
+  "Order Number" : "S3696",
+  "Customer Details" : "manoj rao saket store",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
