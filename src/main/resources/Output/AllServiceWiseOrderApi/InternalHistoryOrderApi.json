@@ -736,6 +736,17 @@
   "Pcs" : "22",
   "Amount without Tax & Discount" : "5160"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19787",
+  "Customer Details" : "pallavi barua E11",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "2-KAMEEZ /KURTA (LIGHT), 2-PALAZO",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "880"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
