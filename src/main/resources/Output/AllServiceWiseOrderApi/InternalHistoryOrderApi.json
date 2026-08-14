@@ -2925,6 +2925,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3260",
+  "Customer Details" : "Vikram  C 242  G Floor",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 1-BED SPREAD SINGLE, 1-HAND TOWEL, 4-PILLOW COVERS (SILK), 1-QUILT COVER  (SINGLE), 1-TOWEL",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1799"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3262",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 5-SHIRT, 2-UNDERSHIRT",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "1298"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3245",
@@ -3012,6 +3034,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3261",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "14 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "540"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Defence Colony",
