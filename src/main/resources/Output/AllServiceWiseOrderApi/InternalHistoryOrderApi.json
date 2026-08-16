@@ -2430,6 +2430,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1910"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3699",
+  "Customer Details" : "prahari saket  pvr",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "1-JACKET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
@@ -2792,6 +2803,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3698",
+  "Customer Details" : "prahari saket  pvr",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Defence Colony",
