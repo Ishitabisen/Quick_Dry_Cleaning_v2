@@ -747,6 +747,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "880"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19788",
+  "Customer Details" : "vikram singh arya B8 gf green park main",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
