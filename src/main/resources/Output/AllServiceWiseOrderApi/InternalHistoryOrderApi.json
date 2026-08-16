@@ -3221,4 +3221,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1500"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3265",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1620"
 } ]
