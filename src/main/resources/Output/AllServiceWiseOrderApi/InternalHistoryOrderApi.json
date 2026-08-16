@@ -1407,6 +1407,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "285"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19794",
+  "Customer Details" : "Rohit C 45 GREEN PARK MAIN",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-ANARKALI KURTA  HEAVY, 1-CHOLI / BLOUSE (HEAVY), 1-PETTI COAT, 1-SAREE (EMBROIDERED/HEAVY))",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1440"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G19695",
@@ -2473,6 +2484,17 @@
   "Qty" : "13",
   "Pcs" : "13",
   "Amount without Tax & Discount" : "3980"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3702",
+  "Customer Details" : "sanchita e 96 1st floor saket",
+  "Order Date" : "16 Aug 2026",
+  "Due Date" : "20 Aug 2026",
+  "Garment Details Qty Wise" : "3-SWEATER (FULL SLEEVE)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "960"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
