@@ -890,6 +890,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19804",
+  "Customer Details" : "richa issar B1 77 sj enclave 1st flr",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "590"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1249,6 +1260,17 @@
   "Order Date" : "17 Aug 2026",
   "Due Date" : "22 Aug 2026",
   "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19804",
+  "Customer Details" : "richa issar B1 77 sj enclave 1st flr",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
@@ -3162,6 +3184,17 @@
   "Customer Details" : "prahari saket  pvr",
   "Order Date" : "16 Aug 2026",
   "Due Date" : "17 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "900"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Saket",
+  "Order Number" : "S3710",
+  "Customer Details" : "prahari saket  pvr",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "19 Aug 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
