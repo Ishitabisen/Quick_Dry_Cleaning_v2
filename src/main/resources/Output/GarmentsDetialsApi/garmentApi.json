@@ -19,10 +19,10 @@
   "Discount" : "169.83",
   "Net Amount" : "0.17",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -46,10 +46,10 @@
   "Discount" : "139.86",
   "Net Amount" : "0.14",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -73,10 +73,10 @@
   "Discount" : "70.90",
   "Net Amount" : "638.10",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -100,10 +100,10 @@
   "Discount" : "70.90",
   "Net Amount" : "638.10",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -127,10 +127,10 @@
   "Discount" : "90.90",
   "Net Amount" : "818.10",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -154,10 +154,10 @@
   "Discount" : "0.00",
   "Net Amount" : "130.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -181,10 +181,10 @@
   "Discount" : "0.00",
   "Net Amount" : "140.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -208,10 +208,10 @@
   "Discount" : "0.00",
   "Net Amount" : "320.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -235,10 +235,10 @@
   "Discount" : "0.00",
   "Net Amount" : "320.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -262,10 +262,10 @@
   "Discount" : "0.00",
   "Net Amount" : "170.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -289,10 +289,10 @@
   "Discount" : "0.00",
   "Net Amount" : "170.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -316,10 +316,10 @@
   "Discount" : "0.00",
   "Net Amount" : "360.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -343,10 +343,10 @@
   "Discount" : "0.00",
   "Net Amount" : "509.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -370,10 +370,10 @@
   "Discount" : "0.00",
   "Net Amount" : "509.00",
   "Package" : "",
-  "Garment Status" : "Unprocessed",
-  "Send to Workshop" : "No",
-  "Workshop (Name)" : "",
-  "Send on" : "",
+  "Garment Status" : "Received at greenpark",
+  "Send to Workshop" : "Yes",
+  "Workshop (Name)" : "WSGP - Dry wasche GP",
+  "Send on" : "17 Aug 2026",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
