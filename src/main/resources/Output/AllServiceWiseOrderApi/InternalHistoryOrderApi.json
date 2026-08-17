@@ -2540,6 +2540,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "470"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3706",
+  "Customer Details" : "suresh balai saket polic",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3662",
