@@ -857,6 +857,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "940"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19801",
+  "Customer Details" : "prem chand Greenpark",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "2-BED SPREAD DOUBLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "820"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1274,6 +1285,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1120"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19800",
+  "Customer Details" : "prem chand Greenpark",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "528"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
@@ -2242,6 +2264,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "744"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5102",
+  "Customer Details" : "Debika Pattanayak C428 4th floor CR PARK",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "660"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
@@ -3331,6 +3364,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "1060"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3266",
+  "Customer Details" : "Arjun c 212 3rd flore defence colony",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "2-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
 }, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
