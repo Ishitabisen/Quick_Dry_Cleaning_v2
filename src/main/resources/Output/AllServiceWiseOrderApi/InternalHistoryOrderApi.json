@@ -835,6 +835,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19798",
+  "Customer Details" : "Rinki dahiya Green park main near evergreen",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA, 1-SHIRT, 1-T SHIRT, 1-TOP (LIGHT), 1-WAIST COAT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1560"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
