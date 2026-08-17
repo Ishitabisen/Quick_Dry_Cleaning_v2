@@ -846,6 +846,17 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1560"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19799",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "940"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1172,6 +1183,17 @@
   "Order Date" : "17 Aug 2026",
   "Due Date" : "21 Aug 2026",
   "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19799",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
@@ -2011,6 +2033,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "890"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5101",
+  "Customer Details" : "Biplip Guest house",
+  "Order Date" : "17 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "3-DRESS (LIGHT)",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1080"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
