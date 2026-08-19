@@ -1011,6 +1011,17 @@
   "Pcs" : "12",
   "Amount without Tax & Discount" : "1680"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19822",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-BED SHEET DOUBLE, 1-BED SPREAD DOUBLE, 2-KURTA LIGHT, 1-PYJAMA (LIGHT), 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "2330"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1429,6 +1440,17 @@
   "Pcs" : "12",
   "Amount without Tax & Discount" : "120"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19822",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19700",
@@ -1787,10 +1809,10 @@
   "Customer Details" : "nishant datta e5 gp main",
   "Order Date" : "19 Aug 2026",
   "Due Date" : "20 Aug 2026",
-  "Garment Details Qty Wise" : "3-DUPATTA (HEAVY), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Garment Details Qty Wise" : "3-DUPATTA (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
   "Qty" : "4",
   "Pcs" : "4",
-  "Amount without Tax & Discount" : "1065"
+  "Amount without Tax & Discount" : "727.5"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
@@ -1802,6 +1824,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "410"
+}, {
+  "Service Name" : "Starch",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19822",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "70"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -3761,6 +3794,17 @@
   "Pcs" : "15",
   "Amount without Tax & Discount" : "2570"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3268",
+  "Customer Details" : "Amit Kumar c 17 2nd floreJangpura Extension near Kashmiri park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 2-PANTS",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "530"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3245",
@@ -3805,6 +3849,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1339"
 }, {
+  "Service Name" : "Premium Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3268",
+  "Customer Details" : "Amit Kumar c 17 2nd floreJangpura Extension near Kashmiri park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "6-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1020"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3232",
@@ -3815,6 +3870,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3268",
+  "Customer Details" : "Amit Kumar c 17 2nd floreJangpura Extension near Kashmiri park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
@@ -3914,4 +3980,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1620"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3269",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "22 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1440"
 } ]
