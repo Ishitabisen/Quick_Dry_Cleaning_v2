@@ -1891,6 +1891,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "540"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19823",
+  "Customer Details" : "parth gupta d 10 3 rd floor green park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "477"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19698",
@@ -2397,6 +2408,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1080"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5105",
+  "Customer Details" : "Perrine L K1/9 second floor CR park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-KURTA LIGHT, 1-PETTI COAT, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1170"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5106",
+  "Customer Details" : "virendar kashana D 738 3rd floor c r park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -2594,6 +2627,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "495"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5104",
+  "Customer Details" : "faraz 1651 i  block 2 nd floor  c r park",
+  "Order Date" : "19 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "648"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
