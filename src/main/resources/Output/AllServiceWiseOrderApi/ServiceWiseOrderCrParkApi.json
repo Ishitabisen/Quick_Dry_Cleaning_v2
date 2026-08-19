@@ -30,14 +30,14 @@
   "Store Name" : "CR Park",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "2493",
-  "Quantity" : "4",
-  "Pcs" : "4"
+  "Amount without Tax & Discount" : "2988",
+  "Quantity" : "5",
+  "Pcs" : "5"
 }, {
   "Store Name" : "CR Park",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "3684",
-  "Quantity" : "3",
-  "Pcs" : "3"
+  "Amount without Tax & Discount" : "3024",
+  "Quantity" : "2",
+  "Pcs" : "2"
 } ]
