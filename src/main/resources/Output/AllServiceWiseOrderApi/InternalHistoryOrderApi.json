@@ -2430,6 +2430,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5107",
+  "Customer Details" : "shashwat bhaskar k 2111 2nd floor c r  park",
+  "Order Date" : "20 Aug 2026",
+  "Due Date" : "21 Aug 2026",
+  "Garment Details Qty Wise" : "1-JEANS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "285"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
