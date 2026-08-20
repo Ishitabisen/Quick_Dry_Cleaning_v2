@@ -1044,6 +1044,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "340"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19828",
+  "Customer Details" : "swati u 20 green park main basment",
+  "Order Date" : "20 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1472,6 +1483,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19828",
+  "Customer Details" : "swati u 20 green park main basment",
+  "Order Date" : "20 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
