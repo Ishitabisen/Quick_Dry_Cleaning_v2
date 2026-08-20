@@ -3849,6 +3849,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "530"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3270",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "20 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-SHIRT, 1-SKIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "770"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3245",
@@ -3859,6 +3870,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "3840"
+}, {
+  "Service Name" : "Home Services",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3270",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "20 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-CARPET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Defence Colony",
