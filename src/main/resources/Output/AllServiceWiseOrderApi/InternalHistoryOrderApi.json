@@ -1132,6 +1132,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "270"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19844",
+  "Customer Details" : "manoj N6 gp",
+  "Order Date" : "21 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "10-T SHIRT, 1-TRACK PANT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "1570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -2309,6 +2320,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1380"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19845",
+  "Customer Details" : "Abi Abraham Arjun nagar sje",
+  "Order Date" : "21 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -2793,6 +2815,28 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1100"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5117",
+  "Customer Details" : "SREEKAR K 1 145 1ST FLOOR",
+  "Order Date" : "21 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "720"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5118",
+  "Customer Details" : "atanu f 1187 1 st floor c r park",
+  "Order Date" : "21 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -2891,6 +2935,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "30"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5117",
+  "Customer Details" : "SREEKAR K 1 145 1ST FLOOR",
+  "Order Date" : "21 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
