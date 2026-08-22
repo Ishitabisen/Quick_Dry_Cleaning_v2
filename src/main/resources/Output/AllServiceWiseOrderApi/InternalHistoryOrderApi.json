@@ -1781,6 +1781,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "320"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19851",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "800"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G19709",
@@ -1868,6 +1879,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "90"
+}, {
+  "Service Name" : "Softner",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19851",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "50"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
@@ -3112,6 +3134,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1310"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5123",
+  "Customer Details" : "ryan i 1738 c r park",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "28 Aug 2026",
+  "Garment Details Qty Wise" : "1-SPORTS SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "509"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C5103",
@@ -3837,6 +3870,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1328"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Saket",
+  "Order Number" : "S3721",
+  "Customer Details" : "raja E block 94 3th flor saket",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1296"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
