@@ -14,6 +14,13 @@
   "Pcs" : "3"
 }, {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Premium Laundry",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "1360",
+  "Quantity" : "1",
+  "Pcs" : "1"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Leather Care",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "2619",
@@ -44,7 +51,7 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "9468",
-  "Quantity" : "6",
-  "Pcs" : "6"
+  "Amount without Tax & Discount" : "10428",
+  "Quantity" : "7",
+  "Pcs" : "7"
 } ]

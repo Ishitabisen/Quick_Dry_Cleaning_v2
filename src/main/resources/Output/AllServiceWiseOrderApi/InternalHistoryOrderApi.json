@@ -4443,6 +4443,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3275",
+  "Customer Details" : "Gaurav saini defence",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1360"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3242",
@@ -4618,4 +4629,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3274",
+  "Customer Details" : "Katherine C 265 GF",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "960"
 } ]
