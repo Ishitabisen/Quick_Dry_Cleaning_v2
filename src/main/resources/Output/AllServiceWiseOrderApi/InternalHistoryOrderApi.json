@@ -2221,6 +2221,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "477"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19855",
+  "Customer Details" : "DIVVYA 49/1 GALI  NO 3 ARJUN NAGAR",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "24 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19698",
