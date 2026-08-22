@@ -1154,6 +1154,17 @@
   "Pcs" : "14",
   "Amount without Tax & Discount" : "2760"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19849",
+  "Customer Details" : "priya chopra c5 22 s d a ground floor",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 2-PANTS, 4-SHIRT, 2-T SHIRT, 1-TRACK PANT, 1-TSHIRT (WOOLEN)",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "1880"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -1638,6 +1649,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "40"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19850",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "30"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19700",
@@ -2055,6 +2077,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "375"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19850",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "23 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "247.5"
 }, {
   "Service Name" : "Starch",
   "Store Name" : "Greenpark",
@@ -3694,6 +3727,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "660"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3720",
+  "Customer Details" : "roohani singh d 141 1st floor sai baba mandir saket",
+  "Order Date" : "22 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "1-KURTA HEAVY, 1-SWEAT SHIRT, 1-T SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "780"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
