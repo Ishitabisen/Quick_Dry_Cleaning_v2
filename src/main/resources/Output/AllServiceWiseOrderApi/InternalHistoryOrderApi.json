@@ -3046,6 +3046,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "2040"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5124",
+  "Customer Details" : "sangeeta roy C538 1ST FLOOR  CR PARK",
+  "Order Date" : "23 Aug 2026",
+  "Due Date" : "28 Aug 2026",
+  "Garment Details Qty Wise" : "1-SHIRT, 1-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
