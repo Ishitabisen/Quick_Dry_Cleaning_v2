@@ -1297,6 +1297,28 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1010"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19869",
+  "Customer Details" : "manoj N6 gp",
+  "Order Date" : "24 Aug 2026",
+  "Due Date" : "28 Aug 2026",
+  "Garment Details Qty Wise" : "1-T SHIRT, 1-TRACK PANT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "310"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19870",
+  "Customer Details" : "DINESH GLOBAL STAR  EXT",
+  "Order Date" : "24 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "2-QUILT DOUBLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "1140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
