@@ -3266,6 +3266,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "360"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5128",
+  "Customer Details" : "AKSHEY SHARMA E 860 G FLOOR  C R PARK",
+  "Order Date" : "24 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT, 2-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "640"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -3375,6 +3386,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5128",
+  "Customer Details" : "AKSHEY SHARMA E 860 G FLOOR  C R PARK",
+  "Order Date" : "24 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
