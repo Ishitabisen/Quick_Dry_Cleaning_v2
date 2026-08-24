@@ -44,14 +44,14 @@
   "Store Name" : "Saket",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "2844",
-  "Quantity" : "5",
-  "Pcs" : "5"
+  "Amount without Tax & Discount" : "3294",
+  "Quantity" : "6",
+  "Pcs" : "6"
 }, {
   "Store Name" : "Saket",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "9480",
-  "Quantity" : "12",
-  "Pcs" : "12"
+  "Amount without Tax & Discount" : "10080",
+  "Quantity" : "13",
+  "Pcs" : "13"
 } ]
