@@ -7,6 +7,13 @@
   "Pcs" : "234"
 }, {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Hanger",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "20",
+  "Quantity" : "9",
+  "Pcs" : "9"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Home Services",
   "Service Type" : "Primary Service",
   "Amount without Tax & Discount" : "4440",
@@ -37,9 +44,9 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "740",
-  "Quantity" : "6",
-  "Pcs" : "6"
+  "Amount without Tax & Discount" : "5420",
+  "Quantity" : "22",
+  "Pcs" : "22"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Fold",

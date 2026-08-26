@@ -5136,6 +5136,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3279",
+  "Customer Details" : "Rakesh Kumar c 241",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "9-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "9",
+  "Pcs" : "9",
+  "Amount without Tax & Discount" : "20"
+}, {
   "Service Name" : "Home Services",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3245",
@@ -5234,6 +5245,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3279",
+  "Customer Details" : "Rakesh Kumar c 241",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "26 Aug 2026",
+  "Garment Details Qty Wise" : "7-CHOLI / BLOUSE (LIGHT), 9-SAREE (COTTON/SYN/LIGHT)",
+  "Qty" : "16",
+  "Pcs" : "16",
+  "Amount without Tax & Discount" : "4680"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
