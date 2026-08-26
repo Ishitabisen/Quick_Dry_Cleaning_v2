@@ -1330,6 +1330,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "690"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19874",
+  "Customer Details" : "Rinki dahiya Green park main near evergreen",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "30 Aug 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-JACKET, 2-JEANS, 1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA, 1-TOP (MEDIUM)",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1610"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -3332,6 +3343,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1280"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5133",
+  "Customer Details" : "Vivek employee",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5060",
@@ -5212,6 +5234,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1110"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3281",
+  "Customer Details" : "Manuj Gupta A 169 terrace",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "1-JACKET, 1-JEANS, 1-SHIRT, 3-T SHIRT, 1-UNDERSHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1219"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Defence Colony",
