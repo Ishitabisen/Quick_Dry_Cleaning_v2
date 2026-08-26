@@ -2,16 +2,16 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "59621",
-  "Quantity" : "234",
-  "Pcs" : "234"
+  "Amount without Tax & Discount" : "60731",
+  "Quantity" : "237",
+  "Pcs" : "237"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "20",
-  "Quantity" : "9",
-  "Pcs" : "9"
+  "Amount without Tax & Discount" : "50",
+  "Quantity" : "12",
+  "Pcs" : "12"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Home Services",
@@ -47,6 +47,13 @@
   "Amount without Tax & Discount" : "5420",
   "Quantity" : "22",
   "Pcs" : "22"
+}, {
+  "Store Name" : "Defence Colony",
+  "Service Name" : "Starch",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "240",
+  "Quantity" : "3",
+  "Pcs" : "3"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Wash and Fold",
