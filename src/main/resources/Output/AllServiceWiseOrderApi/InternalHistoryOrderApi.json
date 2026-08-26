@@ -1363,6 +1363,17 @@
   "Pcs" : "12",
   "Amount without Tax & Discount" : "1810"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19877",
+  "Customer Details" : "Rakesh Gupta Y15 Green Park main GFNew Delhi",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "2-QUILT DOUBLE",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "1140"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
