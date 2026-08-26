@@ -2023,6 +2023,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "480"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19873",
+  "Customer Details" : "shaurya patel x 34 green park main",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "28 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "640"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G19709",
@@ -2484,6 +2495,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "2520"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19872",
+  "Customer Details" : "shaurya patel x 34 green park main",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "28 Aug 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "648"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
