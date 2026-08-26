@@ -1385,6 +1385,17 @@
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1070"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19879",
+  "Customer Details" : "Alok 77/3 krishna nagar",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "29 Aug 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -3419,6 +3430,17 @@
   "Qty" : "2",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5136",
+  "Customer Details" : "ananya ghosh H/1498 2nd floor c r park",
+  "Order Date" : "26 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
