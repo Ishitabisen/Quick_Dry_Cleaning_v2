@@ -1572,6 +1572,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "420"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19904",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "05 Sep 2026",
+  "Garment Details Qty Wise" : "1-QUILT SINGLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19909",
+  "Customer Details" : "Rinki dahiya Green park main near evergreen",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "05 Sep 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-KAMEEZ /KURTA (HEAVY), 1-SLACKS, 2-T SHIRT, 1-TOP (MEDIUM)",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1270"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19687",
@@ -2144,6 +2166,28 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "60"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19907",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "60"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19908",
+  "Customer Details" : "mery f 42 gp main  floor 3 rd",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "3-SHIRT",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "30"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19700",
@@ -2298,6 +2342,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "640"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19906",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "04 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "2240"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G19709",
@@ -2407,6 +2462,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "50"
+}, {
+  "Service Name" : "Softner",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19910",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "04 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "80"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
@@ -2660,6 +2726,28 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1090"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19907",
+  "Customer Details" : "Ashok H 35 green park extension",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "510"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19908",
+  "Customer Details" : "mery f 42 gp main  floor 3 rd",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "3-SHIRT, 2-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "375"
 }, {
   "Service Name" : "Starch",
   "Store Name" : "Greenpark",
@@ -3111,6 +3199,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1104"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19905",
+  "Customer Details" : "parth noida",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "03 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "756"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19910",
+  "Customer Details" : "laavanya gupta c7/235 2nd floor  sda",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "04 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "960"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -4201,6 +4311,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "765"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5147",
+  "Customer Details" : "anubhav 459/ fast floor mandakini enclave alaknanda",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "04 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1458"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C5064",
@@ -4904,6 +5025,17 @@
   "Qty" : "12",
   "Pcs" : "12",
   "Amount without Tax & Discount" : "4740"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3747",
+  "Customer Details" : "aarti chaudhary d 20 golf view apartment",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "04 Sep 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
@@ -6389,4 +6521,15 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1356"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3291",
+  "Customer Details" : "Enoki c 223",
+  "Order Date" : "31 Aug 2026",
+  "Due Date" : "02 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 } ]
