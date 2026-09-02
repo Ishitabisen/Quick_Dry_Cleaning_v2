@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "Store Name" : "CR Park",
+  "Service Name" : "Dry Cleaning",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "360",
+  "Quantity" : "1",
+  "Pcs" : "1"
+}, {
+  "Store Name" : "CR Park",
+  "Service Name" : "Wash and Iron",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "876",
+  "Quantity" : "1",
+  "Pcs" : "1"
+} ]

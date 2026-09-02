@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "Store Name" : "Saket",
+  "Service Name" : "Dry Cleaning",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "3480",
+  "Quantity" : "17",
+  "Pcs" : "17"
+}, {
+  "Store Name" : "Saket",
+  "Service Name" : "Starch",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "260",
+  "Quantity" : "13",
+  "Pcs" : "13"
+} ]

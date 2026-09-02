@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "Store Name" : "Greenpark",
+  "Service Name" : "Dry Cleaning",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "640",
+  "Quantity" : "3",
+  "Pcs" : "3"
+}, {
+  "Store Name" : "Greenpark",
+  "Service Name" : "Hanger",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "10",
+  "Quantity" : "1",
+  "Pcs" : "1"
+} ]
