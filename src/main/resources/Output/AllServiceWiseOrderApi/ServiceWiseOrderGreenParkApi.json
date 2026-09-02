@@ -2,14 +2,21 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "640",
-  "Quantity" : "3",
-  "Pcs" : "3"
+  "Amount without Tax & Discount" : "19580",
+  "Quantity" : "102",
+  "Pcs" : "102"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "10",
+  "Amount without Tax & Discount" : "470",
+  "Quantity" : "47",
+  "Pcs" : "47"
+}, {
+  "Store Name" : "Greenpark",
+  "Service Name" : "Starch",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "40",
   "Quantity" : "1",
   "Pcs" : "1"
 } ]
