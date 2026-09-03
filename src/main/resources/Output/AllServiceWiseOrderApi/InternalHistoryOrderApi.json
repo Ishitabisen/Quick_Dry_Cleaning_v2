@@ -373,6 +373,28 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1998"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3754",
+  "Customer Details" : "MRS RUDRA A 14 2ND FLOOR PRESS ENCLAVE",
+  "Order Date" : "03 Sep 2026",
+  "Due Date" : "06 Sep 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "560"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3755",
+  "Customer Details" : "Umar malviya nagar metro",
+  "Order Date" : "03 Sep 2026",
+  "Due Date" : "06 Sep 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Starch",
   "Store Name" : "Saket",
   "Order Number" : "S3749",
