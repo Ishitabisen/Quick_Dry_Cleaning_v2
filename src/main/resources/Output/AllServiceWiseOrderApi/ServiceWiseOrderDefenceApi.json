@@ -5,4 +5,11 @@
   "Amount without Tax & Discount" : "410",
   "Quantity" : "1",
   "Pcs" : "2"
+}, {
+  "Store Name" : "Defence Colony",
+  "Service Name" : "Premium Dry Cleaning",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "1700",
+  "Quantity" : "10",
+  "Pcs" : "10"
 } ]
