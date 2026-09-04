@@ -164,6 +164,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "440"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19936",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "04 Sep 2026",
+  "Due Date" : "07 Sep 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "620"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19916",
@@ -306,6 +317,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "792"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19937",
+  "Customer Details" : "dr anish k39 gp main top flr",
+  "Order Date" : "04 Sep 2026",
+  "Due Date" : "07 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
