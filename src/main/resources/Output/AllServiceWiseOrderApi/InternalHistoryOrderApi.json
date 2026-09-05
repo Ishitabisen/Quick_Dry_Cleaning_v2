@@ -175,6 +175,28 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "620"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19938",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "10 Sep 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-DRESS (LIGHT), 2-DUPATTA (LIGHT), 2-KAMEEZ /KURTA (LIGHT), 3-SALWAR, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2340"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19942",
+  "Customer Details" : "Rinki dahiya Green park main near evergreen",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "10 Sep 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 4-KAMEEZ /KURTA (LIGHT), 1-PYJAMA, 2-SALWAR, 1-SHARARA (PLAIN), 1-SHIRT",
+  "Qty" : "10",
+  "Pcs" : "10",
+  "Amount without Tax & Discount" : "2170"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19916",
@@ -252,6 +274,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "40"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19938",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "10 Sep 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 2-KAMEEZ /KURTA (LIGHT), 3-SALWAR",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "70"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19930",
@@ -274,6 +307,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "540"
 }, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19940",
+  "Customer Details" : "Aashna jain t4 first floor green park main",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "12 Sep 2026",
+  "Garment Details Qty Wise" : "1-SPORTS BAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1609"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19935",
@@ -285,6 +329,17 @@
   "Pcs" : "4",
   "Amount without Tax & Discount" : "300"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19939",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "07 Sep 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 2-SALWAR, 1-SKIRT (LONG), 1-TOP (MEDIUM)",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "804"
+}, {
   "Service Name" : "Starch",
   "Store Name" : "Greenpark",
   "Order Number" : "G19925",
@@ -295,6 +350,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Starch",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19938",
+  "Customer Details" : "SHIVANGI AISAN GAME 314AISAN GAMEHAWA SINGH BLOCK",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "10 Sep 2026",
+  "Garment Details Qty Wise" : "1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "70"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -328,6 +394,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19941",
+  "Customer Details" : "Bismaya pradhan Bhagwan Jagannath Mandir Chowk Road Hauz Khas Village Block C Hauz Khas SDA New Delhi Delhi 110016",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "09 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "840"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -537,6 +614,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "570"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3758",
+  "Customer Details" : "k v rao d 184   1st floor saket",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "09 Sep 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "530"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3758",
+  "Customer Details" : "k v rao d 184   1st floor saket",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "09 Sep 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
