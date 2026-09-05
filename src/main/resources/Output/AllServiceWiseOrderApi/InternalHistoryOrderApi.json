@@ -538,6 +538,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "570"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Saket",
+  "Order Number" : "S3757",
+  "Customer Details" : "raja E block 94 3th flor saket",
+  "Order Date" : "05 Sep 2026",
+  "Due Date" : "09 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1776"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
   "Order Number" : "S3756",
