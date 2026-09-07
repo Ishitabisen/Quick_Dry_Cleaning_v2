@@ -2,16 +2,16 @@
   "Store Name" : "Saket",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "13348",
-  "Quantity" : "47",
-  "Pcs" : "47"
+  "Amount without Tax & Discount" : "13828",
+  "Quantity" : "50",
+  "Pcs" : "50"
 }, {
   "Store Name" : "Saket",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
   "Amount without Tax & Discount" : "60",
-  "Quantity" : "6",
-  "Pcs" : "6"
+  "Quantity" : "8",
+  "Pcs" : "8"
 }, {
   "Store Name" : "Saket",
   "Service Name" : "Premium Laundry",
@@ -28,6 +28,13 @@
   "Pcs" : "4"
 }, {
   "Store Name" : "Saket",
+  "Service Name" : "Steam Iron",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "380",
+  "Quantity" : "2",
+  "Pcs" : "2"
+}, {
+  "Store Name" : "Saket",
   "Service Name" : "Starch",
   "Service Type" : "Top Up/Extra Service",
   "Amount without Tax & Discount" : "280",
@@ -37,7 +44,7 @@
   "Store Name" : "Saket",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "1908",
-  "Quantity" : "3",
-  "Pcs" : "3"
+  "Amount without Tax & Discount" : "2388",
+  "Quantity" : "4",
+  "Pcs" : "4"
 } ]
