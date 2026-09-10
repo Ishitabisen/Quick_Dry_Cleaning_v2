@@ -406,6 +406,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "710"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19978",
+  "Customer Details" : "Nama A 10a 2nd floor",
+  "Order Date" : "10 Sep 2026",
+  "Due Date" : "14 Sep 2026",
+  "Garment Details Qty Wise" : "1-QUILT DOUBLE",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "570"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19916",
