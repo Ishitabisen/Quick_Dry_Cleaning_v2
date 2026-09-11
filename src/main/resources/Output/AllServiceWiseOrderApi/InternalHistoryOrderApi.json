@@ -989,6 +989,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "708"
 }, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G19984",
+  "Customer Details" : "Hassan 25/4   Shiva Exports in front of Gopi Restaurant Mandir Vaali Gali Green Park main",
+  "Order Date" : "11 Sep 2026",
+  "Due Date" : "14 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "996"
+}, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
   "Order Number" : "C5152",
@@ -1275,6 +1286,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "513"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5178",
+  "Customer Details" : "pooja sil o 5 2 nd floor c r park",
+  "Order Date" : "11 Sep 2026",
+  "Due Date" : "13 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "CR Park",
   "Order Number" : "C5151",
@@ -1456,11 +1478,11 @@
   "Order Number" : "S3772",
   "Customer Details" : "aarti chaudhary d 20 golf view apartment",
   "Order Date" : "09 Sep 2026",
-  "Due Date" : "12 Sep 2026",
-  "Garment Details Qty Wise" : "6-PANTS",
-  "Qty" : "6",
-  "Pcs" : "6",
-  "Amount without Tax & Discount" : "1020"
+  "Due Date" : "14 Sep 2026",
+  "Garment Details Qty Wise" : "5-PANTS",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "850"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
@@ -1615,6 +1637,17 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "509"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Saket",
+  "Order Number" : "S3779",
+  "Customer Details" : "sarwat ehsan A1 press enclave saket",
+  "Order Date" : "11 Sep 2026",
+  "Due Date" : "17 Sep 2026",
+  "Garment Details Qty Wise" : "1-LEATHER HANDBAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1109"
 }, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Saket",
@@ -2011,6 +2044,17 @@
   "Qty" : "4",
   "Pcs" : "4",
   "Amount without Tax & Discount" : "630"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3318",
+  "Customer Details" : "Pragyan D 350 Defence Colony Coke to back side Service lane next to park",
+  "Order Date" : "11 Sep 2026",
+  "Due Date" : "14 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Defence Colony",
