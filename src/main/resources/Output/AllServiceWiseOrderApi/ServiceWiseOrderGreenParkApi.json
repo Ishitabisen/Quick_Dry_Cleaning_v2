@@ -2,16 +2,16 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "94813",
-  "Quantity" : "407",
-  "Pcs" : "408"
+  "Amount without Tax & Discount" : "97482",
+  "Quantity" : "416",
+  "Pcs" : "417"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "1565",
-  "Quantity" : "151",
-  "Pcs" : "151"
+  "Amount without Tax & Discount" : "1595",
+  "Quantity" : "154",
+  "Pcs" : "154"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Premium Laundry",
@@ -37,9 +37,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "4849",
-  "Quantity" : "40",
-  "Pcs" : "40"
+  "Amount without Tax & Discount" : "5074",
+  "Quantity" : "43",
+  "Pcs" : "43"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Starch",
