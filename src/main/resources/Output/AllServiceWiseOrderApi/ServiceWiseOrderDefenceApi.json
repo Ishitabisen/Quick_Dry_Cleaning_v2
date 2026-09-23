@@ -2,16 +2,16 @@
   "Store Name" : "Defence Colony",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "21159",
-  "Quantity" : "100",
-  "Pcs" : "101"
+  "Amount without Tax & Discount" : "22008",
+  "Quantity" : "105",
+  "Pcs" : "106"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Premium Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "7480",
-  "Quantity" : "44",
-  "Pcs" : "44"
+  "Amount without Tax & Discount" : "11220",
+  "Quantity" : "66",
+  "Pcs" : "66"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Steam Iron",
