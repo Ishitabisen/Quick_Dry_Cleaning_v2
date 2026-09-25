@@ -2,9 +2,9 @@
   "Store Name" : "CR Park",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "55793",
-  "Quantity" : "201",
-  "Pcs" : "201"
+  "Amount without Tax & Discount" : "56333",
+  "Quantity" : "203",
+  "Pcs" : "203"
 }, {
   "Store Name" : "CR Park",
   "Service Name" : "Hanger",
@@ -44,7 +44,7 @@
   "Store Name" : "CR Park",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "6420",
-  "Quantity" : "8",
-  "Pcs" : "8"
+  "Amount without Tax & Discount" : "7212",
+  "Quantity" : "9",
+  "Pcs" : "9"
 } ]
