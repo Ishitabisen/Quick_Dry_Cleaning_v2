@@ -58,14 +58,14 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "8851.5",
-  "Quantity" : "12",
-  "Pcs" : "12"
+  "Amount without Tax & Discount" : "10696.5",
+  "Quantity" : "15",
+  "Pcs" : "15"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "16908",
-  "Quantity" : "22",
-  "Pcs" : "22"
+  "Amount without Tax & Discount" : "17532",
+  "Quantity" : "23",
+  "Pcs" : "23"
 } ]

@@ -2518,6 +2518,39 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
 }, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20107",
+  "Customer Details" : "parth gupta d 10 3 rd floor green park",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "495"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20108",
+  "Customer Details" : "Marina Green park main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "27 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "675"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20109",
+  "Customer Details" : "ilai hauz khas minimalist",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "28 Sep 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "675"
+}, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G19928",
@@ -2759,6 +2792,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "600"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20110",
+  "Customer Details" : "Hassan 25/4   Shiva Exports in front of Gopi Restaurant Mandir Vaali Gali Green Park main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "624"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "CR Park",
@@ -3441,6 +3485,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "688"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5234",
+  "Customer Details" : "pooja sil o 5 2 nd floor c r park",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "800"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
@@ -4244,6 +4299,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1440"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3820",
+  "Customer Details" : "malvika SAKET A93 _3 2nd floor",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "28 Sep 2026",
+  "Garment Details Qty Wise" : "3-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1890"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
@@ -5168,6 +5234,17 @@
   "Qty" : "9",
   "Pcs" : "9",
   "Amount without Tax & Discount" : "2530"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3352",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "02 Oct 2026",
+  "Garment Details Qty Wise" : "2-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "280"
 }, {
   "Service Name" : "Premium Dry Cleaning",
   "Store Name" : "Defence Colony",
