@@ -1297,6 +1297,50 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20111",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "3-BED SPREAD DOUBLE",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1230"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20113",
+  "Customer Details" : "Iti Bhatiya F 23 Green park main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20115",
+  "Customer Details" : "Mahender Mishra D19 A 1st floor green park mains",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 2-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "620"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20116",
+  "Customer Details" : "Abhik Prabhu Chattarpur",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "02 Oct 2026",
+  "Garment Details Qty Wise" : "15-SHIRT, 9-T SHIRT",
+  "Qty" : "24",
+  "Pcs" : "24",
+  "Amount without Tax & Discount" : "3360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G19916",
@@ -1847,6 +1891,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20113",
+  "Customer Details" : "Iti Bhatiya F 23 Green park main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-DRESS (LIGHT)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20116",
+  "Customer Details" : "Abhik Prabhu Chattarpur",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "02 Oct 2026",
+  "Garment Details Qty Wise" : "15-SHIRT",
+  "Qty" : "15",
+  "Pcs" : "15",
+  "Amount without Tax & Discount" : "150"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G19930",
@@ -2001,6 +2067,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "896"
 }, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20112",
+  "Customer Details" : "roy J6 Ground floor Green Park Main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "2080"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Greenpark",
   "Order Number" : "G19929",
@@ -2143,6 +2220,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1310"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20113",
+  "Customer Details" : "Iti Bhatiya F 23 Green park main",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-NON LEATHER HANDBAG",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "709"
 }, {
   "Service Name" : "Shoe Repair",
   "Store Name" : "Greenpark",
@@ -2550,6 +2638,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "675"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20114",
+  "Customer Details" : "debansh sahoo y1 block hauz khas",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1503"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -3376,6 +3475,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "330"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5236",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 3-PANTS, 2-PULLOVER, 5-SHIRT",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "2040"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5158",
@@ -3496,6 +3606,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "800"
+}, {
+  "Service Name" : "Premium Laundry",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5235",
+  "Customer Details" : "Jaskaran Singh E92 2nd Floor Kalkaji",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1600"
 }, {
   "Service Name" : "Leather Care",
   "Store Name" : "CR Park",
@@ -4311,6 +4432,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "1890"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3821",
+  "Customer Details" : "rashmi  n 6 a graund floor saket",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "2-BAG, 1-CHOLI, 1-COAT, 1-GOWN, 3-SCHOOL BAG",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "3177"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3758",
@@ -4431,6 +4563,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "50"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3821",
+  "Customer Details" : "rashmi  n 6 a graund floor saket",
+  "Order Date" : "27 Sep 2026",
+  "Due Date" : "01 Oct 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Saket",
