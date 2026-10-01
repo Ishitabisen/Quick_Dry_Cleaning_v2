@@ -2,70 +2,21 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "154970",
-  "Quantity" : "700",
-  "Pcs" : "703"
+  "Amount without Tax & Discount" : "1470",
+  "Quantity" : "6",
+  "Pcs" : "6"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "2425",
-  "Quantity" : "232",
-  "Pcs" : "232"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Premium Laundry",
-  "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "15504",
-  "Quantity" : "18",
-  "Pcs" : "18"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Leather Care",
-  "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "21228",
-  "Quantity" : "24",
-  "Pcs" : "34"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Shoe Repair",
-  "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "600",
-  "Quantity" : "1",
-  "Pcs" : "1"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Softner",
-  "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "174",
-  "Quantity" : "2",
-  "Pcs" : "2"
+  "Amount without Tax & Discount" : "100",
+  "Quantity" : "8",
+  "Pcs" : "8"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Steam Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "7119",
-  "Quantity" : "58",
-  "Pcs" : "58"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Starch",
-  "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "180",
-  "Quantity" : "3",
-  "Pcs" : "3"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Wash and Fold",
-  "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "12739.5",
-  "Quantity" : "17",
-  "Pcs" : "17"
-}, {
-  "Store Name" : "Greenpark",
-  "Service Name" : "Wash and Iron",
-  "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "18132",
-  "Quantity" : "24",
-  "Pcs" : "24"
+  "Amount without Tax & Discount" : "675",
+  "Quantity" : "4",
+  "Pcs" : "4"
 } ]
