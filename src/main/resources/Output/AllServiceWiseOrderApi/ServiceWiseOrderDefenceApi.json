@@ -1,10 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Service Name" : "Alteration",
+  "Service Type" : "Top Up/Extra Service",
+  "Amount without Tax & Discount" : "350",
+  "Quantity" : "1",
+  "Pcs" : "1"
+}, {
+  "Store Name" : "Defence Colony",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "23842",
-  "Quantity" : "83",
-  "Pcs" : "86"
+  "Amount without Tax & Discount" : "24962",
+  "Quantity" : "86",
+  "Pcs" : "89"
 }, {
   "Store Name" : "Defence Colony",
   "Service Name" : "Hanger",
