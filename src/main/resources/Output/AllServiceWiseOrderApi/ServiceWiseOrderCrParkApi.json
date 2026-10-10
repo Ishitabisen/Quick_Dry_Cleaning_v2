@@ -2,16 +2,16 @@
   "Store Name" : "CR Park",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "13260",
-  "Quantity" : "65",
-  "Pcs" : "65"
+  "Amount without Tax & Discount" : "20753.4",
+  "Quantity" : "89",
+  "Pcs" : "89"
 }, {
   "Store Name" : "CR Park",
   "Service Name" : "Hanger",
   "Service Type" : "Top Up/Extra Service",
-  "Amount without Tax & Discount" : "200",
-  "Quantity" : "20",
-  "Pcs" : "20"
+  "Amount without Tax & Discount" : "230",
+  "Quantity" : "23",
+  "Pcs" : "23"
 }, {
   "Store Name" : "CR Park",
   "Service Name" : "Premium Laundry",
@@ -37,9 +37,9 @@
   "Store Name" : "CR Park",
   "Service Name" : "Wash and Fold",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "1962",
-  "Quantity" : "4",
-  "Pcs" : "4"
+  "Amount without Tax & Discount" : "2466",
+  "Quantity" : "5",
+  "Pcs" : "5"
 }, {
   "Store Name" : "CR Park",
   "Service Name" : "Wash and Iron",
