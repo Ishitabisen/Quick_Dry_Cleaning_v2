@@ -956,6 +956,50 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "520"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20269",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "4-COAT, 1-DUPATTA (LIGHT), 2-SHIRT, 1-SWEATER (FULL SLEEVE), 1-TIE, 2-TOP (MEDIUM)",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "2839"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20271",
+  "Customer Details" : "Ganesh N 3 GP",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "2-COAT, 1-DRESS (LIGHT), 1-SHARARA (PLAIN)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1350"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20272",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "17 Oct 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 3-PANTS, 4-SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1260"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20273",
+  "Customer Details" : "Champili Debbarma 34/1 American institute C/O Satyawati Green park extension block B\nNear Ramson Southend green park",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "5-SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "700"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20139",
@@ -1231,6 +1275,39 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "45"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20268",
+  "Customer Details" : "mukesh b 5 green park main",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "16 Oct 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20269",
+  "Customer Details" : "diana u35a gp main 1st flr",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "4-COAT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "40"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20271",
+  "Customer Details" : "Ganesh N 3 GP",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G20151",
@@ -1351,6 +1428,28 @@
   "Qty" : "1",
   "Pcs" : "2",
   "Amount without Tax & Discount" : "740"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20270",
+  "Customer Details" : "clara f 42 green park main 3rd floor",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "19 Oct 2026",
+  "Garment Details Qty Wise" : "1-LEATHER SHOES",
+  "Qty" : "1",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "740"
+}, {
+  "Service Name" : "Leather Care",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20273",
+  "Customer Details" : "Champili Debbarma 34/1 American institute C/O Satyawati Green park extension block B\nNear Ramson Southend green park",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "1-SLIPPERS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "710"
 }, {
   "Service Name" : "Softner",
   "Store Name" : "Greenpark",
@@ -1483,6 +1582,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "412.5"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20268",
+  "Customer Details" : "mukesh b 5 green park main",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "16 Oct 2026",
+  "Garment Details Qty Wise" : "4-SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "300"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -3024,6 +3134,28 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "1520"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3397",
+  "Customer Details" : "nadia c 238  3th defence",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "1-CARPET",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1250"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3399",
+  "Customer Details" : "anna a151 dc",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 2-SALWAR, 2-SHIRT, 1-SWEAT SHIRT, 1-TOWEL",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1270"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3358",
@@ -3189,6 +3321,17 @@
   "Pcs" : "5",
   "Amount without Tax & Discount" : "850"
 }, {
+  "Service Name" : "Premium Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3399",
+  "Customer Details" : "anna a151 dc",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "18 Oct 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
   "Service Name" : "Steam Iron",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3379",
@@ -3228,6 +3371,17 @@
   "Customer Details" : "Manuj Gupta A 169 terrace",
   "Order Date" : "10 Oct 2026",
   "Due Date" : "14 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3398",
+  "Customer Details" : "Pragyan D 350 Defence Colony Coke to back side Service lane next to park",
+  "Order Date" : "14 Oct 2026",
+  "Due Date" : "17 Oct 2026",
   "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
   "Qty" : "1",
   "Pcs" : "1",
