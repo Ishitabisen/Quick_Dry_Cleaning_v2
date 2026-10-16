@@ -1176,6 +1176,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20298",
+  "Customer Details" : "nimit F16 gp mian gf",
+  "Order Date" : "16 Oct 2026",
+  "Due Date" : "19 Oct 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (HEAVY)",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "370"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20139",
@@ -2462,6 +2473,17 @@
   "Qty" : "3",
   "Pcs" : "3",
   "Amount without Tax & Discount" : "860"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5295",
+  "Customer Details" : "sanjay choudhary F/1180 1st floor c r park",
+  "Order Date" : "16 Oct 2026",
+  "Due Date" : "16 Oct 2026",
+  "Garment Details Qty Wise" : "1-HANDKERCHIEF",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "109"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
