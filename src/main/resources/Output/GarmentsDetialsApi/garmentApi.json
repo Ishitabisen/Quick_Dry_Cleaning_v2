@@ -316,10 +316,10 @@
   "Discount" : "0.00",
   "Net Amount" : "620.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -424,10 +424,10 @@
   "Discount" : "32.00",
   "Net Amount" : "288.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -451,10 +451,10 @@
   "Discount" : "32.00",
   "Net Amount" : "288.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -505,10 +505,10 @@
   "Discount" : "32.00",
   "Net Amount" : "288.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1450,12 +1450,12 @@
   "Discount" : "0.00",
   "Net Amount" : "165.00",
   "Package" : "",
-  "Garment Status" : "Ironing and packaging",
+  "Garment Status" : "Delivered",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
   "Send on" : "17 Oct 2026",
-  "Received from Workshop" : "",
-  "Delivered on" : ""
+  "Received from Workshop" : "17 Oct 2026",
+  "Delivered on" : "17 Oct 2026"
 }, {
   "Store" : "Greenpark",
   "Order #" : "G20306",
@@ -1477,12 +1477,12 @@
   "Discount" : "0.00",
   "Net Amount" : "165.00",
   "Package" : "",
-  "Garment Status" : "Ironing and packaging",
+  "Garment Status" : "Delivered",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
   "Send on" : "17 Oct 2026",
-  "Received from Workshop" : "",
-  "Delivered on" : ""
+  "Received from Workshop" : "17 Oct 2026",
+  "Delivered on" : "17 Oct 2026"
 }, {
   "Store" : "Greenpark",
   "Order #" : "G20307",
@@ -1504,7 +1504,7 @@
   "Discount" : "0.00",
   "Net Amount" : "480.00",
   "Package" : "",
-  "Garment Status" : "Ironing and packaging",
+  "Garment Status" : "Dispatched From Greenpark",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
   "Send on" : "17 Oct 2026",
@@ -1531,10 +1531,10 @@
   "Discount" : "0.00",
   "Net Amount" : "370.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1558,10 +1558,10 @@
   "Discount" : "0.00",
   "Net Amount" : "370.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Unprocessed",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSGP - Dry wasche GP",
-  "Send on" : "17 Oct 2026",
+  "Send on" : "",
   "Received from Workshop" : "",
   "Delivered on" : ""
 }, {
@@ -1828,7 +1828,7 @@
   "Discount" : "0.00",
   "Net Amount" : "540.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Dispatched From Greenpark",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSLC - Leather Vendor",
   "Send on" : "17 Oct 2026",
@@ -1855,7 +1855,7 @@
   "Discount" : "0.00",
   "Net Amount" : "540.00",
   "Package" : "",
-  "Garment Status" : "Received at greenpark",
+  "Garment Status" : "Dispatched From Greenpark",
   "Send to Workshop" : "Yes",
   "Workshop (Name)" : "WSLC - Leather Vendor",
   "Send on" : "17 Oct 2026",

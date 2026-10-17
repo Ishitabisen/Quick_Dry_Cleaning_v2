@@ -1253,6 +1253,17 @@
   "Pcs" : "17",
   "Amount without Tax & Discount" : "5039"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20312",
+  "Customer Details" : "vijeth kanahalli F11 gp main",
+  "Order Date" : "17 Oct 2026",
+  "Due Date" : "22 Oct 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 1-SHIRT, 1-SWEATER (FULL SLEEVE)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "800"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20139",
@@ -3475,6 +3486,17 @@
   "Pcs" : "6",
   "Amount without Tax & Discount" : "1250"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3880",
+  "Customer Details" : "lakshay chattarpur",
+  "Order Date" : "17 Oct 2026",
+  "Due Date" : "21 Oct 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3839",
@@ -3526,6 +3548,17 @@
   "Order Date" : "17 Oct 2026",
   "Due Date" : "21 Oct 2026",
   "Garment Details Qty Wise" : "1-BLAZER",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3880",
+  "Customer Details" : "lakshay chattarpur",
+  "Order Date" : "17 Oct 2026",
+  "Due Date" : "21 Oct 2026",
+  "Garment Details Qty Wise" : "1-COAT",
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
@@ -4156,6 +4189,17 @@
   "Qty" : "5",
   "Pcs" : "5",
   "Amount without Tax & Discount" : "696"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3415",
+  "Customer Details" : "jyoti kumari a 317 3rd floor defence colony",
+  "Order Date" : "17 Oct 2026",
+  "Due Date" : "21 Oct 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 6-SHIRT",
+  "Qty" : "7",
+  "Pcs" : "7",
+  "Amount without Tax & Discount" : "1010"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Defence Colony",
