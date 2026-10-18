@@ -1341,6 +1341,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "890"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20325",
+  "Customer Details" : "gajender Greenpark",
+  "Order Date" : "18 Oct 2026",
+  "Due Date" : "23 Oct 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 4-COAT, 1-PANTS, 1-PETTI COAT, 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY)), 1-SHIRT, 1-TIE",
+  "Qty" : "11",
+  "Pcs" : "11",
+  "Amount without Tax & Discount" : "3039"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20139",
@@ -4497,6 +4508,17 @@
   "Qty" : "7",
   "Pcs" : "7",
   "Amount without Tax & Discount" : "1130"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3421",
+  "Customer Details" : "Uday rao A 44 2nd flore defence colony",
+  "Order Date" : "18 Oct 2026",
+  "Due Date" : "19 Oct 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 2-SHIRT, 2-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "1125"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Defence Colony",
