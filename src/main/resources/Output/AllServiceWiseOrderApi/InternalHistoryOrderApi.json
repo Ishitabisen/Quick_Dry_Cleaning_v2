@@ -2870,6 +2870,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "540"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20382",
+  "Customer Details" : "vikash chopra green park",
+  "Order Date" : "23 Oct 2026",
+  "Due Date" : "25 Oct 2026",
+  "Garment Details Qty Wise" : "2-DRESS (MEDIUM), 3-KAMEEZ /KURTA (LIGHT), 5-PYJAMA, 1-SALWAR, 1-SKIRT, 5-TOP (LIGHT)",
+  "Qty" : "17",
+  "Pcs" : "17",
+  "Amount without Tax & Discount" : "2050"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
   "Order Number" : "G20154",
