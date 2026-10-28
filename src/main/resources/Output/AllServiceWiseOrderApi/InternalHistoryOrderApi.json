@@ -1608,7 +1608,7 @@
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Greenpark",
   "Order Number" : "G20363",
-  "Customer Details" : "kamal shrivastava c 7 sda hauz khas 1st floor 102 number",
+  "Customer Details" : "kamal shrivastava c 7 dda  1st floor 102 number sda",
   "Order Date" : "22 Oct 2026",
   "Due Date" : "26 Oct 2026",
   "Garment Details Qty Wise" : "1-CHOLI  LEHENGA  DUPATTA  HEAVY, 2-DRESS (MEDIUM)",
@@ -2088,6 +2088,94 @@
   "Qty" : "6",
   "Pcs" : "6",
   "Amount without Tax & Discount" : "930"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20430",
+  "Customer Details" : "willson f 9 3rd floor green park main",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 16-SHIRT",
+  "Qty" : "17",
+  "Pcs" : "17",
+  "Amount without Tax & Discount" : "2410"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20431",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "31 Oct 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-SCARF",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "490"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20432",
+  "Customer Details" : "priya chopra c5 22 s d a ground floor",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "3-KAMEEZ /KURTA (LIGHT), 4-PYJAMA, 2-T SHIRT, 5-TOP (LIGHT)",
+  "Qty" : "14",
+  "Pcs" : "14",
+  "Amount without Tax & Discount" : "2720"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20433",
+  "Customer Details" : "Niitom D 10 GREEN PARK MAIN",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20434",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "31 Oct 2026",
+  "Garment Details Qty Wise" : "2-JEANS, 1-PANTS, 1-SHIRT, 1-T SHIRT",
+  "Qty" : "5",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "830"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20436",
+  "Customer Details" : "babita goyal C4 45 sda",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 1-PYJAMA",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "440"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20437",
+  "Customer Details" : "prakhar hauz khas village 51",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "31 Oct 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "140"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20439",
+  "Customer Details" : "Iti Bhatiya F 23 Green park main",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (LIGHT), 1-SALWAR, 1-TOP (MEDIUM)",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "870"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
@@ -2804,6 +2892,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "20"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20430",
+  "Customer Details" : "willson f 9 3rd floor green park main",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 16-SHIRT",
+  "Qty" : "17",
+  "Pcs" : "17",
+  "Amount without Tax & Discount" : "170"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20433",
+  "Customer Details" : "Niitom D 10 GREEN PARK MAIN",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "01 Nov 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "10"
+}, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
   "Order Number" : "G20151",
@@ -3390,7 +3500,7 @@
   "Service Name" : "Steam Iron",
   "Store Name" : "Greenpark",
   "Order Number" : "G20363",
-  "Customer Details" : "kamal shrivastava c 7 sda hauz khas 1st floor 102 number",
+  "Customer Details" : "kamal shrivastava c 7 dda  1st floor 102 number sda",
   "Order Date" : "22 Oct 2026",
   "Due Date" : "26 Oct 2026",
   "Garment Details Qty Wise" : "1-PANTS, 3-SHIRT",
@@ -3540,6 +3650,28 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "215"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20431",
+  "Customer Details" : "nishant datta e5 gp main",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "31 Oct 2026",
+  "Garment Details Qty Wise" : "1-SHIRT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "75"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20438",
+  "Customer Details" : "ashish jaIn f/20 gp mian 1st flr",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "29 Oct 2026",
+  "Garment Details Qty Wise" : "1-PANTS, 1-SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "247.5"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Greenpark",
@@ -3738,6 +3870,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "3600"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20435",
+  "Customer Details" : "westley kui minimalist hauz khas village",
+  "Order Date" : "28 Oct 2026",
+  "Due Date" : "29 Oct 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "675"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
