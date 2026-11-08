@@ -2078,6 +2078,28 @@
   "Pcs" : "8",
   "Amount without Tax & Discount" : "1810"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3977",
+  "Customer Details" : "Megha Nigam Lado sarai  no h F270",
+  "Order Date" : "08 Nov 2026",
+  "Due Date" : "12 Nov 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (HEAVY), 1-DRESS (HEAVY), 1-DUPATTA (HEAVY), 1-LEHNGA (HEAVY), 1-SAREE (COTTON/SYN/LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "2860"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Saket",
+  "Order Number" : "S3978",
+  "Customer Details" : "jayson saket",
+  "Order Date" : "08 Nov 2026",
+  "Due Date" : "12 Nov 2026",
+  "Garment Details Qty Wise" : "1-KURTA HEAVY",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "320"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Saket",
   "Order Number" : "S3955",
@@ -2144,6 +2166,17 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
 }, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Saket",
+  "Order Number" : "S3977",
+  "Customer Details" : "Megha Nigam Lado sarai  no h F270",
+  "Order Date" : "08 Nov 2026",
+  "Due Date" : "12 Nov 2026",
+  "Garment Details Qty Wise" : "1-SAREE (COTTON/SYN/LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "0"
+}, {
   "Service Name" : "Leather Care",
   "Store Name" : "Saket",
   "Order Number" : "S3958",
@@ -2209,6 +2242,17 @@
   "Qty" : "9",
   "Pcs" : "9",
   "Amount without Tax & Discount" : "180"
+}, {
+  "Service Name" : "Starch",
+  "Store Name" : "Saket",
+  "Order Number" : "S3977",
+  "Customer Details" : "Megha Nigam Lado sarai  no h F270",
+  "Order Date" : "08 Nov 2026",
+  "Due Date" : "12 Nov 2026",
+  "Garment Details Qty Wise" : "1-SAREE (COTTON/SYN/LIGHT), 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "40"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Saket",
