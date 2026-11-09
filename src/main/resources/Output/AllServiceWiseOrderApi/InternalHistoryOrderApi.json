@@ -780,6 +780,17 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "820"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20566",
+  "Customer Details" : "Darshna C4/96 Ground Foor SDA",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 2-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "3",
+  "Pcs" : "3",
+  "Amount without Tax & Discount" : "1010"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20476",
@@ -2782,6 +2793,50 @@
   "Pcs" : "15",
   "Amount without Tax & Discount" : "2570"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3476",
+  "Customer Details" : "Mrs Khandwal D 160 1st Defence colony",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "13 Nov 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (LIGHT), 2-KURTA + PANTS/SALWAR/CHURIDAR (PLAIN)",
+  "Qty" : "3",
+  "Pcs" : "5",
+  "Amount without Tax & Discount" : "990"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3477",
+  "Customer Details" : "K P Singh b 27 defence colony",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "1-COAT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "360"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3478",
+  "Customer Details" : "himanshu c 414 defence colony",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "8-PANTS, 12-SHIRT, 1-T SHIRT",
+  "Qty" : "21",
+  "Pcs" : "21",
+  "Amount without Tax & Discount" : "3180"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3480",
+  "Customer Details" : "himanshu c 414 defence colony",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "1-PANTS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "170"
+}, {
   "Service Name" : "Premium Dry Cleaning",
   "Store Name" : "Defence Colony",
   "Order Number" : "D3464",
@@ -2792,6 +2847,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "170"
+}, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "Defence Colony",
+  "Order Number" : "D3479",
+  "Customer Details" : "himanshu c 414 defence colony",
+  "Order Date" : "09 Nov 2026",
+  "Due Date" : "13 Nov 2026",
+  "Garment Details Qty Wise" : "2-PANTS, 6-SHIRT",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "630"
 }, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "Defence Colony",
