@@ -890,6 +890,28 @@
   "Pcs" : "2",
   "Amount without Tax & Discount" : "310"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20579",
+  "Customer Details" : "damandeep singh aiims hostel no 17 room no 502",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "2-COAT, 1-JACKET, 1-SWEATER HALF",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "1350"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20580",
+  "Customer Details" : "akhil gp",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "1-JEANS",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "190"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
   "Order Number" : "G20476",
@@ -1318,6 +1340,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20579",
+  "Customer Details" : "damandeep singh aiims hostel no 17 room no 502",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "2-COAT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "Greenpark",
@@ -2034,6 +2067,61 @@
   "Pcs" : "1",
   "Amount without Tax & Discount" : "190"
 }, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5439",
+  "Customer Details" : "Preety Arora I block 1679 2nd floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "1-KAMEEZ /KURTA (HEAVY), 2-KAMEEZ /KURTA (LIGHT), 8-KURTA HEAVY, 2-PANTS, 1-SKIRT (LONG), 1-TOP (LIGHT)",
+  "Qty" : "15",
+  "Pcs" : "15",
+  "Amount without Tax & Discount" : "4259"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5441",
+  "Customer Details" : "S BANERJEE E 942 G FLOOR C R PARK",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "2-PULLOVER",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "640"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5442",
+  "Customer Details" : "mark D 629 ground floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "1-COAT, 2-JACKET, 1-PANTS, 2-SHIRT",
+  "Qty" : "6",
+  "Pcs" : "6",
+  "Amount without Tax & Discount" : "1530"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5443",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "1-KURTA LIGHT, 1-PANTS, 1-PYJAMA (LIGHT), 1-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "750"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5444",
+  "Customer Details" : "ashu singh F 1171 2nd floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "16 Nov 2026",
+  "Garment Details Qty Wise" : "1-CHOLI / BLOUSE (LIGHT), 1-DUPATTA, 1-DUPATTA (LIGHT), 1-KAMEEZ /KURTA (HEAVY), 1-KURTA, 2-PANTS, 1-SAREE (SILK/CHIFFON/GEORGETTE/PATTU/HEAVY))",
+  "Qty" : "8",
+  "Pcs" : "8",
+  "Amount without Tax & Discount" : "1620"
+}, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
   "Order Number" : "C5381",
@@ -2121,6 +2209,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "10"
+}, {
+  "Service Name" : "Hanger",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5442",
+  "Customer Details" : "mark D 629 ground floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "15 Nov 2026",
+  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "20"
 }, {
   "Service Name" : "Premium Laundry",
   "Store Name" : "CR Park",
@@ -2243,6 +2342,17 @@
   "Pcs" : "3",
   "Amount without Tax & Discount" : "225"
 }, {
+  "Service Name" : "Steam Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5445",
+  "Customer Details" : "haimanti ray B 398 2nd floor c r park",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "13 Nov 2026",
+  "Garment Details Qty Wise" : "1-JEANS, 1-PYJAMA (LIGHT), 2-T SHIRT",
+  "Qty" : "4",
+  "Pcs" : "4",
+  "Amount without Tax & Discount" : "340"
+}, {
   "Service Name" : "Wash and Fold",
   "Store Name" : "CR Park",
   "Order Number" : "C5393",
@@ -2319,6 +2429,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "1344"
+}, {
+  "Service Name" : "Wash and Iron",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5440",
+  "Customer Details" : "S BANERJEE E 942 G FLOOR C R PARK",
+  "Order Date" : "11 Nov 2026",
+  "Due Date" : "14 Nov 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "600"
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Saket",
