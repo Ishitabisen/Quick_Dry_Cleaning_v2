@@ -2,9 +2,9 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Dry Cleaning",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "135579",
-  "Quantity" : "524",
-  "Pcs" : "524"
+  "Amount without Tax & Discount" : "136029",
+  "Quantity" : "525",
+  "Pcs" : "525"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Hanger",
@@ -19,6 +19,13 @@
   "Amount without Tax & Discount" : "5536",
   "Quantity" : "6",
   "Pcs" : "6"
+}, {
+  "Store Name" : "Greenpark",
+  "Service Name" : "Leather Care",
+  "Service Type" : "Primary Service",
+  "Amount without Tax & Discount" : "909",
+  "Quantity" : "1",
+  "Pcs" : "1"
 }, {
   "Store Name" : "Greenpark",
   "Service Name" : "Softner",
@@ -44,7 +51,7 @@
   "Store Name" : "Greenpark",
   "Service Name" : "Wash and Iron",
   "Service Type" : "Primary Service",
-  "Amount without Tax & Discount" : "5862",
-  "Quantity" : "7",
-  "Pcs" : "7"
+  "Amount without Tax & Discount" : "6522",
+  "Quantity" : "8",
+  "Pcs" : "8"
 } ]
