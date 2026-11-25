@@ -2201,17 +2201,6 @@
 }, {
   "Service Name" : "Dry Cleaning",
   "Store Name" : "Greenpark",
-  "Order Number" : "G20738",
-  "Customer Details" : "shilpy jain c 23 green park mains 3rd floor",
-  "Order Date" : "23 Nov 2026",
-  "Due Date" : "27 Nov 2026",
-  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
-  "Qty" : "2",
-  "Pcs" : "2",
-  "Amount without Tax & Discount" : "530"
-}, {
-  "Service Name" : "Dry Cleaning",
-  "Store Name" : "Greenpark",
   "Order Number" : "G20739",
   "Customer Details" : "Harpartap shing d 10 top floor green park main",
   "Order Date" : "23 Nov 2026",
@@ -3367,17 +3356,6 @@
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "Greenpark",
-  "Order Number" : "G20738",
-  "Customer Details" : "shilpy jain c 23 green park mains 3rd floor",
-  "Order Date" : "23 Nov 2026",
-  "Due Date" : "27 Nov 2026",
-  "Garment Details Qty Wise" : "1-COAT, 1-PANTS",
-  "Qty" : "2",
-  "Pcs" : "2",
-  "Amount without Tax & Discount" : "20"
-}, {
-  "Service Name" : "Hanger",
-  "Store Name" : "Greenpark",
   "Order Number" : "G20739",
   "Customer Details" : "Harpartap shing d 10 top floor green park main",
   "Order Date" : "23 Nov 2026",
@@ -4167,6 +4145,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "450"
+}, {
+  "Service Name" : "Wash and Fold",
+  "Store Name" : "Greenpark",
+  "Order Number" : "G20766",
+  "Customer Details" : "debansh sahoo y1 block hauz khas",
+  "Order Date" : "25 Nov 2026",
+  "Due Date" : "29 Nov 2026",
+  "Garment Details Qty Wise" : "1-LAUNDRY GARMENT",
+  "Qty" : "1",
+  "Pcs" : "1",
+  "Amount without Tax & Discount" : "1161"
 }, {
   "Service Name" : "Wash and Iron",
   "Store Name" : "Greenpark",
@@ -5432,6 +5421,17 @@
   "Qty" : "1",
   "Pcs" : "1",
   "Amount without Tax & Discount" : "420"
+}, {
+  "Service Name" : "Dry Cleaning",
+  "Store Name" : "CR Park",
+  "Order Number" : "C5521",
+  "Customer Details" : "Jaydeep H 1477 ground floor c r park",
+  "Order Date" : "25 Nov 2026",
+  "Due Date" : "28 Nov 2026",
+  "Garment Details Qty Wise" : "1-PULLOVER, 1-T SHIRT",
+  "Qty" : "2",
+  "Pcs" : "2",
+  "Amount without Tax & Discount" : "460"
 }, {
   "Service Name" : "Hanger",
   "Store Name" : "CR Park",
